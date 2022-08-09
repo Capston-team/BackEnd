@@ -1,12 +1,12 @@
 const express = require("express"); // express 임포트
 const path = require("path"); // 파일 경로 모듈
 require("dotenv").config({ path: path.join(__dirname, "./env/server.env") }); //dotenv : env 로드 모듈 server.env 환경변수 가져오기
+require("dotenv").config();
 
 const logger = require("./winston");
 const morgan = require("morgan");
 
 const app = express(); // app생성
-const port = 5000;
 
 const combined =
   ':remote-addr - :remote-user ":method :url HTTP/:http-version" :status :res[content-length] ":referrer" ":user-agent"';
@@ -26,4 +26,4 @@ app.use("/capstone", router);
 const { mongoConnection } = require("./database/mongodbConnection");
 mongoConnection();
 
-app.listen(port, () => console.log(`${port}포트입니다.`));
+app.listen(process.env.PORT, () => console.log(`${process.env.PORT}포트입니다.`));
