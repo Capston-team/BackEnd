@@ -1,0 +1,1974 @@
+{
+  "__collections__": {
+    "DOMINO": [
+      {
+        "Branch": "용호점",
+        "Location": "부산광역시 남구 용호로 64",
+        "Latitude": 35.12562357,
+        "Longitude": 129.1106618
+      },
+      {
+        "Branch": "센텀점",
+        "Location": "부산광역시 해운대구 해운대로 535",
+        "Latitude": 35.16033172,
+        "Longitude": 129.1507241
+      },
+      {
+        "Branch": "초읍점",
+        "Location": "부산광역시 부산진구 새싹로 86",
+        "Latitude": 35.16466453,
+        "Longitude": 129.0539597
+      },
+      {
+        "Branch": "괴정점",
+        "Location": "부산광역시 사하구 사하로 169",
+        "Latitude": 35.09691269,
+        "Longitude": 128.9934447
+      },
+      {
+        "Branch": "구서점",
+        "Location": "부산광역시 금정구 금강로 433",
+        "Latitude": 35.24622984,
+        "Longitude": 129.0887025
+      },
+      {
+        "Branch": "부산대점",
+        "Location": "부산광역시 금정구 부곡로 125",
+        "Latitude": 35.22738107,
+        "Longitude": 129.0918121
+      },
+      {
+        "Branch": "해운대점",
+        "Location": "부산광역시 해운대구 해운대로 793",
+        "Latitude": 35.16968655,
+        "Longitude": 129.1752914
+      },
+      {
+        "Branch": "괴정점",
+        "Location": "부산광역시 사하구 사하로 169-1",
+        "Latitude": 35.09699336,
+        "Longitude": 128.9935005
+      },
+      {
+        "Branch": "부산대점",
+        "Location": "부산광역시 금정구 금정로 54",
+        "Latitude": 35.22939466,
+        "Longitude": 129.0864123
+      },
+      {
+        "Branch": "학장점",
+        "Location": "부산광역시 사상구 학감대로 226",
+        "Latitude": 35.15106009,
+        "Longitude": 128.9901295
+      },
+      {
+        "Branch": "디피케이점",
+        "Location": "부산광역시 남구 수영로366번길 2",
+        "Latitude": 35.13945248,
+        "Longitude": 129.1055605
+      },
+      {
+        "Branch": "부산충렬사역점",
+        "Location": "부산광역시 동래구 반송로 217",
+        "Latitude": 35.2003413,
+        "Longitude": 129.0976108
+      },
+      {
+        "Branch": "연산점",
+        "Location": "부산광역시 연제구 중앙대로 1173",
+        "Latitude": 35.19229049,
+        "Longitude": 129.0797252
+      },
+      {
+        "Branch": "연제토곡점",
+        "Location": "부산광역시 연제구 과정로 156",
+        "Latitude": 35.18537915,
+        "Longitude": 129.1074228
+      },
+      {
+        "Branch": "다대포점",
+        "Location": "부산광역시 사하구 다대로 377",
+        "Latitude": 35.06917326,
+        "Longitude": 128.9782961
+      },
+      {
+        "Branch": "하단점",
+        "Location": "부산광역시 사하구 하신중앙로 333",
+        "Latitude": 35.10543307,
+        "Longitude": 128.966422
+      },
+      {
+        "Branch": "기장점",
+        "Location": "부산광역시 기장군 기장읍 차성동로154번길 2",
+        "Latitude": 35.25142946,
+        "Longitude": 129.2174892
+      },
+      {
+        "Branch": "대연점",
+        "Location": "부산광역시 남구 수영로 256",
+        "Latitude": 35.1351352,
+        "Longitude": 129.0945952
+      },
+      {
+        "Branch": "연산점",
+        "Location": "부산광역시 연제구 중앙대로 1184",
+        "Latitude": 35.1932339,
+        "Longitude": 129.0800671
+      },
+      {
+        "Branch": "서면점",
+        "Location": "부산광역시 부산진구 전포대로 195",
+        "Latitude": 35.15413832,
+        "Longitude": 129.0650627
+      },
+      {
+        "Branch": "음성금왕점",
+        "Location": "충청북도 음성군 금왕읍 무극로 198",
+        "Latitude": 36.99067972,
+        "Longitude": 127.5838515
+      },
+      {
+        "Branch": "청주가경점",
+        "Location": "충청북도 청주시 흥덕구 2순환로 1268",
+        "Latitude": 36.62320475,
+        "Longitude": 127.431746
+      },
+      {
+        "Branch": "음성금왕점",
+        "Location": "충청북도 음성군 금왕읍 무극로 200",
+        "Latitude": 36.99066217,
+        "Longitude": 127.5839864
+      },
+      {
+        "Branch": "충북혁신점",
+        "Location": "충청북도 음성군 맹동면 두레로 23",
+        "Latitude": 36.91177727,
+        "Longitude": 127.5478636
+      },
+      {
+        "Branch": "충주점",
+        "Location": "충청북도 충주시 국원대로 152",
+        "Latitude": 36.98500733,
+        "Longitude": 127.9285419
+      },
+      {
+        "Branch": "가경점",
+        "Location": "충청북도 청주시 흥덕구 2순환로 1130",
+        "Latitude": 36.63403666,
+        "Longitude": 127.4241074
+      },
+      {
+        "Branch": "진천점",
+        "Location": "충청북도 진천군 진천읍 원덕로 313",
+        "Latitude": 36.85409015,
+        "Longitude": 127.4489372
+      },
+      {
+        "Branch": "서충주신도시점",
+        "Location": "충청북도 충주시 중앙탑면 기업도시로 189",
+        "Latitude": 37.0139014,
+        "Longitude": 127.8264104
+      },
+      {
+        "Branch": "당진점",
+        "Location": "충청남도 당진시 무수동로 230",
+        "Latitude": 36.89574852,
+        "Longitude": 126.6373264
+      },
+      {
+        "Branch": "서산테크노밸리점",
+        "Location": "충청남도 서산시 성연면 성연4로 27-28",
+        "Latitude": 36.82339181,
+        "Longitude": 126.4499695
+      },
+      {
+        "Branch": "홍성내포점",
+        "Location": "충청남도 홍성군 홍북읍 충남대로 140",
+        "Latitude": 36.65607613,
+        "Longitude": 126.686278
+      },
+      {
+        "Branch": "망향휴게소부산방면",
+        "Location": "충청남도 천안시 서북구 성거읍 돌다리길 23-37",
+        "Latitude": 36.85601704,
+        "Longitude": 127.1812072
+      },
+      {
+        "Branch": "천안성성점",
+        "Location": "충청남도 천안시 서북구 한들1로 152-60",
+        "Latitude": 36.83475636,
+        "Longitude": 127.1203342
+      },
+      {
+        "Branch": "계룡점",
+        "Location": "충청남도 계룡시 엄사면 번영로 12",
+        "Latitude": 36.2882832,
+        "Longitude": 127.2437865
+      },
+      {
+        "Branch": "공주점",
+        "Location": "충청남도 공주시 신관로 31",
+        "Latitude": 36.47068959,
+        "Longitude": 127.131964
+      },
+      {
+        "Branch": "쌍용점",
+        "Location": "충청남도 천안시 서북구 불당5길 19",
+        "Latitude": 36.80315222,
+        "Longitude": 127.1093886
+      },
+      {
+        "Branch": "부여점",
+        "Location": "충청남도 부여군 부여읍 성왕로 318",
+        "Latitude": 36.2834293,
+        "Longitude": 126.9222553
+      },
+      {
+        "Branch": "대구시지점",
+        "Location": "대구광역시 수성구 달구벌대로 3076",
+        "Latitude": 35.84267907,
+        "Longitude": 128.6935512
+      },
+      {
+        "Branch": "침산점",
+        "Location": "대구광역시 북구 침산남로 165-2",
+        "Latitude": 35.88789068,
+        "Longitude": 128.5940499
+      },
+      {
+        "Branch": "대구화원점",
+        "Location": "대구광역시 달성군 화원읍 명천로 255",
+        "Latitude": 35.79783452,
+        "Longitude": 128.4912281
+      },
+      {
+        "Branch": "성서점",
+        "Location": "대구광역시 달서구 달구벌대로259길 33",
+        "Latitude": 35.85450666,
+        "Longitude": 128.5094358
+      },
+      {
+        "Branch": "봉덕지점",
+        "Location": "대구광역시 남구 봉덕로 66",
+        "Latitude": 35.84465432,
+        "Longitude": 128.5976682
+      },
+      {
+        "Branch": "대구현풍점",
+        "Location": "대구광역시 달성군 현풍읍 테크노대로 24",
+        "Latitude": 35.688727,
+        "Longitude": 128.4496012
+      },
+      {
+        "Branch": "이시아폴리스점",
+        "Location": "대구광역시 동구 팔공로 241",
+        "Latitude": 35.92056927,
+        "Longitude": 128.6402567
+      },
+      {
+        "Branch": "만촌점",
+        "Location": "대구광역시 수성구 무열로 113-1",
+        "Latitude": 35.86849031,
+        "Longitude": 128.6488291
+      },
+      {
+        "Branch": "반야월점",
+        "Location": "대구광역시 동구 경안로 799",
+        "Latitude": 35.87359385,
+        "Longitude": 128.713632
+      },
+      {
+        "Branch": "성서점",
+        "Location": "대구광역시 달서구 이곡공원로1길 108",
+        "Latitude": 35.85572642,
+        "Longitude": 128.508735
+      },
+      {
+        "Branch": "산격점",
+        "Location": "대구광역시 달서구 당산로 82",
+        "Latitude": 35.84489833,
+        "Longitude": 128.5464042
+      },
+      {
+        "Branch": "중앙점",
+        "Location": "대구광역시 중구 달구벌대로 1965",
+        "Latitude": 35.86422248,
+        "Longitude": 128.5791795
+      },
+      {
+        "Branch": "대구대봉점",
+        "Location": "대구광역시 중구 동덕로 86",
+        "Latitude": 35.86245451,
+        "Longitude": 128.6032717
+      },
+      {
+        "Branch": "대구성서점",
+        "Location": "대구광역시 달서구 장기로 127",
+        "Latitude": 35.84214066,
+        "Longitude": 128.5463188
+      },
+      {
+        "Branch": "반야월점",
+        "Location": "대구광역시 동구 안심로 283",
+        "Latitude": 35.86619108,
+        "Longitude": 128.7156473
+      },
+      {
+        "Branch": "상인점",
+        "Location": "대구광역시 달서구 월배로 52",
+        "Latitude": 35.81318791,
+        "Longitude": 128.5203593
+      },
+      {
+        "Branch": "둔산점",
+        "Location": "대전광역시 서구 둔산남로 187",
+        "Latitude": 36.34919268,
+        "Longitude": 127.3982257
+      },
+      {
+        "Branch": "용문점",
+        "Location": "대전광역시 서구 도산로 335",
+        "Latitude": 36.33554615,
+        "Longitude": 127.3890295
+      },
+      {
+        "Branch": "가오점",
+        "Location": "대전광역시 동구 은어송로 72",
+        "Latitude": 36.30696645,
+        "Longitude": 127.4579896
+      },
+      {
+        "Branch": "도안점",
+        "Location": "대전광역시 서구 문정로 170",
+        "Latitude": 36.34943124,
+        "Longitude": 127.3954943
+      },
+      {
+        "Branch": "정읍점",
+        "Location": "대전광역시 동구 우암로 88",
+        "Latitude": 36.33731728,
+        "Longitude": 127.4282264
+      },
+      {
+        "Branch": "대덕점",
+        "Location": "대전광역시 유성구 와룡로 3",
+        "Latitude": 36.42846443,
+        "Longitude": 127.3855141
+      },
+      {
+        "Branch": "신탄진점",
+        "Location": "대전광역시 대덕구 신탄진로 800-1",
+        "Latitude": 36.4489842,
+        "Longitude": 127.4295402
+      },
+      {
+        "Branch": "송촌점",
+        "Location": "대전광역시 대덕구 계족산로 25",
+        "Latitude": 36.3621495,
+        "Longitude": 127.4344006
+      },
+      {
+        "Branch": "노은점",
+        "Location": "대전 유성구 노은동로240번길 67",
+        "Latitude": 36.3832957,
+        "Longitude": 127.320858
+      },
+      {
+        "Branch": "월평점",
+        "Location": "대전 서구 월평로 69",
+        "Latitude": 36.356299,
+        "Longitude": 127.3649905
+      },
+      {
+        "Branch": "강릉점",
+        "Location": "강원도 강릉시 성덕포남로 169",
+        "Latitude": 37.7670188,
+        "Longitude": 128.9096371
+      },
+      {
+        "Branch": "춘천후평점",
+        "Location": "강원도 춘천시 춘천로 247",
+        "Latitude": 37.8793271,
+        "Longitude": 127.7409183
+      },
+      {
+        "Branch": "춘천석사점",
+        "Location": "강원도 춘천시 공지로 220",
+        "Latitude": 37.8630125,
+        "Longitude": 127.7393589
+      },
+      {
+        "Branch": "원주명륜점",
+        "Location": "강원도 원주시 남원로 623",
+        "Latitude": 37.3389137,
+        "Longitude": 127.9516037
+      },
+      {
+        "Branch": "원주점",
+        "Location": "강원도 원주시 천사로 155-1",
+        "Latitude": 37.3493567,
+        "Longitude": 127.941521
+      },
+      {
+        "Branch": "속초점",
+        "Location": "강원도 속초시 온천로 287",
+        "Latitude": 38.1930757,
+        "Longitude": 128.5737913
+      },
+      {
+        "Branch": "홍천점",
+        "Location": "강원도 홍천군 홍천읍 홍천로 327",
+        "Latitude": 37.6885641,
+        "Longitude": 127.8817083
+      },
+      {
+        "Branch": "인제원통점",
+        "Location": "강원도 인제군 인제읍 인제로206번길 38 해밀빌딩",
+        "Latitude": 38.0663784,
+        "Longitude": 128.1751116
+      },
+      {
+        "Branch": "삼척점",
+        "Location": "강원도 삼척시 중앙로 264",
+        "Latitude": 37.4467938,
+        "Longitude": 129.1675946
+      },
+      {
+        "Branch": "동해점",
+        "Location": "강원도 동해시 감추로 42 도미노피자 동해점",
+        "Latitude": 37.5160235,
+        "Longitude": 129.1235375
+      },
+      {
+        "Branch": "철원점",
+        "Location": "강원도 철원군 갈말읍 삼부연로7번길 6",
+        "Latitude": 38.1453253,
+        "Longitude": 127.3087554
+      },
+      {
+        "Branch": "태백점",
+        "Location": "강원도 태백시 황지로 36",
+        "Latitude": 37.1619217,
+        "Longitude": 128.9910035
+      },
+      {
+        "Branch": "영월점",
+        "Location": "강원도 영월군 영월읍 하송로 138",
+        "Latitude": 37.1777172,
+        "Longitude": 128.457244
+      },
+      {
+        "Branch": "원주혁신점",
+        "Location": "강원도 원주시 미래로 37",
+        "Latitude": 37.3269984,
+        "Longitude": 127.9879694
+      },
+      {
+        "Branch": "횡성점",
+        "Location": "강원도 횡성군 횡성읍 문정로 57",
+        "Latitude": 37.4884394,
+        "Longitude": 127.98954
+      },
+      {
+        "Branch": "알펜시아점",
+        "Location": "강원도 평창군 대관령면 솔봉로 325 알펜시아리조트 101동",
+        "Latitude": 37.6707132,
+        "Longitude": 128.6888282
+      },
+      {
+        "Branch": "대명비발디파크점",
+        "Location": "강원도 홍천군 서면 한치골길 262 대명비발디파크 오크동 지하1층",
+        "Latitude": 37.6466335,
+        "Longitude": 127.6813286
+      },
+      {
+        "Branch": "광주진월점",
+        "Location": "광주광역시 남구 효덕로 310",
+        "Latitude": 35.11108556,
+        "Longitude": 126.8964075
+      },
+      {
+        "Branch": "광주송정점",
+        "Location": "광주광역시 광산구 상무대로 305",
+        "Latitude": 35.14378184,
+        "Longitude": 126.7990675
+      },
+      {
+        "Branch": "광주양산점",
+        "Location": "광주광역시 북구 하서로 344",
+        "Latitude": 35.2057929,
+        "Longitude": 126.8737343
+      },
+      {
+        "Branch": "광주북구이호점",
+        "Location": "광주광역시 북구 서암대로 25",
+        "Latitude": 35.17303978,
+        "Longitude": 126.8877218
+      },
+      {
+        "Branch": "동구점",
+        "Location": "광주광역시 동구 중앙로 214",
+        "Latitude": 35.15164078,
+        "Longitude": 126.9175687
+      },
+      {
+        "Branch": "광주점",
+        "Location": "광주광역시 서구 운천로 94-1",
+        "Latitude": 35.1411324,
+        "Longitude": 126.8588239
+      },
+      {
+        "Branch": "광주화정점",
+        "Location": "광주광역시 서구 상무대로 1070",
+        "Latitude": 35.15215587,
+        "Longitude": 126.8790505
+      },
+      {
+        "Branch": "광주금호점",
+        "Location": "광주광역시 서구 운천로 117",
+        "Latitude": 35.14303969,
+        "Longitude": 126.8574804
+      },
+      {
+        "Branch": "영천점",
+        "Location": "경상북도 영천시 망정1길 4",
+        "Latitude": 35.9754457,
+        "Longitude": 128.9485634
+      },
+      {
+        "Branch": "남구미점",
+        "Location": "경상북도 구미시 상모로 29",
+        "Latitude": 36.08924678,
+        "Longitude": 128.3534525
+      },
+      {
+        "Branch": "영주점",
+        "Location": "경상북도 영주시 구성로 325",
+        "Latitude": 36.82144424,
+        "Longitude": 128.6250164
+      },
+      {
+        "Branch": "하양점",
+        "Location": "경상북도 경산시 하양읍 대경로 657",
+        "Latitude": 35.90804762,
+        "Longitude": 128.8133957
+      },
+      {
+        "Branch": "포항죽도점",
+        "Location": "경상북도 포항시 북구 양학천로 179-1",
+        "Latitude": 36.02796277,
+        "Longitude": 129.3644519
+      },
+      {
+        "Branch": "포항점",
+        "Location": "경상북도 포항시 북구 학산로 65-1",
+        "Latitude": 36.05020211,
+        "Longitude": 129.3694635
+      },
+      {
+        "Branch": "김천혁신점",
+        "Location": "경상북도 김천시 혁신6로 57",
+        "Latitude": 36.12531301,
+        "Longitude": 128.1873599
+      },
+      {
+        "Branch": "보문점",
+        "Location": "경상북도 경주시 보문로 549",
+        "Latitude": 35.83574707,
+        "Longitude": 129.2849265
+      },
+      {
+        "Branch": "경북신도청점",
+        "Location": "경상북도 예천군 호명면 수변로 125",
+        "Latitude": 36.57467448,
+        "Longitude": 128.4867618
+      },
+      {
+        "Branch": "하양점",
+        "Location": "경상북도 경산시 하양읍 대경로 707",
+        "Latitude": 35.91047678,
+        "Longitude": 128.8180184
+      },
+      {
+        "Branch": "구미도량점",
+        "Location": "경상북도 구미시 야은로 413",
+        "Latitude": 36.13718645,
+        "Longitude": 128.3281894
+      },
+      {
+        "Branch": "포항장량점",
+        "Location": "경상북도 포항시 북구 새천년대로1249번길 46",
+        "Latitude": 36.07737844,
+        "Longitude": 129.3808699
+      },
+      {
+        "Branch": "포항남부점",
+        "Location": "경상북도 포항시 남구 대이로 68",
+        "Latitude": 36.02122826,
+        "Longitude": 129.3406834
+      },
+      {
+        "Branch": "왜관점",
+        "Location": "경상북도 칠곡군 왜관읍 중앙로 109",
+        "Latitude": 35.98463498,
+        "Longitude": 128.3985532
+      },
+      {
+        "Branch": "상주점",
+        "Location": "경상북도 상주시 삼백로 120",
+        "Latitude": 36.4183165,
+        "Longitude": 128.1567934
+      },
+      {
+        "Branch": "포항오천점",
+        "Location": "경상북도 포항시 남구 오천읍 북원로 10",
+        "Latitude": 35.98101053,
+        "Longitude": 129.4040932
+      },
+      {
+        "Branch": "일산점",
+        "Location": "경기도 고양시 일산동구 강송로 170",
+        "Latitude": 37.6538982,
+        "Longitude": 126.7842633
+      },
+      {
+        "Branch": "부천심곡점",
+        "Location": "경기도 부천시 경인로 181",
+        "Latitude": 37.48409938,
+        "Longitude": 126.7754871
+      },
+      {
+        "Branch": "수지신봉점",
+        "Location": "경기도 용인시 수지구 신봉1로 84",
+        "Latitude": 37.32369621,
+        "Longitude": 127.0764398
+      },
+      {
+        "Branch": "남양주점",
+        "Location": "경기도 남양주시 진접읍 진건오남로 998",
+        "Latitude": 37.70928061,
+        "Longitude": 127.1858947
+      },
+      {
+        "Branch": "수지상현점",
+        "Location": "경기도 용인시 수지구 성복2로 17",
+        "Latitude": 37.31076542,
+        "Longitude": 127.0810428
+      },
+      {
+        "Branch": "안양석수점",
+        "Location": "경기도 안양시 만안구 경수대로 1213",
+        "Latitude": 37.4166965,
+        "Longitude": 126.9132435
+      },
+      {
+        "Branch": "안양점",
+        "Location": "경기도 안양시 만안구 만안로 284",
+        "Latitude": 37.40503841,
+        "Longitude": 126.9193193
+      },
+      {
+        "Branch": "야탑점",
+        "Location": "경기도 성남시 분당구 매화로 43",
+        "Latitude": 37.41147938,
+        "Longitude": 127.1335956
+      },
+      {
+        "Branch": "신동탄점",
+        "Location": "경기도 화성시 동탄순환대로 706",
+        "Latitude": 37.20780655,
+        "Longitude": 127.1105813
+      },
+      {
+        "Branch": "마석점",
+        "Location": "경기도 남양주시 화도읍 마석중앙로28번길 40-1",
+        "Latitude": 37.6511937,
+        "Longitude": 127.3062019
+      },
+      {
+        "Branch": "군포점",
+        "Location": "경기도 군포시 금당로 23",
+        "Latitude": 37.35011169,
+        "Longitude": 126.9404801
+      },
+      {
+        "Branch": "수원중앙점",
+        "Location": "경기도 수원시 팔달구 매산로 46",
+        "Latitude": 37.26835144,
+        "Longitude": 127.006344
+      },
+      {
+        "Branch": "하남신장점",
+        "Location": "경기도 하남시 하남대로 786",
+        "Latitude": 37.54028361,
+        "Longitude": 127.2102541
+      },
+      {
+        "Branch": "성대점",
+        "Location": "경기도 수원시 장안구 서부로2106번길 26-84",
+        "Latitude": 37.29672164,
+        "Longitude": 126.9730362
+      },
+      {
+        "Branch": "의정부민락점",
+        "Location": "경기도 의정부시 용민로 249",
+        "Latitude": 37.74934808,
+        "Longitude": 127.0978418
+      },
+      {
+        "Branch": "남동탄점",
+        "Location": "경기도 화성시 동탄순환대로 127-5",
+        "Latitude": 37.16604241,
+        "Longitude": 127.1072765
+      },
+      {
+        "Branch": "여주휴게소강릉방면",
+        "Location": "경기도 여주시 가남읍 여주남로 722",
+        "Latitude": 37.23771707,
+        "Longitude": 127.5683078
+      },
+      {
+        "Branch": "영통점",
+        "Location": "경기도 수원시 영통구 청명로 65",
+        "Latitude": 37.2531305,
+        "Longitude": 127.0797367
+      },
+      {
+        "Branch": "안산고잔점",
+        "Location": "경기도 안산시 단원구 광덕대로 137",
+        "Latitude": 37.30878213,
+        "Longitude": 126.8289073
+      },
+      {
+        "Branch": "이천부발점",
+        "Location": "경기도 이천시 부발읍 경충대로2050번길 15-88",
+        "Latitude": 37.25221191,
+        "Longitude": 127.4922805
+      },
+      {
+        "Branch": "성남수진점",
+        "Location": "경기도 성남시 중원구 산성대로 198",
+        "Latitude": 37.43668852,
+        "Longitude": 127.140605
+      },
+      {
+        "Branch": "판교점",
+        "Location": "경기도 성남시 분당구 서판교로 160",
+        "Latitude": 37.40024962,
+        "Longitude": 127.0947923
+      },
+      {
+        "Branch": "흥덕점",
+        "Location": "경기도 용인시 기흥구 흥덕1로 97",
+        "Latitude": 37.2748238,
+        "Longitude": 127.0733161
+      },
+      {
+        "Branch": "미금점",
+        "Location": "경기도 성남시 분당구 미금일로74번길 5-3",
+        "Latitude": 37.34608422,
+        "Longitude": 127.1112215
+      },
+      {
+        "Branch": "동수원점",
+        "Location": "경기도 수원시 팔달구 세지로 394",
+        "Latitude": 37.28485331,
+        "Longitude": 127.028411
+      },
+      {
+        "Branch": "역곡점",
+        "Location": "경기도 부천시 부일로 701-1",
+        "Latitude": 37.48498841,
+        "Longitude": 126.8077882
+      },
+      {
+        "Branch": "동수원점",
+        "Location": "경기도 수원시 팔달구 경수대로 509",
+        "Latitude": 37.27145064,
+        "Longitude": 127.0279856
+      },
+      {
+        "Branch": "곤지암점",
+        "Location": "경기도 광주시 곤지암읍 경충대로 772",
+        "Latitude": 37.35641732,
+        "Longitude": 127.3248858
+      },
+      {
+        "Branch": "통진점",
+        "Location": "경기도 김포시 통진읍 조강로 24",
+        "Latitude": 37.68869849,
+        "Longitude": 126.602426
+      },
+      {
+        "Branch": "의왕점",
+        "Location": "경기도 의왕시 효행로 54",
+        "Latitude": 37.3520237,
+        "Longitude": 126.9723397
+      },
+      {
+        "Branch": "김포구래점",
+        "Location": "경기도 김포시 김포한강9로12번길 97-10",
+        "Latitude": 37.64086827,
+        "Longitude": 126.6272866
+      },
+      {
+        "Branch": "호평평내점",
+        "Location": "경기도 남양주시 경춘로 1324",
+        "Latitude": 37.65107779,
+        "Longitude": 127.2391704
+      },
+      {
+        "Branch": "용인남사점",
+        "Location": "경기도 용인시 처인구 남사읍 한숲로57번길 15-1",
+        "Latitude": 37.15325808,
+        "Longitude": 127.1695924
+      },
+      {
+        "Branch": "파주운정점",
+        "Location": "경기도 파주시 경의로 1114",
+        "Latitude": 37.71661189,
+        "Longitude": 126.7603733
+      },
+      {
+        "Branch": "화성봉담점",
+        "Location": "경기도 화성시 봉담읍 동화역말길 29-13",
+        "Latitude": 37.21554284,
+        "Longitude": 126.962713
+      },
+      {
+        "Branch": "인덕원점",
+        "Location": "경기도 안양시 동안구 관악대로 407",
+        "Latitude": 37.40504095,
+        "Longitude": 126.9680129
+      },
+      {
+        "Branch": "미금오리점",
+        "Location": "경기도 성남시 분당구 성남대로 52",
+        "Latitude": 37.34044769,
+        "Longitude": 127.1093919
+      },
+      {
+        "Branch": "의왕포일점",
+        "Location": "경기도 의왕시 성고개로 53",
+        "Latitude": 37.39760372,
+        "Longitude": 126.9874165
+      },
+      {
+        "Branch": "광교점",
+        "Location": "경기도 수원시 영통구 센트럴타운로 92",
+        "Latitude": 37.29173267,
+        "Longitude": 127.0511273
+      },
+      {
+        "Branch": "문산점",
+        "Location": "경기도 파주시 문산읍 문향로 12",
+        "Latitude": 37.85306991,
+        "Longitude": 126.7865903
+      },
+      {
+        "Branch": "안중점",
+        "Location": "경기도 평택시 안중읍 안현로 372",
+        "Latitude": 36.98328367,
+        "Longitude": 126.9294252
+      },
+      {
+        "Branch": "미금점",
+        "Location": "경기도 성남시 분당구 미금일로 85",
+        "Latitude": 37.34559905,
+        "Longitude": 127.1102114
+      },
+      {
+        "Branch": "철산점",
+        "Location": "경기도 광명시 오리로 899-1",
+        "Latitude": 37.47670777,
+        "Longitude": 126.8626176
+      },
+      {
+        "Branch": "고양점",
+        "Location": "경기도 고양시 덕양구 혜음로 68",
+        "Latitude": 37.70658175,
+        "Longitude": 126.9029231
+      },
+      {
+        "Branch": "서현점",
+        "Location": "경기도 성남시 분당구 중앙공원로 20",
+        "Latitude": 37.37820763,
+        "Longitude": 127.1281522
+      },
+      {
+        "Branch": "별내점",
+        "Location": "경기도 남양주시 송산로 153 오토스퀘어 빌딩",
+        "Latitude": 37.65135801,
+        "Longitude": 127.306563
+      },
+      {
+        "Branch": "수원성대점",
+        "Location": "경기도 수원시 장안구 서부로 2066",
+        "Latitude": 37.29596539,
+        "Longitude": 126.9741518
+      },
+      {
+        "Branch": "송탄점",
+        "Location": "경기도 평택시 경기대로 1385",
+        "Latitude": 37.06872047,
+        "Longitude": 127.0638647
+      },
+      {
+        "Branch": "이매점",
+        "Location": "경기도 성남시 분당구 성남대로779번길 22",
+        "Latitude": 37.39943873,
+        "Longitude": 127.125941
+      },
+      {
+        "Branch": "양주점",
+        "Location": "경기도 양주시 독바위로 36-1",
+        "Latitude": 37.83791172,
+        "Longitude": 127.0624425
+      },
+      {
+        "Branch": "고강원종점",
+        "Location": "경기도 부천시 역곡로 448",
+        "Latitude": 37.52449934,
+        "Longitude": 126.8158934
+      },
+      {
+        "Branch": "광명점",
+        "Location": "경기도 광명시 안현로 35",
+        "Latitude": 37.46761716,
+        "Longitude": 126.874953
+      },
+      {
+        "Branch": "구리점",
+        "Location": "경기도 구리시 벌말로 185",
+        "Latitude": 37.59323078,
+        "Longitude": 127.1494637
+      },
+      {
+        "Branch": "율천점",
+        "Location": "경기도 수원시 장안구 하률로 3",
+        "Latitude": 37.3031966,
+        "Longitude": 126.9736362
+      },
+      {
+        "Branch": "수진점",
+        "Location": "경기도 성남시 수정구 산성대로 200",
+        "Latitude": 37.43745247,
+        "Longitude": 127.1403363
+      },
+      {
+        "Branch": "광명일직점",
+        "Location": "경기도 광명시 일직로 28",
+        "Latitude": 37.42206243,
+        "Longitude": 126.8847183
+      },
+      {
+        "Branch": "동탄점",
+        "Location": "경기도 화성시 동탄지성로 84",
+        "Latitude": 37.2072088,
+        "Longitude": 127.0657055
+      },
+      {
+        "Branch": "철산점",
+        "Location": "경기도 광명시 시청로 32",
+        "Latitude": 37.47956022,
+        "Longitude": 126.8640895
+      },
+      {
+        "Branch": "광명점",
+        "Location": "경기도 광명시 하안로 361",
+        "Latitude": 37.46674126,
+        "Longitude": 126.8757009
+      },
+      {
+        "Branch": "야탑점",
+        "Location": "경기도 성남시 분당구 매화로 46",
+        "Latitude": 37.41163669,
+        "Longitude": 127.1341586
+      },
+      {
+        "Branch": "부천약대점",
+        "Location": "경기도 부천시 도약로 213",
+        "Latitude": 37.51061242,
+        "Longitude": 126.7733235
+      },
+      {
+        "Branch": "중동점",
+        "Location": "경기도 부천시 신흥로 226",
+        "Latitude": 37.50377867,
+        "Longitude": 126.7764212
+      },
+      {
+        "Branch": "서현점",
+        "Location": "경기도 성남시 분당구 서현로 377",
+        "Latitude": 37.37660758,
+        "Longitude": 127.1397554
+      },
+      {
+        "Branch": "양주고읍점",
+        "Location": "경기도 양주시 고읍로 151",
+        "Latitude": 37.79264595,
+        "Longitude": 127.086654
+      },
+      {
+        "Branch": "마두점",
+        "Location": "경기도 고양시 일산동구 일산로 280",
+        "Latitude": 37.66082493,
+        "Longitude": 126.7866891
+      },
+      {
+        "Branch": "마두점",
+        "Location": "경기도 고양시 일산동구 고양대로 1025",
+        "Latitude": 37.67279947,
+        "Longitude": 126.8070114
+      },
+      {
+        "Branch": "범계점",
+        "Location": "경기도 안양시 동안구 갈산로2번길 27-11",
+        "Latitude": 37.37294208,
+        "Longitude": 126.963564
+      },
+      {
+        "Branch": "성남상대원점",
+        "Location": "경기도 성남시 중원구 금상로 27",
+        "Latitude": 37.4384958,
+        "Longitude": 127.1601227
+      },
+      {
+        "Branch": "구리인창점",
+        "Location": "경기도 구리시 동구릉로 79",
+        "Latitude": 37.60716593,
+        "Longitude": 127.1340377
+      },
+      {
+        "Branch": "의정부송산점",
+        "Location": "경기도 의정부시 용현로 97",
+        "Latitude": 37.74137952,
+        "Longitude": 127.0868532
+      },
+      {
+        "Branch": "시흥연성점",
+        "Location": "경기도 시흥시 승지로69번길 7",
+        "Latitude": 37.3702135,
+        "Longitude": 126.8096409
+      },
+      {
+        "Branch": "동백점",
+        "Location": "경기도 용인시 기흥구 동백중앙로 191",
+        "Latitude": 37.27086982,
+        "Longitude": 127.1529455
+      },
+      {
+        "Branch": "동수원점",
+        "Location": "경기도 수원시 팔달구 경수대로507번길 5",
+        "Latitude": 37.27126942,
+        "Longitude": 127.0278639
+      },
+      {
+        "Branch": "부천점",
+        "Location": "경기도 부천시 상일로 157",
+        "Latitude": 37.49095652,
+        "Longitude": 126.7599624
+      },
+      {
+        "Branch": "대화점",
+        "Location": "경기도 고양시 일산서구 송포로 26",
+        "Latitude": 37.66896695,
+        "Longitude": 126.7332598
+      },
+      {
+        "Branch": "하남점",
+        "Location": "경기도 하남시 미사강변서로 30",
+        "Latitude": 37.55300198,
+        "Longitude": 127.1843948
+      },
+      {
+        "Branch": "분당수내점",
+        "Location": "경기도 성남시 분당구 내정로119번길 4-4",
+        "Latitude": 37.3711746,
+        "Longitude": 127.1153965
+      },
+      {
+        "Branch": "공도점",
+        "Location": "경기도 안성시 공도읍 공도4로 21",
+        "Latitude": 37.00177096,
+        "Longitude": 127.1710855
+      },
+      {
+        "Branch": "수지상현점",
+        "Location": "경기도 용인시 수지구 풍덕천로96번길 3-12",
+        "Latitude": 37.32121642,
+        "Longitude": 127.0936876
+      },
+      {
+        "Branch": "김포구래점",
+        "Location": "경기도 김포시 김포한강9로12번길 97-4",
+        "Latitude": 37.64095646,
+        "Longitude": 126.6278968
+      },
+      {
+        "Branch": "평택소사벌점",
+        "Location": "경기도 평택시 평남로 1025",
+        "Latitude": 37.00947958,
+        "Longitude": 127.0974922
+      },
+      {
+        "Branch": "과천점",
+        "Location": "경기도 과천시 새술막길 14",
+        "Latitude": 37.42896969,
+        "Longitude": 126.9905646
+      },
+      {
+        "Branch": "죽전점",
+        "Location": "경기도 용인시 수지구 현암로 111",
+        "Latitude": 37.33193402,
+        "Longitude": 127.121657
+      },
+      {
+        "Branch": "의정부북부점",
+        "Location": "경기도 의정부시 평화로 640",
+        "Latitude": 37.74912328,
+        "Longitude": 127.0452832
+      },
+      {
+        "Branch": "권선점",
+        "Location": "경기도 수원시 권선구 권선로 746",
+        "Latitude": 37.25737687,
+        "Longitude": 127.0325405
+      },
+      {
+        "Branch": "서수원점",
+        "Location": "경기도 수원시 권선구 호매실로218번길 122",
+        "Latitude": 37.26615627,
+        "Longitude": 126.961602
+      },
+      {
+        "Branch": "갈매점",
+        "Location": "경기도 구리시 갈매순환로 206",
+        "Latitude": 37.63755372,
+        "Longitude": 127.1212556
+      },
+      {
+        "Branch": "태전점",
+        "Location": "경기도 광주시 고불로 82",
+        "Latitude": 37.39289198,
+        "Longitude": 127.2288564
+      },
+      {
+        "Branch": "군포송정점",
+        "Location": "경기도 군포시 송부로33번길 3-23",
+        "Latitude": 37.31539015,
+        "Longitude": 37.31539015
+      },
+      {
+        "Branch": "소답점",
+        "Location": "경상남도 창원시 의창구 의안로2번길 5",
+        "Latitude": 35.26191088,
+        "Longitude": 128.6243074
+      },
+      {
+        "Branch": "동김해점",
+        "Location": "경상남도 김해시 인제로 146",
+        "Latitude": 35.24170955,
+        "Longitude": 128.904211
+      },
+      {
+        "Branch": "김해율하점",
+        "Location": "경상남도 김해시 율하2로 122",
+        "Latitude": 35.16919981,
+        "Longitude": 128.814138
+      },
+      {
+        "Branch": "장유점",
+        "Location": "경상남도 김해시 능동로 15-1",
+        "Latitude": 35.19625018,
+        "Longitude": 128.7952894
+      },
+      {
+        "Branch": "통영점",
+        "Location": "경상남도 통영시 중앙로 100-1",
+        "Latitude": 34.84194001,
+        "Longitude": 128.4201599
+      },
+      {
+        "Branch": "마산교방점",
+        "Location": "경상남도 창원시 마산합포구 북성로 48",
+        "Latitude": 35.21164424,
+        "Longitude": 128.5721571
+      },
+      {
+        "Branch": "창원반송점",
+        "Location": "경상남도 창원시 성산구 반송로 56",
+        "Latitude": 35.24044942,
+        "Longitude": 128.6630711
+      },
+      {
+        "Branch": "마산교방점",
+        "Location": "경상남도 창원시 성산구 동산로65번길 46",
+        "Latitude": 35.21798278,
+        "Longitude": 128.6831434
+      },
+      {
+        "Branch": "창원북면점",
+        "Location": "경상남도 창원시 의창구 북면 천주로 603",
+        "Latitude": 35.3096637,
+        "Longitude": 128.6019328
+      },
+      {
+        "Branch": "진주경상대점",
+        "Location": "경상남도 진주시 진주대로 624-4",
+        "Latitude": 35.16208061,
+        "Longitude": 128.1069134
+      },
+      {
+        "Branch": "진주초전점",
+        "Location": "경상남도 진주시 대신로 476",
+        "Latitude": 35.20314155,
+        "Longitude": 128.1163353
+      },
+      {
+        "Branch": "진해점",
+        "Location": "경상남도 창원시 진해구 충장로 164",
+        "Latitude": 35.15191899,
+        "Longitude": 128.670013
+      },
+      {
+        "Branch": "마산월영점",
+        "Location": "경상남도 창원시 마산합포구 월영남로 2",
+        "Latitude": 35.17860011,
+        "Longitude": 35.17860011
+      },
+      {
+        "Branch": "통영점",
+        "Location": "경상남도 통영시 항남3길 10",
+        "Latitude": 34.84197092,
+        "Longitude": 128.4216471
+      },
+      {
+        "Branch": "진주도동점",
+        "Location": "경상남도 진주시 동진로 204",
+        "Latitude": 35.17961684,
+        "Longitude": 128.1133374
+      },
+      {
+        "Branch": "거제수양점",
+        "Location": "경상남도 거제시 해명로 22-10",
+        "Latitude": 34.89457139,
+        "Longitude": 128.6422708
+      },
+      {
+        "Branch": "마산내서점",
+        "Location": "경상남도 창원시 마산회원구 내서읍 경남대로 987",
+        "Latitude": 35.23824188,
+        "Longitude": 128.503938
+      },
+      {
+        "Branch": "양산범어점",
+        "Location": "경상남도 양산시 물금읍 범구로 42",
+        "Latitude": 35.32594644,
+        "Longitude": 129.0152223
+      },
+      {
+        "Branch": "옥포아주점",
+        "Location": "경상남도 거제시 거제대로 3587",
+        "Latitude": 34.8782956,
+        "Longitude": 128.6939181
+      },
+      {
+        "Branch": "서김해점",
+        "Location": "경상남도 김해시 금관대로 1340",
+        "Latitude": 35.24258122,
+        "Longitude": 128.8651164
+      },
+      {
+        "Branch": "계양점",
+        "Location": "인천광역시 계양구 주부토로 463",
+        "Latitude": 37.53555739,
+        "Longitude": 126.7277582
+      },
+      {
+        "Branch": "송도점",
+        "Location": "인천광역시 연수구 컨벤시아대로 80",
+        "Latitude": 37.39605959,
+        "Longitude": 126.6490209
+      },
+      {
+        "Branch": "만수점",
+        "Location": "인천광역시 남동구 구월로 318",
+        "Latitude": 37.45526361,
+        "Longitude": 126.7258193
+      },
+      {
+        "Branch": "검단점",
+        "Location": "인천광역시 서구 완정로92번길 41",
+        "Latitude": 37.59956583,
+        "Longitude": 126.6633548
+      },
+      {
+        "Branch": "인천운서점",
+        "Location": "인천광역시 중구 모랫말로5번길 1",
+        "Latitude": 37.48922844,
+        "Longitude": 126.4963335
+      },
+      {
+        "Branch": "인천점",
+        "Location": "인천광역시 중구 참외전로 137-3",
+        "Latitude": 37.47438626,
+        "Longitude": 126.6325647
+      },
+      {
+        "Branch": "옥련점",
+        "Location": "인천광역시 연수구 청량로184번길 52",
+        "Latitude": 37.42532654,
+        "Longitude": 126.6546638
+      },
+      {
+        "Branch": "부평산곡점",
+        "Location": "인천광역시 부평구 마장로 168",
+        "Latitude": 37.49331384,
+        "Longitude": 126.7042416
+      },
+      {
+        "Branch": "청라점",
+        "Location": "인천광역시 서구 청라라임로138번길 4-4",
+        "Latitude": 37.53942761,
+        "Longitude": 126.6534422
+      },
+      {
+        "Branch": "동인천역점",
+        "Location": "인천광역시 중구 참외전로 188",
+        "Latitude": 37.4713946,
+        "Longitude": 126.6364403
+      },
+      {
+        "Branch": "연수점",
+        "Location": "인천광역시 연수구 용담로 93",
+        "Latitude": 37.41631286,
+        "Longitude": 126.6759158
+      },
+      {
+        "Branch": "임학점",
+        "Location": "인천광역시 계양구 장제로 865",
+        "Latitude": 37.5445141,
+        "Longitude": 126.7378809
+      },
+      {
+        "Branch": "간석점",
+        "Location": "인천광역시 남동구 주안로259번길 6",
+        "Latitude": 37.46366611,
+        "Longitude": 126.6989772
+      },
+      {
+        "Branch": "인천서구점",
+        "Location": "인천광역시 서구 길주로 60",
+        "Latitude": 37.50626073,
+        "Longitude": 126.6685152
+      },
+      {
+        "Branch": "구월점",
+        "Location": "인천광역시 남동구 문화로 111",
+        "Latitude": 37.44900057,
+        "Longitude": 126.6992765
+      },
+      {
+        "Branch": "인천하늘도시점",
+        "Location": "인천광역시 중구 영종진로66번길 15",
+        "Latitude": 37.499237,
+        "Longitude": 126.5761773
+      },
+      {
+        "Branch": "신제주점",
+        "Location": "제주특별자치도 제주시 연북로 18",
+        "Latitude": 33.48167998,
+        "Longitude": 126.4831716
+      },
+      {
+        "Branch": "제주시청점",
+        "Location": "제주특별자치도 제주시 승천로 70",
+        "Latitude": 33.49238945,
+        "Longitude": 126.5424141
+      },
+      {
+        "Branch": "제주서귀포점",
+        "Location": "제주특별자치도 서귀포시 신서귀로 118",
+        "Latitude": 33.25891519,
+        "Longitude": 126.5106427
+      },
+      {
+        "Branch": "제주화북점",
+        "Location": "제주특별자치도 제주시 화삼로 19",
+        "Latitude": 33.51442694,
+        "Longitude": 126.5752166
+      },
+      {
+        "Branch": "남원점",
+        "Location": "전라북도 남원시 용성로 166",
+        "Latitude": 35.41324412,
+        "Longitude": 127.3928327
+      },
+      {
+        "Branch": "고창점",
+        "Location": "전라북도 고창군 고창읍 월곡로 38",
+        "Latitude": 35.43504326,
+        "Longitude": 126.7113007
+      },
+      {
+        "Branch": "익산영등점",
+        "Location": "전라북도 익산시 고봉로18길 1",
+        "Latitude": 35.95334624,
+        "Longitude": 126.9694559
+      },
+      {
+        "Branch": "익산모현점",
+        "Location": "전라북도 익산시 군익로 499",
+        "Latitude": 35.9420172,
+        "Longitude": 126.9404761
+      },
+      {
+        "Branch": "전주금암점",
+        "Location": "전라북도 전주시 덕진구 백제대로 658",
+        "Latitude": 35.84290059,
+        "Longitude": 127.141192
+      },
+      {
+        "Branch": "전주혁신점",
+        "Location": "전라북도 전주시 덕진구 기지로 82",
+        "Latitude": 35.838082,
+        "Longitude": 127.0609165
+      },
+      {
+        "Branch": "전북완주점",
+        "Location": "전라북도 완주군 봉동읍 과학로 997",
+        "Latitude": 35.95805369,
+        "Longitude": 127.1253694
+      },
+      {
+        "Branch": "김제점",
+        "Location": "전라북도 김제시 동서로 284",
+        "Latitude": 35.80341165,
+        "Longitude": 126.8977654
+      },
+      {
+        "Branch": "전주송천점",
+        "Location": "전라북도 전주시 덕진구 송천중앙로 56",
+        "Latitude": 35.85213079,
+        "Longitude": 127.1201241
+      },
+      {
+        "Branch": "여천점",
+        "Location": "전라남도 여수시 도원로 277",
+        "Latitude": 34.76150226,
+        "Longitude": 127.661569
+      },
+      {
+        "Branch": "순천중앙점",
+        "Location": "전라남도 순천시 중앙로 181",
+        "Latitude": 34.96201782,
+        "Longitude": 127.4842735
+      },
+      {
+        "Branch": "광양서천점",
+        "Location": "전라남도 광양시 광양읍 서북로 14",
+        "Latitude": 34.97203978,
+        "Longitude": 127.5795763
+      },
+      {
+        "Branch": "목포북항점",
+        "Location": "전라남도 목포시 청호로 175",
+        "Latitude": 34.80617947,
+        "Longitude": 126.3731963
+      },
+      {
+        "Branch": "순천조례점",
+        "Location": "전라남도 순천시 이수로 284",
+        "Latitude": 34.95186975,
+        "Longitude": 127.5155083
+      },
+      {
+        "Branch": "나주점",
+        "Location": "전라남도 나주시 나주로 208",
+        "Latitude": 35.03495348,
+        "Longitude": 126.7219205
+      },
+      {
+        "Branch": "목포점",
+        "Location": "전라남도 목포시 백년대로 393",
+        "Latitude": 34.80840284,
+        "Longitude": 126.4292155
+      },
+      {
+        "Branch": "순천신대점",
+        "Location": "전라남도 순천시 해룡면 매안4길 32",
+        "Latitude": 34.93207744,
+        "Longitude": 127.554199
+      },
+      {
+        "Branch": "화순점",
+        "Location": "전라남도 화순군 화순읍 만연로 37",
+        "Latitude": 35.05913376,
+        "Longitude": 126.9900809
+      },
+      {
+        "Branch": "세종다정점",
+        "Location": "세종특별자치시 한누리대로 331",
+        "Latitude": "331,36.4939306273077",
+        "Longitude": 127.2558336
+      },
+      {
+        "Branch": "영등포점",
+        "Location": "서울특별시 영등포구 문래북로 108",
+        "Latitude": 37.51958451,
+        "Longitude": 126.8973636
+      },
+      {
+        "Branch": "응암점",
+        "Location": "서울특별시 은평구 백련산로 160",
+        "Latitude": 37.59824826,
+        "Longitude": 126.9260546
+      },
+      {
+        "Branch": "중곡점",
+        "Location": "서울특별시 광진구 용마산로 39",
+        "Latitude": 37.55715062,
+        "Longitude": 127.0876347
+      },
+      {
+        "Branch": "면목점",
+        "Location": "서울특별시 중랑구 용마산로86길 9-27",
+        "Latitude": 37.58735692,
+        "Longitude": 127.0962451
+      },
+      {
+        "Branch": "일원점",
+        "Location": "서울특별시 강남구 일원로9길 18",
+        "Latitude": 37.48963545,
+        "Longitude": 127.0830965
+      },
+      {
+        "Branch": "개포점",
+        "Location": "서울특별시 강남구 논현로 58",
+        "Latitude": 37.4755472,
+        "Longitude": 127.0472027
+      },
+      {
+        "Branch": "석촌점",
+        "Location": "서울특별시 송파구 백제고분로 285",
+        "Latitude": 37.50277292,
+        "Longitude": 127.0983175
+      },
+      {
+        "Branch": "왕십리점",
+        "Location": "서울특별시 성동구 난계로 81",
+        "Latitude": 37.55916984,
+        "Longitude": 127.0235358
+      },
+      {
+        "Branch": "발산점",
+        "Location": "서울특별시 강서구 강서로 337",
+        "Latitude": 37.5558493,
+        "Longitude": 126.8370485
+      },
+      {
+        "Branch": "월계점",
+        "Location": "서울특별시 노원구 광운로 52",
+        "Latitude": 37.62188744,
+        "Longitude": 127.0596681
+      },
+      {
+        "Branch": "개봉점",
+        "Location": "서울특별시 구로구 중앙로8길 11",
+        "Latitude": 37.50252002,
+        "Longitude": 126.863278
+      },
+      {
+        "Branch": "마포점",
+        "Location": "서울특별시 마포구 백범로 123",
+        "Latitude": 37.54680698,
+        "Longitude": 126.9449222
+      },
+      {
+        "Branch": "신촌점",
+        "Location": "서울특별시 마포구 창전로 60",
+        "Latitude": 37.54778901,
+        "Longitude": 126.9328787
+      },
+      {
+        "Branch": "연희점",
+        "Location": "서울특별시 서대문구 연희로 95",
+        "Latitude": 37.56659843,
+        "Longitude": 126.9304145
+      },
+      {
+        "Branch": "여의도점",
+        "Location": "서울특별시 영등포구 국제금융로 78",
+        "Latitude": 37.52086043,
+        "Longitude": 126.9312827
+      },
+      {
+        "Branch": "이태원점",
+        "Location": "서울특별시 용산구 보광로 112-3",
+        "Latitude": 37.5328781,
+        "Longitude": 126.994642
+      },
+      {
+        "Branch": "방화점",
+        "Location": "서울특별시 강서구 금낭화로 69",
+        "Latitude": 37.57153241,
+        "Longitude": 126.8113342
+      },
+      {
+        "Branch": "군자점",
+        "Location": "서울특별시 광진구 능동로 253",
+        "Latitude": 37.55276813,
+        "Longitude": 127.0767666
+      },
+      {
+        "Branch": "옥수점",
+        "Location": "서울특별시 성동구 매봉길 10-1",
+        "Latitude": 37.54526654,
+        "Longitude": 127.0159202
+      },
+      {
+        "Branch": "천왕점",
+        "Location": "서울특별시 구로구 오리로 1160",
+        "Latitude": 37.48774286,
+        "Longitude": 126.8382635
+      },
+      {
+        "Branch": "쌍문점",
+        "Location": "서울특별시 도봉구 도봉로137길 16",
+        "Latitude": 37.65988017,
+        "Longitude": 127.0401596
+      },
+      {
+        "Branch": "등촌가양점",
+        "Location": "서울특별시 강서구 강서로 447",
+        "Latitude": 37.56550158,
+        "Longitude": 126.8400226
+      },
+      {
+        "Branch": "사당점",
+        "Location": "서울특별시 동작구 사당로 279",
+        "Latitude": 37.48447835,
+        "Longitude": 126.9783867
+      },
+      {
+        "Branch": "구의광장점",
+        "Location": "서울특별시 광진구 광나루로 562",
+        "Latitude": 37.54405494,
+        "Longitude": 127.0918682
+      },
+      {
+        "Branch": "쌍문점",
+        "Location": "서울특별시 도봉구 해등로 139",
+        "Latitude": 37.65605026,
+        "Longitude": 127.0400956
+      },
+      {
+        "Branch": "오금점",
+        "Location": "서울특별시 송파구 중대로 314-1",
+        "Latitude": 37.50824591,
+        "Longitude": 127.1337113
+      },
+      {
+        "Branch": "은평점",
+        "Location": "서울특별시 은평구 연서로 35",
+        "Latitude": 37.60225184,
+        "Longitude": 126.9155442
+      },
+      {
+        "Branch": "시흥점",
+        "Location": "서울특별시 금천구 독산로 3",
+        "Latitude": 37.44874772,
+        "Longitude": 126.9035578
+      },
+      {
+        "Branch": "문정점",
+        "Location": "서울특별시 송파구 오금로36길 65",
+        "Latitude": 37.49844353,
+        "Longitude": 127.121667
+      },
+      {
+        "Branch": "도봉점",
+        "Location": "서울특별시 도봉구 도봉로 773",
+        "Latitude": 37.67357923,
+        "Longitude": 127.0439054
+      },
+      {
+        "Branch": "번동점",
+        "Location": "서울특별시 강북구 덕릉로 147",
+        "Latitude": 37.63535293,
+        "Longitude": 127.0301082
+      },
+      {
+        "Branch": "서방배점",
+        "Location": "서울특별시 서초구 서초대로 61",
+        "Latitude": 37.48653346,
+        "Longitude": 126.9889425
+      },
+      {
+        "Branch": "신당점",
+        "Location": "서울특별시 중구 다산로 156",
+        "Latitude": 37.55757291,
+        "Longitude": 37.55757291
+      },
+      {
+        "Branch": "성수2호점",
+        "Location": "서울특별시 성동구 성수일로 1",
+        "Latitude": 37.54084263,
+        "Longitude": 127.0478209
+      },
+      {
+        "Branch": "서울성대점",
+        "Location": "서울특별시 종로구 성균관로 25-2",
+        "Latitude": 37.58721588,
+        "Longitude": 126.9930964
+      },
+      {
+        "Branch": "등촌가양점",
+        "Location": "서울특별시 강서구 강서로56가길 166",
+        "Latitude": 37.56646963,
+        "Longitude": 126.8422601
+      },
+      {
+        "Branch": "역삼점",
+        "Location": "서울특별시 강남구 언주로 413",
+        "Latitude": 37.49982847,
+        "Longitude": 127.0435806
+      },
+      {
+        "Branch": "신도림점",
+        "Location": "서울특별시 구로구 경인로61길 21",
+        "Latitude": 37.50771057,
+        "Longitude": 126.8841239
+      },
+      {
+        "Branch": "가산점",
+        "Location": "서울특별시 금천구 가산로 146",
+        "Latitude": 37.47833832,
+        "Longitude": 126.8910166
+      },
+      {
+        "Branch": "홍제점",
+        "Location": "서울특별시 서대문구 통일로 405",
+        "Latitude": 37.58578706,
+        "Longitude": 126.947067
+      },
+      {
+        "Branch": "망원점",
+        "Location": "서울특별시 마포구 월드컵로10길 5",
+        "Latitude": 37.55456363,
+        "Longitude": 126.9120141
+      },
+      {
+        "Branch": "홍제점",
+        "Location": "서울특별시 서대문구 세검정로 72",
+        "Latitude": 37.59394291,
+        "Longitude": 126.948243
+      },
+      {
+        "Branch": "명동점",
+        "Location": "서울특별시 중구 마른내로 47",
+        "Latitude": 37.56469971,
+        "Longitude": 126.9931958
+      },
+      {
+        "Branch": "잠원점",
+        "Location": "서울특별시 서초구 나루터로 61",
+        "Latitude": 37.51540331,
+        "Longitude": 127.0167084
+      },
+      {
+        "Branch": "역삼점",
+        "Location": "서울특별시 강남구 역삼로 146",
+        "Latitude": 37.49450828,
+        "Longitude": 127.0353365
+      },
+      {
+        "Branch": "전농점",
+        "Location": "서울특별시 동대문구 서울시립대로 75",
+        "Latitude": 37.57824519,
+        "Longitude": 127.0478316
+      },
+      {
+        "Branch": "서초점",
+        "Location": "서울특별시 서초구 사임당로 13",
+        "Latitude": 37.48765336,
+        "Longitude": 127.0116106
+      },
+      {
+        "Branch": "신림점",
+        "Location": "서울특별시 관악구 신림로 123",
+        "Latitude": 37.47072925,
+        "Longitude": 126.9356258
+      },
+      {
+        "Branch": "공릉점",
+        "Location": "서울특별시 노원구 화랑로 465",
+        "Latitude": 37.61917376,
+        "Longitude": 127.0788913
+      },
+      {
+        "Branch": "고대점",
+        "Location": "서울특별시 동대문구 안암로 82",
+        "Latitude": 37.58319317,
+        "Longitude": 127.0302758
+      },
+      {
+        "Branch": "상암점",
+        "Location": "서울특별시 마포구 월드컵북로 336",
+        "Latitude": 37.57604533,
+        "Longitude": 126.8946636
+      },
+      {
+        "Branch": "양천점",
+        "Location": "서울특별시 양천구 신월로 371",
+        "Latitude": 37.52239622,
+        "Longitude": 126.8622638
+      },
+      {
+        "Branch": "신용산점",
+        "Location": "서울특별시 용산구 서빙고로 40",
+        "Latitude": 37.52397748,
+        "Longitude": 126.9687186
+      },
+      {
+        "Branch": "개봉점",
+        "Location": "서울특별시 구로구 고척로27길 58",
+        "Latitude": 37.50444744,
+        "Longitude": 126.8464646
+      },
+      {
+        "Branch": "염창점",
+        "Location": "서울특별시 강서구 양천로 731",
+        "Latitude": 37.55023878,
+        "Longitude": 126.8773789
+      },
+      {
+        "Branch": "길동점",
+        "Location": "서울특별시 강동구 천중로 200",
+        "Latitude": 37.54066732,
+        "Longitude": 127.1425361
+      },
+      {
+        "Branch": "신월점",
+        "Location": "서울특별시 양천구 신월로 224",
+        "Latitude": 37.52171361,
+        "Longitude": 37.52171361
+      },
+      {
+        "Branch": "동소문점",
+        "Location": "서울특별시 성북구 아리랑로 37-2",
+        "Latitude": 37.59608047,
+        "Longitude": 127.0153307
+      },
+      {
+        "Branch": "위례점",
+        "Location": "서울특별시 송파구 위례광장로 290",
+        "Latitude": 37.47492782,
+        "Longitude": 127.1428016
+      },
+      {
+        "Branch": "개포점",
+        "Location": "서울특별시 강남구 강남대로 292",
+        "Latitude": 37.48936446,
+        "Longitude": 127.0321799
+      },
+      {
+        "Branch": "압구정점",
+        "Location": "서울특별시 강남구 압구정로 306",
+        "Latitude": 37.52884253,
+        "Longitude": 127.0347361
+      },
+      {
+        "Branch": "수유점",
+        "Location": "서울특별시 강북구 한천로 1131",
+        "Latitude": 37.64542095,
+        "Longitude": 127.0185437
+      },
+      {
+        "Branch": "이문점",
+        "Location": "서울특별시 동대문구 휘경로 5-1",
+        "Latitude": 37.596371,
+        "Longitude": 127.0609292
+      },
+      {
+        "Branch": "평창점",
+        "Location": "서울특별시 종로구 평창문화로 75",
+        "Latitude": 37.60685761,
+        "Longitude": 126.968991
+      },
+      {
+        "Branch": "잠실점",
+        "Location": "서울특별시 송파구 백제고분로 490",
+        "Latitude": 37.51390853,
+        "Longitude": 127.1148005
+      },
+      {
+        "Branch": "후암점",
+        "Location": "서울특별시 용산구 두텁바위로 13",
+        "Latitude": 37.54549453,
+        "Longitude": 126.9738994
+      },
+      {
+        "Branch": "삼성점",
+        "Location": "서울특별시 강남구 봉은사로 451",
+        "Latitude": 37.51203639,
+        "Longitude": 127.0489901
+      },
+      {
+        "Branch": "은평점",
+        "Location": "서울특별시 은평구 연서로3길 27",
+        "Latitude": 37.60227042,
+        "Longitude": 126.9126674
+      },
+      {
+        "Branch": "동서초점",
+        "Location": "서울특별시 서초구 서운로 220",
+        "Latitude": 37.50270428,
+        "Longitude": 127.0217496
+      },
+      {
+        "Branch": "용산점",
+        "Location": "서울특별시 용산구 원효로 210-1",
+        "Latitude": 37.53738394,
+        "Longitude": 126.9655015
+      },
+      {
+        "Branch": "상계점",
+        "Location": "서울특별시 노원구 노원로 558",
+        "Latitude": 37.6615304,
+        "Longitude": 127.0570828
+      },
+      {
+        "Branch": "울산삼산점",
+        "Location": "울산광역시 남구 돋질로 246",
+        "Latitude": 35.54304662,
+        "Longitude": 129.3319938
+      },
+      {
+        "Branch": "울산태화점",
+        "Location": "울산광역시 중구 성안로 134",
+        "Latitude": 35.57261517,
+        "Longitude": 129.3150529
+      },
+      {
+        "Branch": "울산점",
+        "Location": "울산광역시 남구 번영로 98",
+        "Latitude": 35.53441852,
+        "Longitude": 129.3297781
+      },
+      {
+        "Branch": "울산북구점",
+        "Location": "울산광역시 북구 동대로 69-1",
+        "Latitude": 35.62927772,
+        "Longitude": 129.3591008
+      },
+      {
+        "Branch": "울산화봉점",
+        "Location": "울산광역시 북구 화봉로 143",
+        "Latitude": 35.5839155,
+        "Longitude": 129.3702497
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "KT_CONV": {
+    "CU": {
+      "GOLD": 20,
+      "NORMAL": 20,
+      "VIP": 20,
+      "VVIP": 20
+    },
+    "GS25": {
+      "GOLD": 10,
+      "NORMAL": 5,
+      "VIP": 10,
+      "VVIP": 10
+    }
+  },
+
+  "KT_CAFE": {
+    "BASKIN31": {
+      "GOLD": 30,
+      "NORMAL": 30,
+      "VIP": 30,
+      "VVIP": 100
+    },
+    "PB": {
+      "GOLD": 10,
+      "NORMAL": 5,
+      "VIP": 10,
+      "VVIP": 10
+    },
+    "STARBUKS": {
+      "GOLD": 100,
+      "NORMAL": 100,
+      "VIP": 100,
+      "VVIP": 100
+    },
+    "TOUS": {
+      "GOLD": 15,
+      "NORMAL": 10,
+      "VIP": 15,
+      "VVIP": 15
+    },
+    "DUNKIN": {
+      "GOLD": 0,
+      "NORMAL": 0,
+      "VIP": 100,
+      "VVIP": 100
+    },
+    "PARISCROISSANT": {
+      "GOLD": 10,
+      "NORMAL": 5,
+      "VIP": 10,
+      "VVIP": 10
+    }
+  },
+
+  "KT_MEAL": {
+    "DOMINO": {
+      "GOLD": 15,
+      "NORMAL": 15,
+      "VIP": 20,
+      "VVIP": 75
+    },
+    "PIZZAHUT": {
+      "GOLD": 15,
+      "NORMAL": 15,
+      "VIP": 15,
+      "VVIP": 15
+    },
+    "OUTBACK": {
+      "GOLD": 15,
+      "NORMAL": 5,
+      "VIP": 15,
+      "VVIP": 15
+    },
+    "PAPAJ": {
+      "GOLD": 15,
+      "NORMAL": 15,
+      "VIP": 30,
+      "VVIP": 30
+    },
+    "VIPS": {
+      "GOLD": 5,
+      "NORMAL": 5,
+      "VIP": 15,
+      "VVIP": 100
+    },
+    "MRPIZZA": {
+      "GOLD": 15,
+      "NORMAL": 15,
+      "VIP": 20,
+      "VVIP": 20
+    }
+  },
+
+  "SKT_CONV": {
+    "CU": {
+      "GOLD": 10,
+      "SILVER": 5,
+      "VIP": 10
+    },
+    "SEVEN": {
+      "GOLD": 10,
+      "SILVER": 5,
+      "VIP": 10
+    }
+  },
+
+  "SKT_CAFE": {
+    "BASKIN31": {
+      "GOLD": 30,
+      "SILVER": 30,
+      "VIP": 50
+    },
+    "PB": {
+      "GOLD": 10,
+      "SILVER": 5,
+      "VIP": 10
+    },
+    "TOUS": {
+      "VIP": 15,
+      "GOLD": 15,
+      "SILVER": 10
+    },
+    "PARISCROISSANT": {
+      "VIP": 10,
+      "GOLD": 10,
+      "SILVER": 5
+    },
+    "PAULBASSETT": {
+      "VIP": 10,
+      "GOLD": 10,
+      "SILVER": 10
+    },
+    "GONGCHA": {
+      "VIP": 10,
+      "GOLD": 10,
+      "SILVER": 10
+    },
+    "ANGEL": {
+      "VIP": 20,
+      "GOLD": 20,
+      "SILVER": 15
+    },
+    "DROPTOP": {
+      "VIP": 10,
+      "GOLD": 10,
+      "SILVER": 10
+    },
+    "DUNKIN": {
+      "VIP": 15,
+      "GOLD": 15,
+      "SILVER": 5
+    },
+    "NATTURU": {
+      "VIP": 10,
+      "GOLD": 10,
+      "SILVER": 5
+    }
+  },
+  "SKT_MEAL": {
+    "DOMINO": {
+      "GOLD": 20,
+      "SILVER": 20,
+      "VIP": 30
+    },
+    "PIZZAHUT": {
+      "GOLD": 20,
+      "SILVER": 20,
+      "VIP": 30
+    },
+    "PAPAJ": {
+      "VIP": 30,
+      "GOLD": 15,
+      "SILVER": 15
+    },
+    "LOTTERIA": {
+      "VIP": 15,
+      "GOLD": 15,
+      "SILVER": 5
+    }
+  },
+  "LG_CONV": {
+    "GS25": {
+      "DIAMOND": 5,
+      "VIP": 10,
+      "VVIP": 10
+    }
+  },
+
+  "LG_CAFE": {
+    "PB": {
+      "DIAMOND": 10,
+      "VIP": 10,
+      "VVIP": 10
+    },
+    "TOUSLES": {
+      "DIAMOND": 10,
+      "VIP": 10,
+      "VVIP": 10
+    },
+    "TOUS": {
+      "DIAMOND": 10,
+      "VIP": 10,
+      "VVIP": 10
+    }
+  },
+  "LG_MEAL": {
+    "DOMINO": {
+      "DIAMOND": 15,
+      "VIP": 20,
+      "VVIP": 20
+    },
+    "MRPIZZA": {
+      "DIAMOND": 15,
+      "VIP": 20,
+      "VVIP": 20
+    },
+    "PIZZAHUT": {
+      "DIAMOND": 15,
+      "VIP": 15,
+      "VVIP": 15
+    },
+    "DUZZIM": {
+      "DIAMOND": 30,
+      "VIP": 30,
+      "VVIP": 30
+    }
+  }
+}

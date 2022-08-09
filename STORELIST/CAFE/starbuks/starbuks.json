@@ -1,0 +1,7508 @@
+[
+  {
+    "Branch": "가든파이브",
+    "Location": "서울특별시 송파구 충민로 10 (문정동) 가든파이브툴",
+    "Latitude": 37.4782316,
+    "Longitude": 127.1193703
+  },
+  {
+    "Branch": "가락본동",
+    "Location": "서울특별시 송파구 송파대로30길 13 (가락동)",
+    "Latitude": 37.494895,
+    "Longitude": 127.118785
+  },
+  {
+    "Branch": "가락시장역",
+    "Location": "서울특별시 송파구 중대로 121, 롯데캐슬 파인힐 1층 (가락동)",
+    "Latitude": 37.494299,
+    "Longitude": 127.121354
+  },
+  {
+    "Branch": "가로수길",
+    "Location": "서울특별시 강남구 논현로175길 94, 1~2층 (신사동)",
+    "Latitude": 37.5231593,
+    "Longitude": 127.021625
+  },
+  {
+    "Branch": "가산그레이트",
+    "Location": "서울특별시 금천구 디지털로9길 32, 갑을그레이트밸리 1층 (가산동)",
+    "Latitude": 37.4794491,
+    "Longitude": 126.8874768
+  },
+  {
+    "Branch": "가산디지털",
+    "Location": "서울특별시 금천구 가산디지털1로 168 (가산동)",
+    "Latitude": 37.4798346,
+    "Longitude": 126.8824997
+  },
+  {
+    "Branch": "가산디지털단지역",
+    "Location": "서울특별시 금천구 벚꽃로 298 (가산동)",
+    "Latitude": 37.481324,
+    "Longitude": 126.883779
+  },
+  {
+    "Branch": "가산브이타워",
+    "Location": "서울특별시 금천구 가산디지털1로 128 (가산동)",
+    "Latitude": 37.477221,
+    "Longitude": 126.883683
+  },
+  {
+    "Branch": "가산에스케이",
+    "Location": "서울특별시 금천구 가산디지털1로 171 (가산동)",
+    "Latitude": 37.48061318,
+    "Longitude": 126.8805702
+  },
+  {
+    "Branch": "가양역",
+    "Location": "서울특별시 강서구 양천로 476 (등촌동)",
+    "Latitude": 37.56164,
+    "Longitude": 126.853327
+  },
+  {
+    "Branch": "가양역사거리",
+    "Location": "서울특별시 강서구 화곡로 416 (등촌동) 가양더스카이벨리5차 지식산업센터 101, 102, 114,~117호",
+    "Latitude": 37.56007,
+    "Longitude": 126.855372
+  },
+  {
+    "Branch": "가양이마트",
+    "Location": "서울특별시 강서구 양천로 559 (가양동) 1층",
+    "Latitude": 37.5578966,
+    "Longitude": 126.8622978
+  },
+  {
+    "Branch": "가재울뉴타운",
+    "Location": "서울특별시 서대문구 가재울미래로 2 (남가좌동, DMC파크뷰자이)",
+    "Latitude": 37.5749841,
+    "Longitude": 126.9164441
+  },
+  {
+    "Branch": "간석중앙공원DT",
+    "Location": "인천광역시 남동구 경인로 563 (간석동)",
+    "Latitude": 37.463301,
+    "Longitude": 126.700723
+  },
+  {
+    "Branch": "강남2",
+    "Location": "서울특별시 서초구 서초대로77길 27, 유빌딩 1,2층 (서초동)",
+    "Latitude": 37.5000875,
+    "Longitude": 127.0254909
+  },
+  {
+    "Branch": "강남교보타워R",
+    "Location": "서울특별시 서초구 강남대로 465 (서초동)",
+    "Latitude": 37.503789,
+    "Longitude": 127.024075
+  },
+  {
+    "Branch": "강남구청역",
+    "Location": "서울특별시 강남구 선릉로 669, 웰빙센터 1층 (논현동)",
+    "Latitude": 37.5165849,
+    "Longitude": 127.0412433
+  },
+  {
+    "Branch": "강남구청정문",
+    "Location": "서울특별시 강남구 학동로 419 (청담동)",
+    "Latitude": 37.518181,
+    "Longitude": 127.045995
+  },
+  {
+    "Branch": "강남논현",
+    "Location": "서울특별시 강남구 강남대로 512 (논현동)",
+    "Latitude": 37.5078978596254,
+    "Longitude": 127.023338614644
+  },
+  {
+    "Branch": "강남대로",
+    "Location": "서울특별시 강남구 강남대로 456, 한석타워 2층 1-2호 (역삼동)",
+    "Latitude": 37.50314,
+    "Longitude": 127.025546
+  },
+  {
+    "Branch": "강남대로논현R",
+    "Location": "서울특별시 서초구 강남대로85길 5 (반포동)",
+    "Latitude": 37.507413,
+    "Longitude": 127.022568
+  },
+  {
+    "Branch": "강남대로신사",
+    "Location": "서울특별시 서초구 강남대로 595 (잠원동)",
+    "Latitude": 37.51489,
+    "Longitude": 127.019469
+  },
+  {
+    "Branch": "강남비젼타워",
+    "Location": "서울특별시 강남구 테헤란로2길 27, 1층 101호 (역삼동)",
+    "Latitude": 37.4964557,
+    "Longitude": 127.0296885
+  },
+  {
+    "Branch": "강남삼성타운",
+    "Location": "서울특별시 서초구 서초대로78길 24 (서초동)",
+    "Latitude": 37.49562035,
+    "Longitude": 127.0277144
+  },
+  {
+    "Branch": "강남세곡",
+    "Location": "서울특별시 강남구 헌릉로569길 18 (세곡동)",
+    "Latitude": 37.467274319644,
+    "Longitude": 127.099929726
+  },
+  {
+    "Branch": "강남에비뉴",
+    "Location": "서울특별시 서초구 서초대로77길 62, 강남역아이파크 B102~B105 (서초동)",
+    "Latitude": 37.5027,
+    "Longitude": 127.023894
+  },
+  {
+    "Branch": "강남오거리",
+    "Location": "서울특별시 강남구 봉은사로2길 39 (역삼동)",
+    "Latitude": 37.502117,
+    "Longitude": 127.026672
+  },
+  {
+    "Branch": "강남우성",
+    "Location": "서울특별시 강남구 강남대로 328 (역삼동)",
+    "Latitude": 37.492396,
+    "Longitude": 127.03091
+  },
+  {
+    "Branch": "강남GT타워",
+    "Location": "서울특별시 서초구 서초대로 411, GT타워 (서초동)",
+    "Latitude": 37.498056,
+    "Longitude": 127.025833
+  },
+  {
+    "Branch": "강남R",
+    "Location": "서울특별시 강남구 강남대로 390 (역삼동)",
+    "Latitude": 37.497711,
+    "Longitude": 127.028439
+  },
+  {
+    "Branch": "강동구청DT",
+    "Location": "서울특별시 강동구 성내로 32 (성내동)",
+    "Latitude": 37.529437,
+    "Longitude": 127.123835
+  },
+  {
+    "Branch": "강동암사DT",
+    "Location": "서울특별시 강동구 고덕로 43 (암사동)",
+    "Latitude": 37.555054,
+    "Longitude": 127.130065
+  },
+  {
+    "Branch": "강동역",
+    "Location": "서울특별시 강동구 천호대로 1089 (천호동, 강동 헤르셔)",
+    "Latitude": 37.536047,
+    "Longitude": 127.133086
+  },
+  {
+    "Branch": "강릉강문해변",
+    "Location": "강원도 강릉시 창해로350번길 3 (강문동)",
+    "Latitude": 37.794712,
+    "Longitude": 128.918555
+  },
+  {
+    "Branch": "강릉교동광장",
+    "Location": "강원도 강릉시 교동광장로 114 (교동)",
+    "Latitude": 37.764312,
+    "Longitude": 128.877061
+  },
+  {
+    "Branch": "강릉송정DT",
+    "Location": "강원도 강릉시 경강로 2400 (송정동)",
+    "Latitude": 37.771851,
+    "Longitude": 128.922839
+  },
+  {
+    "Branch": "강릉안목항",
+    "Location": "강원도 강릉시 창해로14번길 40 (견소동)",
+    "Latitude": 37.771376,
+    "Longitude": 128.948725
+  },
+  {
+    "Branch": "강릉율곡DT",
+    "Location": "강원도 강릉시 율곡로 2996 (교동)",
+    "Latitude": 37.7698839,
+    "Longitude": 128.8922189
+  },
+  {
+    "Branch": "강릉중앙로",
+    "Location": "강원도 강릉시 경강로 2096 (임당동)",
+    "Latitude": 37.7544531,
+    "Longitude": 128.8962224
+  },
+  {
+    "Branch": "강변역",
+    "Location": "서울특별시 광진구 구의강변로 64 (구의동) 구의아크로리버",
+    "Latitude": 37.536155,
+    "Longitude": 127.093086
+  },
+  {
+    "Branch": "강북구청사거리",
+    "Location": "서울특별시 강북구 도봉로 365 (수유동)",
+    "Latitude": 37.6400354,
+    "Longitude": 127.0273766
+  },
+  {
+    "Branch": "강북삼성병원",
+    "Location": "서울특별시 종로구 새문안로 29 (평동)",
+    "Latitude": 37.568546,
+    "Longitude": 126.96756
+  },
+  {
+    "Branch": "강북삼성병원1층",
+    "Location": "서울특별시 종로구 새문안로 29 (평동)",
+    "Latitude": 37.568546,
+    "Longitude": 126.96756
+  },
+  {
+    "Branch": "강서구청사거리",
+    "Location": "서울특별시 강서구 화곡로 350 (화곡동)",
+    "Latitude": 37.5549266,
+    "Longitude": 126.8523133
+  },
+  {
+    "Branch": "강서NC",
+    "Location": "서울특별시 강서구 강서로56길 17 (등촌동)",
+    "Latitude": 37.560088,
+    "Longitude": 126.840534
+  },
+  {
+    "Branch": "강원대",
+    "Location": "강원도 춘천시 서부대성로 243-1 (효자동)",
+    "Latitude": 37.872749,
+    "Longitude": 127.745062
+  },
+  {
+    "Branch": "갤러리아팰리스",
+    "Location": "서울특별시 송파구 올림픽로 212, 갤러리아 팰리스 (잠실동)",
+    "Latitude": 37.51108365,
+    "Longitude": 127.0938059
+  },
+  {
+    "Branch": "거제고현",
+    "Location": "경상남도 거제시 거제중앙로 1936 (고현동)",
+    "Latitude": 34.8907709,
+    "Longitude": 128.6221848
+  },
+  {
+    "Branch": "거제대로DT",
+    "Location": "경상남도 거제시 거제대로 4521 (수월동)",
+    "Latitude": 34.894667,
+    "Longitude": 128.641559
+  },
+  {
+    "Branch": "거제옥포",
+    "Location": "경상남도 거제시 옥포대첩로 38 (옥포동)",
+    "Latitude": 34.89353088,
+    "Longitude": 128.691816
+  },
+  {
+    "Branch": "거제옥포DT",
+    "Location": "경상남도 거제시 거제대로 3718 (옥포동)",
+    "Latitude": 34.88918,
+    "Longitude": 128.69154
+  },
+  {
+    "Branch": "건국대",
+    "Location": "서울특별시 광진구 능동로 117 (화양동)",
+    "Latitude": 37.5415592,
+    "Longitude": 127.0711244
+  },
+  {
+    "Branch": "건국클래식",
+    "Location": "서울특별시 광진구 능동로 90 (자양동) 더 클래식500",
+    "Latitude": 37.538466,
+    "Longitude": 127.071271
+  },
+  {
+    "Branch": "건대스타시티",
+    "Location": "서울특별시 광진구 아차산로 262 (자양동)",
+    "Latitude": 37.538544,
+    "Longitude": 127.073009
+  },
+  {
+    "Branch": "건대입구",
+    "Location": "서울특별시 광진구 능동로 107 (화양동)",
+    "Latitude": 37.5406604,
+    "Longitude": 127.0707225
+  },
+  {
+    "Branch": "건대후문",
+    "Location": "서울특별시 광진구 능동로 172 (화양동)",
+    "Latitude": 37.5460180138476,
+    "Longitude": 127.074001181744
+  },
+  {
+    "Branch": "검단사거리역",
+    "Location": "인천광역시 서구 완정로 172 (마전동)",
+    "Latitude": 37.6025256,
+    "Longitude": 126.6574188
+  },
+  {
+    "Branch": "경기대",
+    "Location": "서울특별시 서대문구 충정로 53 (충정로2가)",
+    "Latitude": 37.56367995,
+    "Longitude": 126.9646045
+  },
+  {
+    "Branch": "경남대",
+    "Location": "경상남도 창원시 마산합포구 월영남로 3 (해운동)",
+    "Latitude": 35.178461,
+    "Longitude": 128.5586
+  },
+  {
+    "Branch": "경남사천DT",
+    "Location": "경상남도 사천시 사천읍 사천대로 1844",
+    "Latitude": 35.081409,
+    "Longitude": 128.083669
+  },
+  {
+    "Branch": "경복궁사거리",
+    "Location": "서울특별시 종로구 율곡로 6, B동 101호(중학동, 트윈트리타워)",
+    "Latitude": 37.575578,
+    "Longitude": 126.980581
+  },
+  {
+    "Branch": "경복궁역",
+    "Location": "서울특별시 종로구 자하문로4길 6, 1층 (통의동)",
+    "Latitude": 37.5771508,
+    "Longitude": 126.9727453
+  },
+  {
+    "Branch": "경북대",
+    "Location": "대구광역시 북구 대학로 75 (산격동)",
+    "Latitude": 35.89232,
+    "Longitude": 128.608586
+  },
+  {
+    "Branch": "경산이마트",
+    "Location": "경상북도 경산시 옥산로 227 (중산동) 경산이마트",
+    "Latitude": 35.83571847,
+    "Longitude": 128.7197969
+  },
+  {
+    "Branch": "경산임당역DT",
+    "Location": "경상북도 경산시 대학로 208 (계양동)",
+    "Latitude": 35.8335414,
+    "Longitude": 128.7454908
+  },
+  {
+    "Branch": "경산중방DT",
+    "Location": "경상북도 경산시 경안로 222 (중방동)",
+    "Latitude": 35.827736,
+    "Longitude": 128.736944
+  },
+  {
+    "Branch": "경산하양DT",
+    "Location": "경상북도 경산시 진량읍 대학로 1415 경상북도 경산시 진량읍 대학로 1417",
+    "Latitude": 35.904849,
+    "Longitude": 128.823882
+  },
+  {
+    "Branch": "경상대칠암캠퍼스",
+    "Location": "경상남도 진주시 동진로 22 (칠암동)",
+    "Latitude": 35.1787,
+    "Longitude": 128.093582
+  },
+  {
+    "Branch": "경성대",
+    "Location": "부산광역시 남구 수영로 312 (대연동)",
+    "Latitude": 35.13742382,
+    "Longitude": 129.1009316
+  },
+  {
+    "Branch": "경인교대입구역DT",
+    "Location": "인천광역시 계양구 계양대로 131 (작전동)",
+    "Latitude": 37.5355197,
+    "Longitude": 126.722153
+  },
+  {
+    "Branch": "경주대릉원",
+    "Location": "경상북도 경주시 첨성로 125 (황남동)",
+    "Latitude": 35.8339927,
+    "Longitude": 129.2149807
+  },
+  {
+    "Branch": "경주보문",
+    "Location": "경상북도 경주시 보문로 537 (천군동)",
+    "Latitude": 35.836607,
+    "Longitude": 129.284983
+  },
+  {
+    "Branch": "경주보문로DT",
+    "Location": "경상북도 경주시 보문로 510-6, 외 1번지(신평동 719-220) (천군동)",
+    "Latitude": 35.838831,
+    "Longitude": 129.285953
+  },
+  {
+    "Branch": "경주보문호수DT",
+    "Location": "경상북도 경주시 보문로 132-6 (북군동)",
+    "Latitude": 35.8532391,
+    "Longitude": 129.2686877
+  },
+  {
+    "Branch": "경주용강DT",
+    "Location": "경상북도 경주시 산업로 4350 (용강동)",
+    "Latitude": 35.8677384570479,
+    "Longitude": 129.224454581086
+  },
+  {
+    "Branch": "경주중앙",
+    "Location": "경상북도 경주시 원효로 105-1 (노동동)",
+    "Latitude": 35.842119,
+    "Longitude": 129.212469
+  },
+  {
+    "Branch": "경주터미널DT",
+    "Location": "경상북도 경주시 태종로 686 (사정동)",
+    "Latitude": 35.838226,
+    "Longitude": 129.203324
+  },
+  {
+    "Branch": "경주황성",
+    "Location": "경상북도 경주시 황성로1번길 4 (황성동)",
+    "Latitude": 35.8638933,
+    "Longitude": 129.2129811
+  },
+  {
+    "Branch": "경희궁로",
+    "Location": "서울특별시 종로구 새문안로3길 15 (당주동)",
+    "Latitude": 37.571759,
+    "Longitude": 126.972343
+  },
+  {
+    "Branch": "경희대",
+    "Location": "서울특별시 동대문구 경희대로 16-1 (회기동)",
+    "Latitude": 37.5928812,
+    "Longitude": 127.0528085
+  },
+  {
+    "Branch": "경희대삼거리",
+    "Location": "서울특별시 동대문구 회기로 141 (회기동)",
+    "Latitude": 37.591531,
+    "Longitude": 127.052017
+  },
+  {
+    "Branch": "계룡대로DT",
+    "Location": "충청남도 계룡시 엄사면 번영로 6",
+    "Latitude": 36.288381,
+    "Longitude": 127.244398
+  },
+  {
+    "Branch": "계명대동산병원",
+    "Location": "대구광역시 달서구 달구벌대로 1035 (신당동)",
+    "Latitude": 35.853811,
+    "Longitude": 128.480276
+  },
+  {
+    "Branch": "계양BMW",
+    "Location": "인천광역시 계양구 서운산단로2길 6 (서운동) BMW 바바리안모터스",
+    "Latitude": 37.5322648,
+    "Longitude": 126.7564676
+  },
+  {
+    "Branch": "고대",
+    "Location": "서울특별시 성북구 고려대로24길 51 (안암동5가)",
+    "Latitude": 37.58397192,
+    "Longitude": 127.0297352
+  },
+  {
+    "Branch": "공덕",
+    "Location": "서울특별시 마포구 마포대로 130 (공덕동)",
+    "Latitude": 37.545913,
+    "Longitude": 126.952956
+  },
+  {
+    "Branch": "공덕오거리",
+    "Location": "서울특별시 마포구 마포대로 86 (도화동) 창강빌딩",
+    "Latitude": 37.5424641,
+    "Longitude": 126.9505773
+  },
+  {
+    "Branch": "공릉역",
+    "Location": "서울특별시 노원구 동일로 1081 (공릉동)",
+    "Latitude": 37.626337,
+    "Longitude": 127.072252
+  },
+  {
+    "Branch": "공릉DT",
+    "Location": "서울특별시 노원구 동일로 1015 (공릉동)",
+    "Latitude": 37.6206884,
+    "Longitude": 127.0743116
+  },
+  {
+    "Branch": "공주동학사DT",
+    "Location": "충청남도 공주시 반포면 동학사1로 114",
+    "Latitude": 36.36336,
+    "Longitude": 127.2535628
+  },
+  {
+    "Branch": "공주신관",
+    "Location": "충청남도 공주시 번영1로 113 (신관동)",
+    "Latitude": 36.474648,
+    "Longitude": 127.14003
+  },
+  {
+    "Branch": "공주DT",
+    "Location": "충청남도 공주시 무령로 467 (신관동)",
+    "Latitude": 36.46815,
+    "Longitude": 127.14274
+  },
+  {
+    "Branch": "관악서울대입구R",
+    "Location": "서울특별시 관악구 관악로 158 (봉천동)",
+    "Latitude": 37.479343,
+    "Longitude": 126.95278
+  },
+  {
+    "Branch": "광나루",
+    "Location": "서울특별시 광진구 아차산로 607, 1,2층 (광장동)",
+    "Latitude": 37.547442,
+    "Longitude": 127.105934
+  },
+  {
+    "Branch": "광산수완",
+    "Location": "광주광역시 광산구 장신로 134, 1~2층 (수완동)",
+    "Latitude": 35.190397,
+    "Longitude": 126.824804
+  },
+  {
+    "Branch": "광안리",
+    "Location": "부산광역시 수영구 광안해변로 247 (민락동)",
+    "Latitude": 35.15502782,
+    "Longitude": 129.1208407
+  },
+  {
+    "Branch": "광안비치",
+    "Location": "부산광역시 수영구 광안로62번길 39 (광안동)",
+    "Latitude": 35.153039,
+    "Longitude": 129.117808
+  },
+  {
+    "Branch": "광안수변공원",
+    "Location": "부산광역시 수영구 민락수변로 29 (민락동)",
+    "Latitude": 35.153261,
+    "Longitude": 129.124656
+  },
+  {
+    "Branch": "광운대",
+    "Location": "서울특별시 노원구 석계로 104 (월계동)",
+    "Latitude": 37.6231479,
+    "Longitude": 127.0607009
+  },
+  {
+    "Branch": "광장",
+    "Location": "서울특별시 광진구 아차산로 537-17 (광장동)",
+    "Latitude": 37.542518,
+    "Longitude": 127.099651
+  },
+  {
+    "Branch": "광주금호DT",
+    "Location": "광주광역시 서구 운천로 107 (쌍촌동)",
+    "Latitude": 35.1421126,
+    "Longitude": 126.8576646
+  },
+  {
+    "Branch": "광주동림",
+    "Location": "광주광역시 서구 하남대로 672-1, 1층 (동천동)",
+    "Latitude": 35.171734,
+    "Longitude": 126.86618
+  },
+  {
+    "Branch": "광주동명",
+    "Location": "광주광역시 동구 동명로 16 (동명동)",
+    "Latitude": 35.150362,
+    "Longitude": 126.9236181
+  },
+  {
+    "Branch": "광주두암타운",
+    "Location": "광주광역시 북구 삼정로 4 (두암동)",
+    "Latitude": 35.162112,
+    "Longitude": 126.937388
+  },
+  {
+    "Branch": "광주매곡DT",
+    "Location": "광주광역시 북구 설죽로 339 (매곡동)",
+    "Latitude": 35.189836,
+    "Longitude": 126.898698
+  },
+  {
+    "Branch": "광주무등산",
+    "Location": "광주광역시 동구 증심사길 16 (운림동)",
+    "Latitude": 35.133909,
+    "Longitude": 126.954311
+  },
+  {
+    "Branch": "광주방림DT",
+    "Location": "광주광역시 남구 대남대로 67 (방림동)",
+    "Latitude": 35.13498,
+    "Longitude": 126.917698
+  },
+  {
+    "Branch": "광주봉선",
+    "Location": "광주광역시 남구 봉선로 176, 1층 101,111호 (봉선동)",
+    "Latitude": 35.122921,
+    "Longitude": 126.914111
+  },
+  {
+    "Branch": "광주봉선로",
+    "Location": "광주광역시 남구 제석로 104 (봉선동)",
+    "Latitude": 35.124262,
+    "Longitude": 126.907898
+  },
+  {
+    "Branch": "광주봉선중앙",
+    "Location": "광주광역시 남구 봉선중앙로 51 (봉선동)",
+    "Latitude": 35.1254197,
+    "Longitude": 126.9112507
+  },
+  {
+    "Branch": "광주북구청",
+    "Location": "광주광역시 북구 서방로9번길 30 (중흥동)",
+    "Latitude": 35.17483,
+    "Longitude": 126.914469
+  },
+  {
+    "Branch": "광주비아DT",
+    "Location": "광주광역시 광산구 첨단과기로 81 (비아동)",
+    "Latitude": 35.222888,
+    "Longitude": 126.834962
+  },
+  {
+    "Branch": "광주산정DT",
+    "Location": "광주광역시 광산구 용아로 342 (산정동)",
+    "Latitude": 35.173524,
+    "Longitude": 126.804191
+  },
+  {
+    "Branch": "광주상무",
+    "Location": "광주광역시 서구 상무중앙로 75 (치평동)",
+    "Latitude": 35.1536205,
+    "Longitude": 126.8479543
+  },
+  {
+    "Branch": "광주상무대교",
+    "Location": "광주광역시 서구 상무중앙로 90, 눈높이상무센터 1층 (치평동)",
+    "Latitude": 35.1551,
+    "Longitude": 126.848788
+  },
+  {
+    "Branch": "광주상무시민로",
+    "Location": "광주광역시 서구 운천로 253 (치평동) 103호",
+    "Latitude": 35.154963,
+    "Longitude": 126.854437
+  },
+  {
+    "Branch": "광주상무중앙로",
+    "Location": "광주광역시 서구 상무중앙로 46 (치평동) 1층",
+    "Latitude": 35.151021,
+    "Longitude": 126.848815
+  },
+  {
+    "Branch": "광주상무DT",
+    "Location": "광주광역시 서구 상무대로 847 (쌍촌동)",
+    "Latitude": 35.1502,
+    "Longitude": 126.855
+  },
+  {
+    "Branch": "광주서문대로",
+    "Location": "광주광역시 남구 서문대로 665 (진월동)",
+    "Latitude": 35.119448,
+    "Longitude": 126.898595
+  },
+  {
+    "Branch": "광주선운DT",
+    "Location": "광주광역시 광산구 선운로 20번길 63",
+    "Latitude": 35.146768,
+    "Longitude": 126.77772
+  },
+  {
+    "Branch": "광주송정역",
+    "Location": "광주광역시 광산구 상무대로205번길 6 (송정동)",
+    "Latitude": 35.138026,
+    "Longitude": 126.791444
+  },
+  {
+    "Branch": "광주수완DT",
+    "Location": "광주광역시 광산구 임방울대로 487 (수완동)",
+    "Latitude": 35.203175,
+    "Longitude": 126.819065
+  },
+  {
+    "Branch": "광주신가DT",
+    "Location": "광주광역시 광산구 목련로 335 (신가동)",
+    "Latitude": 35.1790467,
+    "Longitude": 126.8301259
+  },
+  {
+    "Branch": "광주신세계DT",
+    "Location": "광주광역시 서구 죽봉대로 33 (화정동)",
+    "Latitude": 35.1563,
+    "Longitude": 126.8831
+  },
+  {
+    "Branch": "광주신안DT",
+    "Location": "광주광역시 북구 서암대로 93 (신안동)",
+    "Latitude": 35.171678,
+    "Longitude": 126.894998
+  },
+  {
+    "Branch": "광주쌍암",
+    "Location": "광주광역시 광산구 첨단중앙로 158 (쌍암동)",
+    "Latitude": 35.2192427,
+    "Longitude": 126.8424211
+  },
+  {
+    "Branch": "광주연제DT",
+    "Location": "광주광역시 북구 양일로18번길 2 (연제동)",
+    "Latitude": 35.197688,
+    "Longitude": 126.866803
+  },
+  {
+    "Branch": "광주오치",
+    "Location": "광주광역시 북구 설죽로 314 (오치동)",
+    "Latitude": 35.187457,
+    "Longitude": 126.898994
+  },
+  {
+    "Branch": "광주용두DT",
+    "Location": "광주광역시 북구 임방울대로 1016 (신용동)",
+    "Latitude": 35.212837,
+    "Longitude": 126.868485
+  },
+  {
+    "Branch": "광주용봉",
+    "Location": "광주광역시 북구 저불로 45 (용봉동)",
+    "Latitude": 35.178664,
+    "Longitude": 126.895196
+  },
+  {
+    "Branch": "광주운남DT",
+    "Location": "광주광역시 광산구 임방울대로 156 (운남동)",
+    "Latitude": 35.175136,
+    "Longitude": 126.818062
+  },
+  {
+    "Branch": "광주월산DT",
+    "Location": "광주광역시 남구 대남대로 386 (월산동)",
+    "Latitude": 35.145516,
+    "Longitude": 126.890794
+  },
+  {
+    "Branch": "광주일곡",
+    "Location": "광주광역시 북구 설죽로 518 (일곡동)",
+    "Latitude": 35.205463,
+    "Longitude": 126.898114
+  },
+  {
+    "Branch": "광주장덕",
+    "Location": "광주광역시 광산구 장신로 85 (장덕동)",
+    "Latitude": 35.191469,
+    "Longitude": 126.819259
+  },
+  {
+    "Branch": "광주주월DT",
+    "Location": "광주광역시 남구 회재로 1256 (주월동)",
+    "Latitude": 35.1341387,
+    "Longitude": 126.8981372
+  },
+  {
+    "Branch": "광주지산유원지입구",
+    "Location": "광주광역시 동구 무등로 592 (산수동)",
+    "Latitude": 35.154459,
+    "Longitude": 126.940912
+  },
+  {
+    "Branch": "광주지산DT",
+    "Location": "광주광역시 동구 필문대로 240 (동명동)",
+    "Latitude": 35.149728,
+    "Longitude": 126.92907
+  },
+  {
+    "Branch": "광주지원DT",
+    "Location": "광주광역시 동구 남문로 529 (용산동)",
+    "Latitude": 35.1175025,
+    "Longitude": 126.9340006
+  },
+  {
+    "Branch": "광주진월",
+    "Location": "광주광역시 남구 서문대로 745 (주월동)",
+    "Latitude": 35.125781,
+    "Longitude": 126.897221
+  },
+  {
+    "Branch": "광주첨단",
+    "Location": "광주광역시 광산구 첨단중앙로 104 (월계동)",
+    "Latitude": 35.214806,
+    "Longitude": 126.843227
+  },
+  {
+    "Branch": "광주첨단신용",
+    "Location": "광주광역시 북구 첨단연신로 101 (신용동)",
+    "Latitude": 35.20701,
+    "Longitude": 126.864115
+  },
+  {
+    "Branch": "광주충장로",
+    "Location": "광주광역시 동구 충장로 65 (충장로3가)",
+    "Latitude": 35.149486,
+    "Longitude": 126.914792
+  },
+  {
+    "Branch": "광주풍암",
+    "Location": "광주광역시 서구 풍암2로 8 (풍암동) 한아름빌딩",
+    "Latitude": 35.1268447,
+    "Longitude": 126.8796486
+  },
+  {
+    "Branch": "광주하남",
+    "Location": "광주광역시 광산구 사암로216번길 38-16, 1~2층 (우산동)",
+    "Latitude": 35.162722,
+    "Longitude": 126.810218
+  },
+  {
+    "Branch": "광주화정DT",
+    "Location": "광주광역시 서구 상무대로 1080",
+    "Latitude": 35.152205,
+    "Longitude": 126.879997
+  },
+  {
+    "Branch": "광주황금",
+    "Location": "광주광역시 동구 중앙로160번길 14 (황금동)",
+    "Latitude": 35.1473572,
+    "Longitude": 126.9145683
+  },
+  {
+    "Branch": "광주효천DT",
+    "Location": "광주광역시 남구 임암길 232 (임암동)",
+    "Latitude": 35.100033,
+    "Longitude": 126.871253
+  },
+  {
+    "Branch": "광주흑석DT",
+    "Location": "광주광역시 광산구 사암로 367 (산정동)",
+    "Latitude": 35.176936,
+    "Longitude": 126.807887
+  },
+  {
+    "Branch": "광화문우체국",
+    "Location": "서울특별시 종로구 종로 6 (서린동)",
+    "Latitude": 37.569854,
+    "Longitude": 126.978083
+  },
+  {
+    "Branch": "광화문D타워",
+    "Location": "서울특별시 종로구 종로3길 17 (청진동) D타워",
+    "Latitude": 37.5714,
+    "Longitude": 126.9788297
+  },
+  {
+    "Branch": "광화문R",
+    "Location": "서울특별시 종로구 세종대로 167 (세종로)",
+    "Latitude": 37.5712293,
+    "Longitude": 126.9762872
+  },
+  {
+    "Branch": "교대",
+    "Location": "서울특별시 서초구 서초중앙로 118 (서초동)",
+    "Latitude": 37.4923611,
+    "Longitude": 127.0142207
+  },
+  {
+    "Branch": "교대법원",
+    "Location": "서울특별시 서초구 서초중앙로 164 (서초동)",
+    "Latitude": 37.496329,
+    "Longitude": 127.013336
+  },
+  {
+    "Branch": "교대역",
+    "Location": "서울특별시 서초구 서초중앙로 138 (서초동) 우림빌딩",
+    "Latitude": 37.494207,
+    "Longitude": 127.01394
+  },
+  {
+    "Branch": "구로고척",
+    "Location": "서울특별시 구로구 경인로 387 (고척동)",
+    "Latitude": 37.49706,
+    "Longitude": 126.86315
+  },
+  {
+    "Branch": "구로디지털로",
+    "Location": "서울특별시 구로구 디지털로33길 11, 에이스테크노8차 1층 (구로동)",
+    "Latitude": 37.485911,
+    "Longitude": 126.895587
+  },
+  {
+    "Branch": "구로디지털타워",
+    "Location": "서울특별시 구로구 디지털로32길 30 (구로동)",
+    "Latitude": 37.483432,
+    "Longitude": 126.89648
+  },
+  {
+    "Branch": "구로에이스",
+    "Location": "서울특별시 구로구 디지털로 285, 에이스트윈타워1차 103호 (구로동)",
+    "Latitude": 37.48448329,
+    "Longitude": 126.8944957
+  },
+  {
+    "Branch": "구로하이엔드",
+    "Location": "서울특별시 구로구 디지털로26길 5, 에이스하이엔드타워1차 103호 (구로동)",
+    "Latitude": 37.481618,
+    "Longitude": 126.893136
+  },
+  {
+    "Branch": "구로호텔",
+    "Location": "서울특별시 구로구 디지털로32길 72, 구로호텔 1층 (구로동)",
+    "Latitude": 37.4831293,
+    "Longitude": 126.8988591
+  },
+  {
+    "Branch": "구로NC",
+    "Location": "서울특별시 구로구 구로중앙로 152 (구로동) 구로NC",
+    "Latitude": 37.501219,
+    "Longitude": 126.882798
+  },
+  {
+    "Branch": "구미",
+    "Location": "경상북도 구미시 구미중앙로 94 (원평동)",
+    "Latitude": 36.12817066,
+    "Longitude": 128.3326941
+  },
+  {
+    "Branch": "구미공단",
+    "Location": "경상북도 구미시 1공단로 212, HALLA SIGMA VALLEY 106 (공단동)",
+    "Latitude": 36.101533,
+    "Longitude": 128.385933
+  },
+  {
+    "Branch": "구미광평DT",
+    "Location": "경상북도 구미시 구미대로 188 (광평동)",
+    "Latitude": 36.10374,
+    "Longitude": 128.36359
+  },
+  {
+    "Branch": "구미금오산DT",
+    "Location": "경상북도 구미시 금오산로 205 (남통동)",
+    "Latitude": 36.12245,
+    "Longitude": 128.323746
+  },
+  {
+    "Branch": "구미도량DT",
+    "Location": "경상북도 구미시 야은로 312 (도량동)",
+    "Latitude": 36.138474,
+    "Longitude": 128.316815
+  },
+  {
+    "Branch": "구미문성DT",
+    "Location": "경상북도 구미시 고아읍 들성로 207",
+    "Latitude": 36.160862,
+    "Longitude": 128.342911
+  },
+  {
+    "Branch": "구미상모DT",
+    "Location": "경상북도 구미시 금오대로 439 (상모동)",
+    "Latitude": 36.0823172,
+    "Longitude": 128.3563847
+  },
+  {
+    "Branch": "구미시청DT",
+    "Location": "경상북도 구미시 송정대로 27 (송정동)",
+    "Latitude": 36.1176314,
+    "Longitude": 128.3416068
+  },
+  {
+    "Branch": "구미옥계",
+    "Location": "경상북도 구미시 옥계북로 20 (양포동)",
+    "Latitude": 36.138285,
+    "Longitude": 128.419563
+  },
+  {
+    "Branch": "구미인동",
+    "Location": "경상북도 구미시 인동가산로 9-3, 노블레스타워 1층 (황상동)",
+    "Latitude": 36.10809343,
+    "Longitude": 128.4183751
+  },
+  {
+    "Branch": "구미인의",
+    "Location": "경상북도 구미시 인동중앙로 15 (인의동)",
+    "Latitude": 36.1069986,
+    "Longitude": 128.4207103
+  },
+  {
+    "Branch": "구미확장단지",
+    "Location": "경상북도 구미시 산동읍 신당1로4길 19",
+    "Latitude": 36.155923,
+    "Longitude": 128.4299
+  },
+  {
+    "Branch": "구산역",
+    "Location": "서울특별시 은평구 연서로 146 (대조동)",
+    "Latitude": 37.611745,
+    "Longitude": 126.917678
+  },
+  {
+    "Branch": "구역삼사거리",
+    "Location": "서울특별시 강남구 논현로 401 (역삼동)",
+    "Latitude": 37.49592355,
+    "Longitude": 127.0388645
+  },
+  {
+    "Branch": "구월길병원",
+    "Location": "인천광역시 남동구 남동대로 773, , 14 삼성화재 인천사옥 (구월동)",
+    "Latitude": 37.45167435,
+    "Longitude": 126.7074902
+  },
+  {
+    "Branch": "구월로데오",
+    "Location": "인천광역시 남동구 인하로 497-22, 2층 (구월동)",
+    "Latitude": 37.44420071,
+    "Longitude": 126.7021764
+  },
+  {
+    "Branch": "구의역",
+    "Location": "서울특별시 광진구 아차산로 373 (구의동)",
+    "Latitude": 37.53698,
+    "Longitude": 127.084015
+  },
+  {
+    "Branch": "구의DT",
+    "Location": "서울특별시 광진구 광나루로 519 (구의동)",
+    "Latitude": 37.5451984,
+    "Longitude": 127.0871587
+  },
+  {
+    "Branch": "구파발사거리",
+    "Location": "서울특별시 은평구 진관3로 21 은평엘크루 101동 105-108호",
+    "Latitude": 37.639617,
+    "Longitude": 126.91881
+  },
+  {
+    "Branch": "구파발역",
+    "Location": "서울특별시 은평구 진관2로 12",
+    "Latitude": 37.63446,
+    "Longitude": 126.918881
+  },
+  {
+    "Branch": "국기원사거리",
+    "Location": "서울특별시 강남구 테헤란로 125 (역삼동)",
+    "Latitude": 37.499517,
+    "Longitude": 127.031495
+  },
+  {
+    "Branch": "국립대구박물관DT",
+    "Location": "대구광역시 수성구 청호로 318 (황금동)",
+    "Latitude": 35.845491,
+    "Longitude": 128.639059
+  },
+  {
+    "Branch": "국립중앙의료원",
+    "Location": "서울특별시 중구 을지로 251 (을지로6가)",
+    "Latitude": 37.566516,
+    "Longitude": 127.0062376
+  },
+  {
+    "Branch": "국제시장",
+    "Location": "부산광역시 중구 대청로 80 (대청동3가)",
+    "Latitude": 35.102783,
+    "Longitude": 129.028601
+  },
+  {
+    "Branch": "국회대로",
+    "Location": "서울특별시 영등포구 국회대로 786 (여의도동)",
+    "Latitude": 37.53026,
+    "Longitude": 126.919549
+  },
+  {
+    "Branch": "국회의사당역",
+    "Location": "서울특별시 영등포구 의사당대로 8 (여의도동)",
+    "Latitude": 37.527831,
+    "Longitude": 126.916882
+  },
+  {
+    "Branch": "군자사거리",
+    "Location": "서울특별시 광진구 천호대로 549 (중곡동) 1층",
+    "Latitude": 37.5575666,
+    "Longitude": 127.079334
+  },
+  {
+    "Branch": "군자역",
+    "Location": "서울특별시 광진구 천호대로 548 (군자동) 중앙빌딩",
+    "Latitude": 37.556965,
+    "Longitude": 127.079032
+  },
+  {
+    "Branch": "굽은다리역",
+    "Location": "서울특별시 강동구 양재대로 1568 (명일동, 원일타워)",
+    "Latitude": 37.545403,
+    "Longitude": 127.143101
+  },
+  {
+    "Branch": "그랜드조선 부산",
+    "Location": "부산광역시 해운대구 해운대해변로 292 (중동)",
+    "Latitude": 35.1600338,
+    "Longitude": 129.1630512
+  },
+  {
+    "Branch": "금련산역",
+    "Location": "부산광역시 수영구 수영로464번길 6 (남천동)",
+    "Latitude": 35.14717,
+    "Longitude": 129.1105
+  },
+  {
+    "Branch": "금정구서",
+    "Location": "부산광역시 금정구 금강로 441 (구서동)",
+    "Latitude": 35.24699,
+    "Longitude": 129.0887563
+  },
+  {
+    "Branch": "금정구청DT",
+    "Location": "부산광역시 금정구 중앙대로 1730 (부곡동)",
+    "Latitude": 35.238784,
+    "Longitude": 129.092964
+  },
+  {
+    "Branch": "금정남산동DT",
+    "Location": "부산광역시 금정구 중앙대로 1989 (남산동)",
+    "Latitude": 35.262466,
+    "Longitude": 129.091353
+  },
+  {
+    "Branch": "금정이마트",
+    "Location": "부산광역시 금정구 중앙대로1841번길 24 (구서동)",
+    "Latitude": 35.250184,
+    "Longitude": 129.090774
+  },
+  {
+    "Branch": "금천구청역",
+    "Location": "서울특별시 금천구 시흥대로73길 67 (시흥동)112,113,114,115호",
+    "Latitude": 37.455983,
+    "Longitude": 126.895727
+  },
+  {
+    "Branch": "금천독산",
+    "Location": "서울특별시 금천구 두산로 70 (독산동)",
+    "Latitude": 37.46914,
+    "Longitude": 126.895246
+  },
+  {
+    "Branch": "금천시흥",
+    "Location": "서울특별시 금천구 시흥대로 164 (시흥동)",
+    "Latitude": 37.448624,
+    "Longitude": 126.903183
+  },
+  {
+    "Branch": "금호역",
+    "Location": "서울특별시 성동구 동호로 99 (금호동4가)",
+    "Latitude": 37.5479939,
+    "Longitude": 127.0153343
+  },
+  {
+    "Branch": "기장역DT",
+    "Location": "부산광역시 기장군 기장읍 기장대로 527",
+    "Latitude": 35.2421513,
+    "Longitude": 129.220117
+  },
+  {
+    "Branch": "길동역",
+    "Location": "서울특별시 강동구 양재대로 1487 (길동)",
+    "Latitude": 37.5387433,
+    "Longitude": 127.1399879
+  },
+  {
+    "Branch": "길음역",
+    "Location": "서울특별시 성북구 정릉로 376 (돈암동)",
+    "Latitude": 37.602139,
+    "Longitude": 127.025271
+  },
+  {
+    "Branch": "김천구미역",
+    "Location": "경상북도 김천시 혁신3로 26 (율곡동)",
+    "Latitude": 36.116366,
+    "Longitude": 128.181653
+  },
+  {
+    "Branch": "김천시청DT",
+    "Location": "경상북도 김천시 시청로 47 (대신동)",
+    "Latitude": 36.132504,
+    "Longitude": 128.11759
+  },
+  {
+    "Branch": "김해구산DT",
+    "Location": "경상남도 김해시 김해대로 1918 (구산동)",
+    "Latitude": 35.255678,
+    "Longitude": 128.866418
+  },
+  {
+    "Branch": "김해금관대로DT",
+    "Location": "경상남도 김해시 금관대로 1293 (내동)",
+    "Latitude": 35.2400698,
+    "Longitude": 128.8612046
+  },
+  {
+    "Branch": "김해내동",
+    "Location": "경상남도 김해시 경원로 67 (내동)",
+    "Latitude": 35.2371519,
+    "Longitude": 128.8675208
+  },
+  {
+    "Branch": "김해대로DT",
+    "Location": "경상남도 김해시 김해대로 2465",
+    "Latitude": 35.227992,
+    "Longitude": 128.896545
+  },
+  {
+    "Branch": "김해삼계",
+    "Location": "경상남도 김해시 가야로 182 (삼계동)",
+    "Latitude": 35.261527,
+    "Longitude": 128.871614
+  },
+  {
+    "Branch": "김해외동DT",
+    "Location": "경상남도 김해시 분성로 146 (외동)",
+    "Latitude": 35.2293661,
+    "Longitude": 128.8627976
+  },
+  {
+    "Branch": "김해율하",
+    "Location": "경상남도 김해시 율하카페길 77 (관동동) 1층",
+    "Latitude": 35.176597,
+    "Longitude": 128.812782
+  },
+  {
+    "Branch": "김해율하신도시",
+    "Location": "경상남도 김해시 율하3로 32 (율하동)",
+    "Latitude": 35.170945,
+    "Longitude": 128.813901
+  },
+  {
+    "Branch": "김해이마트",
+    "Location": "경상남도 김해시 김해대로 2232 김해이마트 1층",
+    "Latitude": 35.229471,
+    "Longitude": 128.872823
+  },
+  {
+    "Branch": "김해주촌DT",
+    "Location": "경상남도 김해시 주촌면 선천로 99",
+    "Latitude": 35.235378,
+    "Longitude": 128.84415
+  },
+  {
+    "Branch": "김해진영DT",
+    "Location": "경상남도 김해시 진영읍 여래로20번길 34-26",
+    "Latitude": 35.3058947,
+    "Longitude": 128.7313911
+  },
+  {
+    "Branch": "까치산역",
+    "Location": "서울특별시 강서구 강서로13길 3 (화곡동)",
+    "Latitude": 37.532303,
+    "Longitude": 126.846077
+  },
+  {
+    "Branch": "나주혁신DT",
+    "Location": "전라남도 나주시 빛가람로 838 (빛가람동)",
+    "Latitude": 35.021078,
+    "Longitude": 126.802196
+  },
+  {
+    "Branch": "낙성대역",
+    "Location": "서울특별시 관악구 남부순환로 1908 (봉천동)",
+    "Latitude": 37.477946,
+    "Longitude": 126.961193
+  },
+  {
+    "Branch": "낙성대DT",
+    "Location": "서울특별시 관악구 남부순환로 1948 (봉천동)",
+    "Latitude": 37.476169,
+    "Longitude": 126.965005
+  },
+  {
+    "Branch": "남가좌사거리",
+    "Location": "서울특별시 서대문구 거북골로 84 (남가좌동, DMC에코자이104동)",
+    "Latitude": 37.577386,
+    "Longitude": 126.920815
+  },
+  {
+    "Branch": "남부터미널",
+    "Location": "서울특별시 서초구 서초중앙로 26, 래미안서초유니빌 1층 101호 (서초동)",
+    "Latitude": 37.48467334,
+    "Longitude": 127.0169464
+  },
+  {
+    "Branch": "남부터미널2",
+    "Location": "서울특별시 서초구 효령로 274 (서초동)",
+    "Latitude": 37.48436736,
+    "Longitude": 127.0142192
+  },
+  {
+    "Branch": "남산단암",
+    "Location": "서울특별시 중구 소월로 10, 단암빌딩 (남대문로5가)",
+    "Latitude": 37.55853622,
+    "Longitude": 126.9754585
+  },
+  {
+    "Branch": "남성역",
+    "Location": "서울특별시 동작구 사당로 219 (사당동)",
+    "Latitude": 37.4841198,
+    "Longitude": 126.9725739
+  },
+  {
+    "Branch": "남양산IC DT",
+    "Location": "경상남도 양산시 동면 양산대로 532",
+    "Latitude": 35.319987,
+    "Longitude": 129.030485
+  },
+  {
+    "Branch": "남영동",
+    "Location": "서울특별시 용산구 한강대로 275 (갈월동)",
+    "Latitude": 37.542831,
+    "Longitude": 126.972242
+  },
+  {
+    "Branch": "남천",
+    "Location": "부산광역시 수영구 남천바다로 38 (남천동)",
+    "Latitude": 35.14830649,
+    "Longitude": 129.1141711
+  },
+  {
+    "Branch": "남포동역",
+    "Location": "부산광역시 중구 구덕로 4, 1~2층 (광복동1가)",
+    "Latitude": 35.098311,
+    "Longitude": 129.035151
+  },
+  {
+    "Branch": "내발산",
+    "Location": "서울특별시 강서구 강서로 323 (내발산동), 101/102호",
+    "Latitude": 37.55467,
+    "Longitude": 126.83672
+  },
+  {
+    "Branch": "내방역",
+    "Location": "서울특별시 서초구 방배로 184 (방배동) 대풍빌딩",
+    "Latitude": 37.490004,
+    "Longitude": 126.992455
+  },
+  {
+    "Branch": "노량진동",
+    "Location": "서울특별시 동작구 노량진로 190 (노량진동, 고려교육타워-어바니엘한강) 101호~105호",
+    "Latitude": 37.513068,
+    "Longitude": 126.946537
+  },
+  {
+    "Branch": "노량진역",
+    "Location": "서울특별시 동작구 노량진로 134 (노량진동)",
+    "Latitude": 37.51339,
+    "Longitude": 126.940879
+  },
+  {
+    "Branch": "노원마들역",
+    "Location": "서울특별시 노원구 노원로 569 (상계동, 임광아파트)",
+    "Latitude": 37.660941,
+    "Longitude": 127.058008
+  },
+  {
+    "Branch": "노원역",
+    "Location": "서울특별시 노원구 동일로 1413 (상계동) 1층",
+    "Latitude": 37.654751,
+    "Longitude": 127.060034
+  },
+  {
+    "Branch": "노원KT",
+    "Location": "서울특별시 노원구 노해로 502, (주)KT 노원사옥 (상계동)",
+    "Latitude": 37.654562,
+    "Longitude": 127.063617
+  },
+  {
+    "Branch": "논산내동DT",
+    "Location": "충청남도 논산시 시민로 165 (내동)",
+    "Latitude": 36.182035,
+    "Longitude": 127.09979
+  },
+  {
+    "Branch": "논산중앙",
+    "Location": "충청남도 논산시 중앙로398번길 13-10",
+    "Latitude": 36.2012496,
+    "Longitude": 127.0899058
+  },
+  {
+    "Branch": "논현역",
+    "Location": "서울특별시 서초구 강남대로 557 (잠원동) 1~2층",
+    "Latitude": 37.5111983,
+    "Longitude": 127.0205875
+  },
+  {
+    "Branch": "논현역사거리",
+    "Location": "서울특별시 강남구 강남대로 538 (논현동)",
+    "Latitude": 37.510178,
+    "Longitude": 127.022223
+  },
+  {
+    "Branch": "논현힐탑",
+    "Location": "서울특별시 강남구 논현로 648 (논현동)",
+    "Latitude": 37.5115577,
+    "Longitude": 127.032262
+  },
+  {
+    "Branch": "뉴코아강남",
+    "Location": "서울특별시 서초구 잠원로 69 (잠원동) 킴스클럽",
+    "Latitude": 37.51031339,
+    "Longitude": 127.0069582
+  },
+  {
+    "Branch": "다대포비치",
+    "Location": "부산광역시 사하구 다대로 714 (다대동)",
+    "Latitude": 35.049404,
+    "Longitude": 128.963569
+  },
+  {
+    "Branch": "다대포DT",
+    "Location": "부산광역시 사하구 다대로 493 (다대동)",
+    "Latitude": 35.060973,
+    "Longitude": 128.975257
+  },
+  {
+    "Branch": "답십리역",
+    "Location": "서울특별시 동대문구 천호대로 263 (답십리동)",
+    "Latitude": 37.568466,
+    "Longitude": 127.051106
+  },
+  {
+    "Branch": "당산",
+    "Location": "서울특별시 영등포구 양평로 64 (당산동6가)",
+    "Latitude": 37.535164,
+    "Longitude": 126.899942
+  },
+  {
+    "Branch": "당산대로",
+    "Location": "서울특별시 영등포구 양평로 22 (당산동6가)",
+    "Latitude": 37.533121,
+    "Longitude": 126.903804
+  },
+  {
+    "Branch": "당산역사거리",
+    "Location": "서울특별시 영등포구 양평로 47 (당산동5가)",
+    "Latitude": 37.533984,
+    "Longitude": 126.901156
+  },
+  {
+    "Branch": "당진문예의전당",
+    "Location": "충청남도 당진시 시청1로 78 (읍내동) 1층",
+    "Latitude": 36.891205,
+    "Longitude": 126.638986
+  },
+  {
+    "Branch": "당진시곡DT",
+    "Location": "충청남도 당진시 서해로 6283 (시곡동)",
+    "Latitude": 36.903029,
+    "Longitude": 126.683873
+  },
+  {
+    "Branch": "대구228중앙공원",
+    "Location": "대구광역시 중구 동성로2길 95 (동성로2가)",
+    "Latitude": 35.8701932,
+    "Longitude": 128.5969103
+  },
+  {
+    "Branch": "대구가톨릭대",
+    "Location": "경상북도 경산시 하양읍 하양로 18",
+    "Latitude": 35.907786,
+    "Longitude": 128.812463
+  },
+  {
+    "Branch": "대구가톨릭대학교병원",
+    "Location": "대구광역시 남구 두류공원로17길 33 (대명동)",
+    "Latitude": 35.8433900687775,
+    "Longitude": 128.567421531995
+  },
+  {
+    "Branch": "대구각산역DT",
+    "Location": "대구광역시 동구 안심로 383",
+    "Latitude": 35.868908,
+    "Longitude": 128.7261214
+  },
+  {
+    "Branch": "대구감삼DT",
+    "Location": "대구광역시 달서구 와룡로 131",
+    "Latitude": 35.8443842,
+    "Longitude": 128.5366553
+  },
+  {
+    "Branch": "대구계명대",
+    "Location": "대구광역시 달서구 계대동문로 13 (신당동)",
+    "Latitude": 35.85567272,
+    "Longitude": 128.4937254
+  },
+  {
+    "Branch": "대구계산",
+    "Location": "대구광역시 중구 달구벌대로415길 1 (계산동2가)",
+    "Latitude": 35.866429,
+    "Longitude": 128.589696
+  },
+  {
+    "Branch": "대구공평DT",
+    "Location": "대구광역시 중구 국채보상로 642 (동인동2가)",
+    "Latitude": 35.8691866,
+    "Longitude": 128.6006466
+  },
+  {
+    "Branch": "대구광장",
+    "Location": "대구광역시 달서구 달구벌대로 1710 (두류동)",
+    "Latitude": 35.85577,
+    "Longitude": 128.552811
+  },
+  {
+    "Branch": "대구그랜드호텔R",
+    "Location": "대구광역시 수성구 동대구로 305 (범어동)",
+    "Latitude": 35.857871,
+    "Longitude": 128.625094
+  },
+  {
+    "Branch": "대구대학교",
+    "Location": "경상북도 경산시 진량읍 대구대로 201",
+    "Latitude": 35.897261,
+    "Longitude": 128.848996
+  },
+  {
+    "Branch": "대구도원DT",
+    "Location": "대구광역시 달서구 상화로 314 (도원동)",
+    "Latitude": 35.807727,
+    "Longitude": 128.548117
+  },
+  {
+    "Branch": "대구동천",
+    "Location": "대구광역시 북구 동천로 123",
+    "Latitude": 35.9425387,
+    "Longitude": 128.5604376
+  },
+  {
+    "Branch": "대구동촌유원지",
+    "Location": "대구광역시 동구 효동로2길 45 (효목동)",
+    "Latitude": 35.88011,
+    "Longitude": 128.653159
+  },
+  {
+    "Branch": "대구두류DT",
+    "Location": "대구광역시 달서구 달구벌대로 1798 (두류동)",
+    "Latitude": 35.858804,
+    "Longitude": 128.561685
+  },
+  {
+    "Branch": "대구들안길DT",
+    "Location": "대구광역시 수성구 들안로 85 (상동)",
+    "Latitude": 35.837524,
+    "Longitude": 128.61636
+  },
+  {
+    "Branch": "대구만촌이마트",
+    "Location": "대구광역시 수성구 동원로 136 (만촌동)",
+    "Latitude": 35.8711227,
+    "Longitude": 128.6372145
+  },
+  {
+    "Branch": "대구만촌DT",
+    "Location": "대구광역시 수성구 달구벌대로 2636, , 853-25번지 (만촌동)",
+    "Latitude": 35.856431,
+    "Longitude": 128.6502
+  },
+  {
+    "Branch": "대구반월삼성",
+    "Location": "대구광역시 중구 달구벌대로 2095 (덕산동)",
+    "Latitude": 35.86657,
+    "Longitude": 128.59281
+  },
+  {
+    "Branch": "대구범어제니스",
+    "Location": "대구광역시 수성구 달구벌대로 2435, 두산위브더제니스아파트 상가 1층 110호 (범어동)",
+    "Latitude": 35.859274,
+    "Longitude": 128.629687
+  },
+  {
+    "Branch": "대구봉무",
+    "Location": "대구광역시 동구 팔공로51길 15-11 (봉무동)",
+    "Latitude": 35.921942,
+    "Longitude": 128.639708
+  },
+  {
+    "Branch": "대구삼성화재",
+    "Location": "대구광역시 수성구 동대구로 401 (범어동) 삼성화재사옥",
+    "Latitude": 35.8661924,
+    "Longitude": 128.6262626
+  },
+  {
+    "Branch": "대구상동DT",
+    "Location": "대구광역시 수성구 무학로 29(상동)",
+    "Latitude": 35.8296424,
+    "Longitude": 128.6116932
+  },
+  {
+    "Branch": "대구상인역",
+    "Location": "대구광역시 달서구 월배로 210 (상인동)",
+    "Latitude": 35.8182768,
+    "Longitude": 128.5365692
+  },
+  {
+    "Branch": "대구상인DT",
+    "Location": "대구광역시 달서구 월곡로 334 (상인동)",
+    "Latitude": 35.822408,
+    "Longitude": 128.533771
+  },
+  {
+    "Branch": "대구서부정류장역",
+    "Location": "대구광역시 달서구 구마로 265 (성당동)",
+    "Latitude": 35.837881,
+    "Longitude": 128.556926
+  },
+  {
+    "Branch": "대구성서",
+    "Location": "대구광역시 달서구 이곡공원로 26, 이곡메디컬빌딩 (이곡동)",
+    "Latitude": 35.855292,
+    "Longitude": 128.510127
+  },
+  {
+    "Branch": "대구성서IC DT",
+    "Location": "대구광역시 달서구 달구벌대로 1393",
+    "Latitude": 35.8507998,
+    "Longitude": 128.5202604
+  },
+  {
+    "Branch": "대구수목원",
+    "Location": "대구광역시 달서구 화암로 379",
+    "Latitude": 35.807237,
+    "Longitude": 128.520278
+  },
+  {
+    "Branch": "대구수성네거리DT",
+    "Location": "대구광역시 수성구 들안로 342 (수성동4가)",
+    "Latitude": 35.86058,
+    "Longitude": 128.617977
+  },
+  {
+    "Branch": "대구수성도서관DT",
+    "Location": "대구광역시 수성구 화랑로 112 (만촌동)",
+    "Latitude": 35.873059,
+    "Longitude": 128.638985
+  },
+  {
+    "Branch": "대구수성동",
+    "Location": "대구광역시 수성구 명덕로 460 (수성동3가)",
+    "Latitude": 35.853776,
+    "Longitude": 128.620304
+  },
+  {
+    "Branch": "대구수성하이츠",
+    "Location": "대구광역시 수성구 수성로 393, 수성하이츠 1층 (수성동4가)",
+    "Latitude": 35.8609096,
+    "Longitude": 128.6135271
+  },
+  {
+    "Branch": "대구수성호수R",
+    "Location": "대구광역시 수성구 용학로 56 (두산동)",
+    "Latitude": 35.826126,
+    "Longitude": 128.615912
+  },
+  {
+    "Branch": "대구시지",
+    "Location": "대구광역시 수성구 달구벌대로 3216 (신매동)",
+    "Latitude": 35.8394934,
+    "Longitude": 128.7080427
+  },
+  {
+    "Branch": "대구시티센터",
+    "Location": "대구광역시 중구 국채보상로 611 (문화동)",
+    "Latitude": 35.870954,
+    "Longitude": 128.598092
+  },
+  {
+    "Branch": "대구앞산DT",
+    "Location": "대구광역시 남구 현충로 32 (대명동)",
+    "Latitude": 35.835516,
+    "Longitude": 128.579871
+  },
+  {
+    "Branch": "대구영대병원역DT",
+    "Location": "대구광역시 남구 봉덕로 25 (봉덕동)",
+    "Latitude": 35.845522,
+    "Longitude": 128.593536
+  },
+  {
+    "Branch": "대구월곡DT",
+    "Location": "대구광역시 달서구 월곡로 225 (상인동)",
+    "Latitude": 35.814866,
+    "Longitude": 128.541057
+  },
+  {
+    "Branch": "대구월성",
+    "Location": "대구광역시 달서구 조암로 41 (월성동)",
+    "Latitude": 35.82432,
+    "Longitude": 128.525727
+  },
+  {
+    "Branch": "대구월촌역",
+    "Location": "대구광역시 달서구 월배로 315 (송현동)",
+    "Latitude": 35.824025,
+    "Longitude": 128.545226
+  },
+  {
+    "Branch": "대구유통단지",
+    "Location": "대구광역시 북구 유통단지로8길 78 106호 (산격동)",
+    "Latitude": 35.905624,
+    "Longitude": 128.613347
+  },
+  {
+    "Branch": "대구율하",
+    "Location": "대구광역시 동구 안심로16길 47 (율하동)",
+    "Latitude": 35.8635367,
+    "Longitude": 128.6939265
+  },
+  {
+    "Branch": "대구죽곡",
+    "Location": "대구광역시 달성군 달구벌대로 861 (다사읍)",
+    "Latitude": 35.859055,
+    "Longitude": 128.464166
+  },
+  {
+    "Branch": "대구죽전역",
+    "Location": "대구광역시 달서구 와룡로 169",
+    "Latitude": 35.848437,
+    "Longitude": 128.536007
+  },
+  {
+    "Branch": "대구중동네거리DT",
+    "Location": "대구광역시 수성구 청수로 51 (중동)",
+    "Latitude": 35.840917,
+    "Longitude": 128.613963
+  },
+  {
+    "Branch": "대구중동DT",
+    "Location": "대구광역시 수성구 수성로 243 (중동)",
+    "Latitude": 35.847384,
+    "Longitude": 128.612529
+  },
+  {
+    "Branch": "대구중앙로역",
+    "Location": "대구광역시 중구 국채보상로 582 (남일동)",
+    "Latitude": 35.870674,
+    "Longitude": 128.594374
+  },
+  {
+    "Branch": "대구진천역",
+    "Location": "대구광역시 달서구 월배로 91 (진천동)",
+    "Latitude": 35.814395,
+    "Longitude": 128.524377
+  },
+  {
+    "Branch": "대구칠곡",
+    "Location": "대구광역시 북구 학정로 422 (구암동) 태을빌딩",
+    "Latitude": 35.9421792,
+    "Longitude": 128.5638788
+  },
+  {
+    "Branch": "대구칠곡대로DT",
+    "Location": "대구광역시 북구 칠곡중앙대로 348 (태전동)",
+    "Latitude": 35.926583,
+    "Longitude": 128.547736
+  },
+  {
+    "Branch": "대구칠성이마트",
+    "Location": "대구광역시 북구 침산로 93 (칠성동2가)",
+    "Latitude": 35.8850726575735,
+    "Longitude": 128.589754735838
+  },
+  {
+    "Branch": "대구칠성DT",
+    "Location": "대구광역시 북구 중앙대로 524 (칠성동2가)",
+    "Latitude": 35.879674,
+    "Longitude": 128.596391
+  },
+  {
+    "Branch": "대구침산DT",
+    "Location": "대구광역시 북구 침산로 126 (침산동)",
+    "Latitude": 35.8874784,
+    "Longitude": 128.5918376
+  },
+  {
+    "Branch": "대구테크노폴리스",
+    "Location": "대구광역시 달성군 유가면 테크노상업로 84 대경타워 105호, 106호, 107호",
+    "Latitude": 35.693334,
+    "Longitude": 128.459251
+  },
+  {
+    "Branch": "대구팔공산",
+    "Location": "대구광역시 동구 파계로 650",
+    "Latitude": 35.9878685,
+    "Longitude": 128.636347
+  },
+  {
+    "Branch": "대구평리DT",
+    "Location": "대구광역시 서구 서대구로 89 (평리1동)",
+    "Latitude": 35.866138,
+    "Longitude": 128.555343
+  },
+  {
+    "Branch": "대구황금DT",
+    "Location": "대구광역시 수성구 청수로 164 (지산동)",
+    "Latitude": 35.839069,
+    "Longitude": 128.625797
+  },
+  {
+    "Branch": "대우재단빌딩",
+    "Location": "서울특별시 중구 퇴계로 18 (남대문로5가)",
+    "Latitude": 37.556781,
+    "Longitude": 126.975081
+  },
+  {
+    "Branch": "대전가수원DT",
+    "Location": "대전광역시 서구 계백로 1128 (가수원동)",
+    "Latitude": 36.303755,
+    "Longitude": 127.348941
+  },
+  {
+    "Branch": "대전가오",
+    "Location": "대전광역시 동구 동구청로 101 (가오동)",
+    "Latitude": 36.3070199,
+    "Longitude": 127.4561304
+  },
+  {
+    "Branch": "대전갈마DT",
+    "Location": "대전광역시 서구 계룡로 384 (갈마동)",
+    "Latitude": 36.3514813433319,
+    "Longitude": 127.370490506612
+  },
+  {
+    "Branch": "대전건양대병원",
+    "Location": "대전광역시 서구 관저동로 170 (관저동)1층",
+    "Latitude": 36.30728,
+    "Longitude": 127.340876
+  },
+  {
+    "Branch": "대전관저",
+    "Location": "대전광역시 서구 관저로 142 (관저동)",
+    "Latitude": 36.2986969,
+    "Longitude": 127.337762
+  },
+  {
+    "Branch": "대전관평동",
+    "Location": "대전광역시 유성구 테크노중앙로 68",
+    "Latitude": 36.4255141,
+    "Longitude": 127.39263
+  },
+  {
+    "Branch": "대전구암DT",
+    "Location": "대전광역시 유성구 월드컵대로289번길 6 (구암동)",
+    "Latitude": 36.34902,
+    "Longitude": 127.33263
+  },
+  {
+    "Branch": "대전노은",
+    "Location": "대전광역시 유성구 은구비남로33번길 26, 1~2층 (지족동)",
+    "Latitude": 36.373444,
+    "Longitude": 127.319446
+  },
+  {
+    "Branch": "대전대덕로",
+    "Location": "대전광역시 서구 대덕대로234번길 18 (둔산동)",
+    "Latitude": 36.353466,
+    "Longitude": 127.380591
+  },
+  {
+    "Branch": "대전대사DT",
+    "Location": "대전광역시 중구 계룡로 949 (대사동)",
+    "Latitude": 36.318823,
+    "Longitude": 127.417463
+  },
+  {
+    "Branch": "대전도안DT",
+    "Location": "대전광역시 유성구 도안대로 573 (봉명동)",
+    "Latitude": 36.351462,
+    "Longitude": 127.339981
+  },
+  {
+    "Branch": "대전둔산",
+    "Location": "대전광역시 서구 대덕대로 189 (둔산동)",
+    "Latitude": 36.3502188,
+    "Longitude": 127.3772612
+  },
+  {
+    "Branch": "대전둔산남로",
+    "Location": "대전광역시 서구 둔산남로 100 (탄방동)",
+    "Latitude": 36.348893,
+    "Longitude": 127.388665
+  },
+  {
+    "Branch": "대전둔산로",
+    "Location": "대전광역시 서구 대덕대로241번길 35 (둔산동)",
+    "Latitude": 36.354233,
+    "Longitude": 127.377273
+  },
+  {
+    "Branch": "대전만년",
+    "Location": "대전광역시 서구 만년로 81 (만년동)",
+    "Latitude": 36.367606,
+    "Longitude": 127.382002
+  },
+  {
+    "Branch": "대전목원대",
+    "Location": "대전광역시 서구 동서대로 682 (도안동)",
+    "Latitude": 36.3318521,
+    "Longitude": 127.33854
+  },
+  {
+    "Branch": "대전반석역",
+    "Location": "대전광역시 유성구 북유성대로 303 (반석동)",
+    "Latitude": 36.391646,
+    "Longitude": 127.31422
+  },
+  {
+    "Branch": "대전법원",
+    "Location": "대전광역시 서구 둔산로123번길 43 (둔산동)",
+    "Latitude": 36.353315,
+    "Longitude": 127.387437
+  },
+  {
+    "Branch": "대전복수",
+    "Location": "대전광역시 서구 복수남로 28 (복수동)",
+    "Latitude": 36.298345,
+    "Longitude": 127.37824
+  },
+  {
+    "Branch": "대전세이",
+    "Location": "대전광역시 중구 계백로 1700, 5층 (문화동)",
+    "Latitude": 36.320472,
+    "Longitude": 127.408522
+  },
+  {
+    "Branch": "대전세이1층",
+    "Location": "대전광역시 중구 계백로 1700, 외 4필지 세이백화점 신관 (문화동)",
+    "Latitude": 36.320476,
+    "Longitude": 127.40852
+  },
+  {
+    "Branch": "대전송촌",
+    "Location": "대전광역시 대덕구 송촌북로36번길 36, 1층 (송촌동)",
+    "Latitude": 36.366313,
+    "Longitude": 127.437812
+  },
+  {
+    "Branch": "대전수침교DT",
+    "Location": "대전광역시 서구 계룡로 692 (용문동)",
+    "Latitude": 36.3349683,
+    "Longitude": 127.3967289
+  },
+  {
+    "Branch": "대전스타일마켓",
+    "Location": "대전광역시 동구 동서대로 1689, 2층 (용전동)",
+    "Latitude": 36.3502842,
+    "Longitude": 127.4366222
+  },
+  {
+    "Branch": "대전시청사거리",
+    "Location": "대전광역시 서구 둔산남로 50 (탄방동)",
+    "Latitude": 36.348036,
+    "Longitude": 127.383509
+  },
+  {
+    "Branch": "대전시청역",
+    "Location": "대전광역시 서구 둔산로 142 (둔산동)",
+    "Latitude": 36.35098154,
+    "Longitude": 127.3895116
+  },
+  {
+    "Branch": "대전신탄진DT",
+    "Location": "대전광역시 대덕구 대덕대로 1544 (석봉동)",
+    "Latitude": 36.4486603,
+    "Longitude": 127.4199831
+  },
+  {
+    "Branch": "대전엑스포스카이",
+    "Location": "대전광역시 유성구 엑스포로 1 (도룡동) 신세계엑스포점 38층",
+    "Latitude": 36.37514,
+    "Longitude": 127.38161
+  },
+  {
+    "Branch": "대전용문DT",
+    "Location": "대전광역시 서구 도산로 336 (용문동)",
+    "Latitude": 36.3350093,
+    "Longitude": 127.3897099
+  },
+  {
+    "Branch": "대전용전DT",
+    "Location": "대전광역시 동구 한밭대로 1239 (용전동)",
+    "Latitude": 36.357196,
+    "Longitude": 127.435505
+  },
+  {
+    "Branch": "대전월평",
+    "Location": "대전광역시 서구 청사로123번길 25 (월평동)",
+    "Latitude": 36.361008,
+    "Longitude": 127.377288
+  },
+  {
+    "Branch": "대전유성",
+    "Location": "대전광역시 유성구 온천서로 2 (봉명동)",
+    "Latitude": 36.3545222,
+    "Longitude": 127.3395544
+  },
+  {
+    "Branch": "대전유성구청",
+    "Location": "대전광역시 유성구 어은로 42 (어은동)",
+    "Latitude": 36.362206,
+    "Longitude": 127.357705
+  },
+  {
+    "Branch": "대전유천DT",
+    "Location": "대전광역시 중구 계백로 1604 (유천동)",
+    "Latitude": 36.3182966,
+    "Longitude": 127.3982383
+  },
+  {
+    "Branch": "대전장대",
+    "Location": "대전광역시 유성구 유성대로 781 (장대동)",
+    "Latitude": 36.361969,
+    "Longitude": 127.336261
+  },
+  {
+    "Branch": "대전전민",
+    "Location": "대전광역시 유성구 유성대로 1722 (전민동)",
+    "Latitude": 36.3994397,
+    "Longitude": 127.4005253
+  },
+  {
+    "Branch": "대전정부청사역",
+    "Location": "대전광역시 서구 한밭대로 755 (둔산동)",
+    "Latitude": 36.35841,
+    "Longitude": 127.382495
+  },
+  {
+    "Branch": "대전조이마루",
+    "Location": "대전광역시 유성구 엑스포로 97번길 40",
+    "Latitude": 36.3763115,
+    "Longitude": 127.3904691
+  },
+  {
+    "Branch": "대전중앙로R",
+    "Location": "대전광역시 중구 대종로 486 (은행동)",
+    "Latitude": 36.327962,
+    "Longitude": 127.426603
+  },
+  {
+    "Branch": "대전지족",
+    "Location": "대전광역시 유성구 지족로 373 (지족동)",
+    "Latitude": 36.3872054,
+    "Longitude": 127.3175549
+  },
+  {
+    "Branch": "대전탄방",
+    "Location": "대전광역시 서구 문정로 78, 정우빌딩 1층 (탄방동)",
+    "Latitude": 36.3463971,
+    "Longitude": 127.3878875
+  },
+  {
+    "Branch": "대전탄방역",
+    "Location": "대전광역시 서구 문정로2번길 95 (탄방동)",
+    "Latitude": 36.343242,
+    "Longitude": 127.385313
+  },
+  {
+    "Branch": "대전태평",
+    "Location": "대전광역시 중구 태평로 71 (태평동)",
+    "Latitude": 36.323298,
+    "Longitude": 127.393417
+  },
+  {
+    "Branch": "대전터미널",
+    "Location": "대전광역시 동구 동서대로1695번길 4 (용전동)",
+    "Latitude": 36.349905,
+    "Longitude": 127.438064
+  },
+  {
+    "Branch": "대전터미널DT",
+    "Location": "대전광역시 동구 동서대로 1658 (성남동)",
+    "Latitude": 36.347995,
+    "Longitude": 127.434241
+  },
+  {
+    "Branch": "대전테크노밸리",
+    "Location": "대전광역시 유성구 테크노4로 105 (관평동)",
+    "Latitude": 36.424826,
+    "Longitude": 127.389441
+  },
+  {
+    "Branch": "대전판암DT",
+    "Location": "대전광역시 동구 옥천로 118 (판암동)",
+    "Latitude": 36.317013,
+    "Longitude": 127.453623
+  },
+  {
+    "Branch": "대전한남대DT",
+    "Location": "대전광역시 대덕구 한밭대로 1122 (중리동)",
+    "Latitude": 36.35849,
+    "Longitude": 127.42331
+  },
+  {
+    "Branch": "대전현대아울렛",
+    "Location": "대전광역시 유성구 테크노중앙로 123 (용산동)",
+    "Latitude": 36.424,
+    "Longitude": 127.398625
+  },
+  {
+    "Branch": "대전호텔",
+    "Location": "대전광역시 서구 둔산중로134번길 13, 둔산관광호텔 (둔산동)",
+    "Latitude": 36.358982,
+    "Longitude": 127.387649
+  },
+  {
+    "Branch": "대전IC DT",
+    "Location": "대전광역시 대덕구 동서대로 1776 (비래동)",
+    "Latitude": 36.354628,
+    "Longitude": 127.444318
+  },
+  {
+    "Branch": "대치",
+    "Location": "서울특별시 강남구 도곡로 511 (대치동)",
+    "Latitude": 37.49966175,
+    "Longitude": 127.0622171
+  },
+  {
+    "Branch": "대치사거리",
+    "Location": "서울특별시 강남구 삼성로 402 (대치동)",
+    "Latitude": 37.503331,
+    "Longitude": 127.058817
+  },
+  {
+    "Branch": "대치삼성프라자",
+    "Location": "서울특별시 강남구 영동대로 237 (대치동)",
+    "Latitude": 37.500313,
+    "Longitude": 127.066961
+  },
+  {
+    "Branch": "대치역",
+    "Location": "서울특별시 강남구 남부순환로 2936 (대치동) 107호",
+    "Latitude": 37.493554,
+    "Longitude": 127.061874
+  },
+  {
+    "Branch": "대치은마사거리",
+    "Location": "서울특별시 강남구 도곡로 457 (대치동)",
+    "Latitude": 37.498973,
+    "Longitude": 127.060172
+  },
+  {
+    "Branch": "대치재경빌딩R",
+    "Location": "서울특별시 강남구 남부순환로 2947 (대치동)",
+    "Latitude": 37.494668,
+    "Longitude": 127.062583
+  },
+  {
+    "Branch": "대치한티",
+    "Location": "서울특별시 강남구 선릉로 324 (대치동)",
+    "Latitude": 37.4984818,
+    "Longitude": 127.052066
+  },
+  {
+    "Branch": "대학로",
+    "Location": "서울특별시 종로구 대학로 57, 홍익대학교 대학로캠퍼스 內 (연건동)",
+    "Latitude": 37.576509,
+    "Longitude": 127.001449
+  },
+  {
+    "Branch": "대한극장",
+    "Location": "서울특별시 중구 퇴계로 212 (필동2가) 1,2층",
+    "Latitude": 37.56105065,
+    "Longitude": 126.9952735
+  },
+  {
+    "Branch": "대한상공회의소R",
+    "Location": "서울특별시 중구 세종대로 39 (남대문로4가) 1층",
+    "Latitude": 37.560938,
+    "Longitude": 126.973702
+  },
+  {
+    "Branch": "더종로R",
+    "Location": "서울특별시 종로구 종로 51 (종로2가)",
+    "Latitude": 37.570804,
+    "Longitude": 126.983494
+  },
+  {
+    "Branch": "더해운대R",
+    "Location": "부산광역시 해운대구 해운대해변로 197 (우동, 해운대경동제이드아파트)",
+    "Latitude": 35.158371,
+    "Longitude": 129.153065
+  },
+  {
+    "Branch": "더현대서울(B2)R",
+    "Location": "서울특별시 영등포구 여의대로 108 (여의도동)",
+    "Latitude": 37.5264,
+    "Longitude": 126.92877
+  },
+  {
+    "Branch": "도곡공원",
+    "Location": "서울특별시 강남구 도곡로 205 (역삼동)",
+    "Latitude": 37.492805,
+    "Longitude": 127.041309
+  },
+  {
+    "Branch": "도곡역",
+    "Location": "서울특별시 강남구 남부순환로 2909 (대치동)",
+    "Latitude": 37.492167,
+    "Longitude": 127.057398
+  },
+  {
+    "Branch": "도산가로수길",
+    "Location": "서울특별시 강남구 도산대로 134, 2층 (논현동)",
+    "Latitude": 37.5173623,
+    "Longitude": 127.0232957
+  },
+  {
+    "Branch": "도산사거리",
+    "Location": "서울특별시 강남구 언주로 727 (논현동)",
+    "Latitude": 37.51966,
+    "Longitude": 127.0341
+  },
+  {
+    "Branch": "독립문역",
+    "Location": "서울특별시 종로구 송월길 155 경희궁자이 4단지 1층 팰리스애비뉴 4114~4119호",
+    "Latitude": 37.571432,
+    "Longitude": 126.961269
+  },
+  {
+    "Branch": "독산사거리",
+    "Location": "서울특별시 금천구 시흥대로 426 (독산동)",
+    "Latitude": 37.4715283287455,
+    "Longitude": 126.898560623152
+  },
+  {
+    "Branch": "독산역",
+    "Location": "서울특별시 금천구 가산디지털1로 16 (가산동), 107-2, 108, 109호",
+    "Latitude": 37.4676446,
+    "Longitude": 126.8876698
+  },
+  {
+    "Branch": "동광주DT",
+    "Location": "광주광역시 북구 동문대로 148 (두암동)",
+    "Latitude": 35.175874,
+    "Longitude": 126.927584
+  },
+  {
+    "Branch": "동교",
+    "Location": "서울특별시 마포구 월드컵북로 22, 영준빌딩 1층 (동교동)",
+    "Latitude": 37.556928,
+    "Longitude": 126.919819
+  },
+  {
+    "Branch": "동국대",
+    "Location": "서울특별시 중구 서애로 1길 11",
+    "Latitude": 37.561542,
+    "Longitude": 126.998437
+  },
+  {
+    "Branch": "동대구로DT",
+    "Location": "대구광역시 동구 동대구로 422 (신천동)",
+    "Latitude": 35.8680868,
+    "Longitude": 128.6271589
+  },
+  {
+    "Branch": "동대구터미널",
+    "Location": "대구광역시 동구 동부로30길 12 (신천동)",
+    "Latitude": 35.876315,
+    "Longitude": 128.62859
+  },
+  {
+    "Branch": "동대문공원",
+    "Location": "서울특별시 중구 장충단로 229 (광희동1가)",
+    "Latitude": 37.565133,
+    "Longitude": 127.007191
+  },
+  {
+    "Branch": "동대문두타",
+    "Location": "서울특별시 중구 장충단로 275 (을지로6가)",
+    "Latitude": 37.5689251260455,
+    "Longitude": 127.008783834846
+  },
+  {
+    "Branch": "동대입구역",
+    "Location": "서울특별시 중구 장충단로 166 (장충동1가)",
+    "Latitude": 37.559593,
+    "Longitude": 127.006142
+  },
+  {
+    "Branch": "동래미남DT",
+    "Location": "부산광역시 동래구 충렬대로 101 (온천동)",
+    "Latitude": 35.2072439,
+    "Longitude": 129.0719664
+  },
+  {
+    "Branch": "동래역",
+    "Location": "부산광역시 동래구 충렬대로181번길 42",
+    "Latitude": 35.20564,
+    "Longitude": 129.080038
+  },
+  {
+    "Branch": "동명대DT",
+    "Location": "부산광역시 남구 신선로 423 (용당동)",
+    "Latitude": 35.123153,
+    "Longitude": 129.099223
+  },
+  {
+    "Branch": "동묘앞역",
+    "Location": "서울특별시 종로구 종로 344 (숭인동, 대우디오빌) 101호 일부, 201호 일부",
+    "Latitude": 37.5727,
+    "Longitude": 127.016072
+  },
+  {
+    "Branch": "동부산테마파크",
+    "Location": "부산광역시 기장군 기장읍 동부산관광로 34",
+    "Latitude": 35.1939203820742,
+    "Longitude": 129.213999896936
+  },
+  {
+    "Branch": "동부산DT",
+    "Location": "부산광역시 기장군 기장읍 기장해안로 56",
+    "Latitude": 35.184073,
+    "Longitude": 129.210875
+  },
+  {
+    "Branch": "동부이촌동",
+    "Location": "서울특별시 용산구 이촌로 198 (이촌동)",
+    "Latitude": 37.52111,
+    "Longitude": 126.96905
+  },
+  {
+    "Branch": "동빙고",
+    "Location": "서울특별시 용산구 장문로 12 (동빙고동)",
+    "Latitude": 37.5289857,
+    "Longitude": 126.991782
+  },
+  {
+    "Branch": "동서대DT",
+    "Location": "부산광역시 사상구 가야대로 338 (주례동)",
+    "Latitude": 35.150863,
+    "Longitude": 129.010026
+  },
+  {
+    "Branch": "동성로광장",
+    "Location": "대구광역시 중구 동성로 4 (동성로3가)",
+    "Latitude": 35.867319,
+    "Longitude": 128.594217
+  },
+  {
+    "Branch": "동성로로데오",
+    "Location": "대구광역시 중구 동성로5길 62 (삼덕동1가)",
+    "Latitude": 35.86723,
+    "Longitude": 128.597862
+  },
+  {
+    "Branch": "동성로중앙",
+    "Location": "대구광역시 중구 동성로5길 38 (삼덕동1가)",
+    "Latitude": 35.867556,
+    "Longitude": 128.59666
+  },
+  {
+    "Branch": "동숭길입구",
+    "Location": "서울특별시 종로구 대학로 146 (혜화동)",
+    "Latitude": 37.584236,
+    "Longitude": 127.002014
+  },
+  {
+    "Branch": "동숭로아트",
+    "Location": "서울특별시 종로구 동숭길 110 (동숭동)",
+    "Latitude": 37.582969,
+    "Longitude": 127.003876
+  },
+  {
+    "Branch": "동아대병원",
+    "Location": "부산광역시 서구 동대로 8 (동대신동3가)",
+    "Latitude": 35.1195185,
+    "Longitude": 129.0172766
+  },
+  {
+    "Branch": "동아수성",
+    "Location": "대구광역시 수성구 지범로 191, 동아백화점수성점 1층 (범물동)",
+    "Latitude": 35.82124651,
+    "Longitude": 128.6406389
+  },
+  {
+    "Branch": "동암역",
+    "Location": "인천광역시 부평구 동암광장로 14, 1~2층 (십정동)",
+    "Latitude": 37.471537,
+    "Longitude": 126.702361
+  },
+  {
+    "Branch": "동여의도",
+    "Location": "서울특별시 영등포구 국제금융로 86 (여의도동) 롯데캐슬 아이비",
+    "Latitude": 37.5199494,
+    "Longitude": 126.9317957
+  },
+  {
+    "Branch": "동의대역",
+    "Location": "부산광역시 부산진구 가야대로 589 (가야제1동)",
+    "Latitude": 35.155057,
+    "Longitude": 129.036202
+  },
+  {
+    "Branch": "동해DT",
+    "Location": "강원도 동해시 중앙로 219 (천곡동)",
+    "Latitude": 37.520193,
+    "Longitude": 129.114767
+  },
+  {
+    "Branch": "둔산삼성프라자",
+    "Location": "대전광역시 서구 대덕대로 254 삼성전자 메가스토어 대전본점 1층  (둔산동)",
+    "Latitude": 36.3554336798685,
+    "Longitude": 127.379975361484
+  },
+  {
+    "Branch": "둔산은하수",
+    "Location": "대전광역시 서구 둔산로31번길 28, 금정빌딩 1층 (둔산동)",
+    "Latitude": 36.3529477,
+    "Longitude": 127.3777879
+  },
+  {
+    "Branch": "둔촌동",
+    "Location": "서울특별시 강동구 양재대로 1303 (성내동) 평원빌딩",
+    "Latitude": 37.522724,
+    "Longitude": 127.133943
+  },
+  {
+    "Branch": "드림마크원",
+    "Location": "서울특별시 구로구 디지털로31길 61, 드림마크원데이터센타 1층 (구로동)",
+    "Latitude": 37.48587904,
+    "Longitude": 126.8916127
+  },
+  {
+    "Branch": "등촌",
+    "Location": "서울특별시 강서구 공항대로 329 (등촌동)",
+    "Latitude": 37.5582043,
+    "Longitude": 126.8443392
+  },
+  {
+    "Branch": "등촌대로",
+    "Location": "서울특별시 강서구 공항대로 543 (염창동, 센터스퀘어)",
+    "Latitude": 37.55101,
+    "Longitude": 126.86638
+  },
+  {
+    "Branch": "등촌역",
+    "Location": "서울특별시 양천구 공항대로 566 (목동) 1층 2층",
+    "Latitude": 37.548884,
+    "Longitude": 126.86807
+  },
+  {
+    "Branch": "디큐브거제",
+    "Location": "경상남도 거제시 장평로 12 (장평동)",
+    "Latitude": 34.891009,
+    "Longitude": 128.616632
+  },
+  {
+    "Branch": "뚝섬역",
+    "Location": "서울특별시 성동구 아차산로 42 (성수동1가)",
+    "Latitude": 37.546432,
+    "Longitude": 127.049042
+  },
+  {
+    "Branch": "뚝섬유원지역",
+    "Location": "서울특별시 광진구 능동로 18 (자양동, 이튼타워리버3차)",
+    "Latitude": 37.532684640479,
+    "Longitude": 127.067878503557
+  },
+  {
+    "Branch": "레스케이프호텔R",
+    "Location": "서울특별시 중구 퇴계로 67 (회현동1가)",
+    "Latitude": 37.5598346,
+    "Longitude": 126.9794946
+  },
+  {
+    "Branch": "롯데캐슬여의도",
+    "Location": "서울특별시 영등포구 의사당대로 127 (여의도동, 롯데캐슬엠파이어) 1층 104호",
+    "Latitude": 37.52025214,
+    "Longitude": 126.9263678
+  },
+  {
+    "Branch": "르네상스사거리",
+    "Location": "서울특별시 강남구 테헤란로 306 (역삼동)",
+    "Latitude": 37.502721,
+    "Longitude": 127.044308
+  },
+  {
+    "Branch": "마곡나루공원",
+    "Location": "서울특별시 강서구 마곡중앙5로 47 (마곡동)",
+    "Latitude": 37.567007,
+    "Longitude": 126.822246
+  },
+  {
+    "Branch": "마곡나루역",
+    "Location": "서울특별시 강서구 마곡중앙로 161-17 (마곡동)",
+    "Latitude": 37.56813,
+    "Longitude": 126.82614
+  },
+  {
+    "Branch": "마곡사이언스타워R",
+    "Location": "서울특별시 강서구 마곡동로 62 (마곡동)",
+    "Latitude": 37.5605261,
+    "Longitude": 126.833887
+  },
+  {
+    "Branch": "마곡역",
+    "Location": "서울특별시 강서구 공항대로 168 (마곡동)",
+    "Latitude": 37.559611,
+    "Longitude": 126.826298
+  },
+  {
+    "Branch": "마곡웰튼",
+    "Location": "서울특별시 강서구 마곡중앙5로 22 (마곡동), 104/105/106호",
+    "Latitude": 37.56754,
+    "Longitude": 126.82553
+  },
+  {
+    "Branch": "마곡GMG",
+    "Location": "서울특별시 강서구 마곡중앙6로 16 (마곡동) 117,118,119,120호",
+    "Latitude": 37.560487,
+    "Longitude": 126.829667
+  },
+  {
+    "Branch": "마로니에공원",
+    "Location": "서울특별시 종로구 대학로 116, 1-2층 (동숭동)",
+    "Latitude": 37.58154296,
+    "Longitude": 127.0023412
+  },
+  {
+    "Branch": "마리오아울렛",
+    "Location": "서울특별시 금천구 벚꽃로 266 마리오아울렛3관",
+    "Latitude": 37.478701,
+    "Longitude": 126.885076
+  },
+  {
+    "Branch": "마린시티아이파크",
+    "Location": "부산광역시 해운대구 마린시티2로 38 (우동)",
+    "Latitude": 35.1569194,
+    "Longitude": 129.1434995
+  },
+  {
+    "Branch": "마산봉암로DT",
+    "Location": "경상남도 창원시 마산회원구 봉양로 118 (봉암동)",
+    "Latitude": 35.219082,
+    "Longitude": 128.599209
+  },
+  {
+    "Branch": "마산역DT",
+    "Location": "경상남도 창원시 마산회원구 3·15대로 715 (석전동)",
+    "Latitude": 35.2362004,
+    "Longitude": 128.5805449
+  },
+  {
+    "Branch": "마산월남동DT",
+    "Location": "경상남도 창원시 마산합포구 3·15대로 70 (월남동2가)",
+    "Latitude": 35.1860174879433,
+    "Longitude": 128.561302013485
+  },
+  {
+    "Branch": "마산터미널",
+    "Location": "경상남도 창원시 마산회원구 합성남로 6-1 (합성동)",
+    "Latitude": 35.2381341,
+    "Longitude": 128.58327
+  },
+  {
+    "Branch": "마산해안대로DT",
+    "Location": "경상남도 창원시 마산합포구 해안대로 383 (오동동)",
+    "Latitude": 35.204197,
+    "Longitude": 128.580572
+  },
+  {
+    "Branch": "마산회원DT",
+    "Location": "경상남도 창원시 마산회원구 3·15대로 518 (회원동)",
+    "Latitude": 35.2206567,
+    "Longitude": 128.5744344
+  },
+  {
+    "Branch": "마포경찰서후문",
+    "Location": "서울특별시 마포구 마포대로 173-14 (아현동)",
+    "Latitude": 37.5508,
+    "Longitude": 126.953432
+  },
+  {
+    "Branch": "마포아크로",
+    "Location": "서울특별시 마포구 마포대로 68 (도화동) 마포아크로타워",
+    "Latitude": 37.54145556,
+    "Longitude": 126.948819
+  },
+  {
+    "Branch": "마포염리",
+    "Location": "서울특별시 마포구 독막로 311 (염리동)",
+    "Latitude": 37.543876,
+    "Longitude": 126.94768
+  },
+  {
+    "Branch": "마포용강동",
+    "Location": "서울특별시 마포구 토정로 295 (용강동)",
+    "Latitude": 37.541186,
+    "Longitude": 126.942209
+  },
+  {
+    "Branch": "마포이마트",
+    "Location": "서울특별시 마포구 백범로 212 (신공덕동) 마포이마트",
+    "Latitude": 37.542421,
+    "Longitude": 126.953341
+  },
+  {
+    "Branch": "마포일진빌딩",
+    "Location": "서울특별시 마포구 마포대로 45, 일진빌딩 1층 (도화동)",
+    "Latitude": 37.54043451,
+    "Longitude": 126.9463168
+  },
+  {
+    "Branch": "망원역",
+    "Location": "서울특별시 마포구 월드컵로 74 (서교동)",
+    "Latitude": 37.555829,
+    "Longitude": 126.910637
+  },
+  {
+    "Branch": "망원한강공원",
+    "Location": "서울특별시 마포구 마포나루길 435 (망원동)",
+    "Latitude": 37.5545625,
+    "Longitude": 126.8956875
+  },
+  {
+    "Branch": "명동길",
+    "Location": "서울특별시 중구 명동10길 41",
+    "Latitude": 37.5620695,
+    "Longitude": 126.9858669
+  },
+  {
+    "Branch": "명동남산",
+    "Location": "서울특별시 중구 퇴계로 132 (남산동3가)",
+    "Latitude": 37.560809,
+    "Longitude": 126.986397
+  },
+  {
+    "Branch": "명동메트로",
+    "Location": "서울특별시 중구 명동9가길 14 (을지로1가) 메트로호텔",
+    "Latitude": 37.565118,
+    "Longitude": 126.983681
+  },
+  {
+    "Branch": "명동역",
+    "Location": "서울특별시 중구 퇴계로 101, 건물 전체 (충무로 1가)",
+    "Latitude": 37.56102,
+    "Longitude": 126.98312
+  },
+  {
+    "Branch": "명동입구",
+    "Location": "서울특별시 중구 남대문로 68-1 (명동2가)",
+    "Latitude": 37.563319,
+    "Longitude": 126.982242
+  },
+  {
+    "Branch": "명동중앙로",
+    "Location": "서울특별시 중구 명동길 60 (명동 2가)",
+    "Latitude": 37.5637485,
+    "Longitude": 126.9857723
+  },
+  {
+    "Branch": "명륜역",
+    "Location": "부산광역시 동래구 동래로 25",
+    "Latitude": 35.212443,
+    "Longitude": 129.078378
+  },
+  {
+    "Branch": "명일역",
+    "Location": "서울특별시 강동구 양재대로 1647 (명일동)",
+    "Latitude": 37.55258,
+    "Longitude": 127.143799
+  },
+  {
+    "Branch": "명일이마트",
+    "Location": "서울특별시 강동구 동남로75길 5 (명일동) 명일이마트별관주차장",
+    "Latitude": 37.553991,
+    "Longitude": 127.155984
+  },
+  {
+    "Branch": "명지강변DT",
+    "Location": "부산광역시 강서구 르노삼성대로 620 (명지동)",
+    "Latitude": 35.1026237,
+    "Longitude": 128.9294804
+  },
+  {
+    "Branch": "명지국제신도시",
+    "Location": "부산광역시 강서구 명지국제5로 42 (명지동)",
+    "Latitude": 35.0979416,
+    "Longitude": 128.919918
+  },
+  {
+    "Branch": "명지오션시티",
+    "Location": "부산광역시 강서구 명지오션시티11로 66 (명지동)",
+    "Latitude": 35.084043,
+    "Longitude": 128.903135
+  },
+  {
+    "Branch": "명지퍼스트월드",
+    "Location": "부산광역시 강서구 명지국제7로 37 (명지동, 더샵 명지퍼스트월드 2단지)",
+    "Latitude": 35.097486176649,
+    "Longitude": 128.907490344508
+  },
+  {
+    "Branch": "목동",
+    "Location": "서울특별시 양천구 목동서로 67 (목동) 우성에펠타운",
+    "Latitude": 37.53638383,
+    "Longitude": 126.8785597
+  },
+  {
+    "Branch": "목동10단지",
+    "Location": "서울특별시 양천구 목동서로 401 (신정동, 대림아크로빌), 상가A동 101,101-1호",
+    "Latitude": 37.515425616177,
+    "Longitude": 126.859603067999
+  },
+  {
+    "Branch": "목동5단지",
+    "Location": "서울특별시 양천구 목동동로 411, 1동 116호(목동, 부영그린타운3차)",
+    "Latitude": 37.536706,
+    "Longitude": 126.88212
+  },
+  {
+    "Branch": "목동7단지",
+    "Location": "서울특별시 양천구 목동서로 213 (목동) 세신비젼프라자",
+    "Latitude": 37.528012,
+    "Longitude": 126.87053
+  },
+  {
+    "Branch": "목동8단지",
+    "Location": "서울특별시 양천구 목동서로 299 (신정동)",
+    "Latitude": 37.520518,
+    "Longitude": 126.868841
+  },
+  {
+    "Branch": "목동역",
+    "Location": "서울특별시 양천구 목동로 203 (신정동) 1층일부",
+    "Latitude": 37.526684,
+    "Longitude": 126.863986
+  },
+  {
+    "Branch": "목동오목로",
+    "Location": "서울특별시 양천구 오목로 279 (목동) 102,103,104,105호",
+    "Latitude": 37.525923,
+    "Longitude": 126.868438
+  },
+  {
+    "Branch": "목동트라팰리스",
+    "Location": "서울특별시 양천구 오목로 299 (목동)",
+    "Latitude": 37.5255,
+    "Longitude": 126.8702
+  },
+  {
+    "Branch": "목동파라곤",
+    "Location": "서울특별시 양천구 목동서로 155, 목동파라곤 1층 (목동)",
+    "Latitude": 37.52947,
+    "Longitude": 126.874996
+  },
+  {
+    "Branch": "목동파리공원",
+    "Location": "서울특별시 양천구 목동동로 377 (목동)",
+    "Latitude": 37.535336,
+    "Longitude": 126.878852
+  },
+  {
+    "Branch": "목동행복한",
+    "Location": "서울특별시 양천구 목동동로 309 (목동)",
+    "Latitude": 37.529147,
+    "Longitude": 126.876099
+  },
+  {
+    "Branch": "목포남악",
+    "Location": "전라남도 무안군 남악3로82번길 11",
+    "Latitude": 34.8131423,
+    "Longitude": 126.4617254
+  },
+  {
+    "Branch": "목포북항DT",
+    "Location": "전라남도 목포시 고하대로 694 (산정동)",
+    "Latitude": 34.8086337,
+    "Longitude": 126.3732658
+  },
+  {
+    "Branch": "목포옥암",
+    "Location": "전라남도 목포시 백년대로375번길 1 (옥암동)",
+    "Latitude": 34.807386,
+    "Longitude": 126.4272671
+  },
+  {
+    "Branch": "목포터미널DT",
+    "Location": "전라남도 목포시 영산로 495 (상동)",
+    "Latitude": 34.8101683,
+    "Longitude": 126.4169697
+  },
+  {
+    "Branch": "목포평화광장",
+    "Location": "전라남도 목포시 미항로 137 (상동)",
+    "Latitude": 34.796986,
+    "Longitude": 126.43495
+  },
+  {
+    "Branch": "목포하당",
+    "Location": "전라남도 목포시 백년대로 293 (상동)",
+    "Latitude": 34.803958,
+    "Longitude": 126.419806
+  },
+  {
+    "Branch": "몬테소리",
+    "Location": "서울특별시 서초구 강남대로 399 (서초동)",
+    "Latitude": 37.4982695,
+    "Longitude": 127.026865
+  },
+  {
+    "Branch": "몽촌토성역",
+    "Location": "서울특별시 송파구 위례성대로 6 (방이동)",
+    "Latitude": 37.516913,
+    "Longitude": 127.113127
+  },
+  {
+    "Branch": "무교동",
+    "Location": "서울특별시 중구 무교로 21 (무교동) 코오롱빌딩 1층",
+    "Latitude": 37.56781712,
+    "Longitude": 126.978738
+  },
+  {
+    "Branch": "묵동",
+    "Location": "서울특별시 중랑구 동일로 952 (묵동, 로프트원 태릉입구역) 1층",
+    "Latitude": 37.615368,
+    "Longitude": 127.076633
+  },
+  {
+    "Branch": "묵동이마트",
+    "Location": "서울특별시 중랑구 동일로 932 (묵동, 묵동자이아파트) (묵동이마트 B1층)",
+    "Latitude": 37.613433,
+    "Longitude": 127.077484
+  },
+  {
+    "Branch": "문경새재",
+    "Location": "경상북도 문경시 문경읍 새재로 906",
+    "Latitude": 36.759398,
+    "Longitude": 128.077572
+  },
+  {
+    "Branch": "문래동",
+    "Location": "서울특별시 영등포구 선유로 64, 대창타운빌 1층 (문래동3가)",
+    "Latitude": 37.519602,
+    "Longitude": 126.889652
+  },
+  {
+    "Branch": "문래역",
+    "Location": "서울특별시 영등포구 당산로 34 (문래동3가)",
+    "Latitude": 37.517446,
+    "Longitude": 126.895258
+  },
+  {
+    "Branch": "문정로데오",
+    "Location": "서울특별시 송파구 동남로 141 (가락동)",
+    "Latitude": 37.491905,
+    "Longitude": 127.1262696
+  },
+  {
+    "Branch": "문정법원로R",
+    "Location": "서울특별시 송파구 송파대로 201 (문정동)",
+    "Latitude": 37.487447,
+    "Longitude": 127.119164
+  },
+  {
+    "Branch": "문정역",
+    "Location": "서울특별시 송파구 송파대로 167 (문정동)테라타워 B동 137호~139호,204호",
+    "Latitude": 37.484813,
+    "Longitude": 127.122237
+  },
+  {
+    "Branch": "문정하비오",
+    "Location": "서울특별시 송파구 송파대로 111 (문정동, 파크하비오) 204동 104호~107호",
+    "Latitude": 37.481925,
+    "Longitude": 127.123446
+  },
+  {
+    "Branch": "문화일보",
+    "Location": "서울특별시 중구 새문안로 22 (충정로1가) 문화일보",
+    "Latitude": 37.56712291,
+    "Longitude": 126.9686642
+  },
+  {
+    "Branch": "미아",
+    "Location": "서울특별시 성북구 동소문로 314 (하월곡동)",
+    "Latitude": 37.607581,
+    "Longitude": 127.029303
+  },
+  {
+    "Branch": "미아뉴타운",
+    "Location": "서울특별시 강북구 삼양로 161 (미아동)",
+    "Latitude": 37.618319,
+    "Longitude": 127.021072
+  },
+  {
+    "Branch": "미아사거리역",
+    "Location": "서울특별시 강북구 도봉로 32 (미아동)",
+    "Latitude": 37.611809,
+    "Longitude": 127.0306971
+  },
+  {
+    "Branch": "미아역",
+    "Location": "서울특별시 강북구 도봉로 196 (미아동)",
+    "Latitude": 37.626148,
+    "Longitude": 127.026578
+  },
+  {
+    "Branch": "미아이마트",
+    "Location": "서울특별시 성북구 도봉로 17 (길음동)",
+    "Latitude": 37.610678,
+    "Longitude": 127.029921
+  },
+  {
+    "Branch": "밀양DT",
+    "Location": "경상남도 밀양시 밀양대로 1792 (삼문동)",
+    "Latitude": 35.4853274,
+    "Longitude": 128.7512487
+  },
+  {
+    "Branch": "반야월이마트",
+    "Location": "대구광역시 동구 안심로 389-2, 이마트 1층 (신서동)",
+    "Latitude": 35.870899,
+    "Longitude": 128.727397
+  },
+  {
+    "Branch": "반월당",
+    "Location": "대구광역시 중구 달구벌대로 2085 (덕산동) 동아쇼핑",
+    "Latitude": 35.86616318,
+    "Longitude": 128.5918695
+  },
+  {
+    "Branch": "반포역",
+    "Location": "서울특별시 서초구 신반포로 257 (잠원동) 신반포11차상가",
+    "Latitude": 37.508589,
+    "Longitude": 127.011959
+  },
+  {
+    "Branch": "반포자이",
+    "Location": "서울특별시 서초구 잠원로 24 (반포동)",
+    "Latitude": 37.5071704753494,
+    "Longitude": 127.009918908348
+  },
+  {
+    "Branch": "발산역",
+    "Location": "서울특별시 강서구 강서로 388 (등촌동) 그랜드마트",
+    "Latitude": 37.56033,
+    "Longitude": 126.839279
+  },
+  {
+    "Branch": "발산역사거리",
+    "Location": "서울특별시 강서구 공항대로 248 (마곡동)",
+    "Latitude": 37.558509,
+    "Longitude": 126.835096
+  },
+  {
+    "Branch": "방배",
+    "Location": "서울특별시 서초구 방배로 211",
+    "Latitude": 37.491914,
+    "Longitude": 126.9904974
+  },
+  {
+    "Branch": "방배다이치빌딩",
+    "Location": "서울특별시 서초구 방배로 114 (방배동)",
+    "Latitude": 37.484329,
+    "Longitude": 126.995872
+  },
+  {
+    "Branch": "방배로",
+    "Location": "서울특별시 서초구 방배로 52 (방배동)",
+    "Latitude": 37.4793434,
+    "Longitude": 126.9994968
+  },
+  {
+    "Branch": "방배역",
+    "Location": "서울특별시 서초구 방배로 84 (방배동)",
+    "Latitude": 37.48200755,
+    "Longitude": 126.9976438
+  },
+  {
+    "Branch": "방배카페거리",
+    "Location": "서울특별시 서초구 방배중앙로 162 (방배동)",
+    "Latitude": 37.4934767,
+    "Longitude": 126.9865297
+  },
+  {
+    "Branch": "방이역",
+    "Location": "서울특별시 송파구 마천로 53, 1~2층 (오금동)",
+    "Latitude": 37.508666,
+    "Longitude": 127.126569
+  },
+  {
+    "Branch": "방화DT",
+    "Location": "서울특별시 강서구 방화대로 375 (방화동)",
+    "Latitude": 37.574339,
+    "Longitude": 126.816415
+  },
+  {
+    "Branch": "뱅뱅사거리",
+    "Location": "서울특별시 강남구 강남대로 282 (도곡동)",
+    "Latitude": 37.488585,
+    "Longitude": 127.032415
+  },
+  {
+    "Branch": "범일동일타워",
+    "Location": "부산광역시 동구 조방로 14 (범일동)",
+    "Latitude": 35.138915,
+    "Longitude": 129.063487
+  },
+  {
+    "Branch": "베네시티",
+    "Location": "부산광역시 해운대구 해운대해변로 163 (우동)",
+    "Latitude": 35.1582971,
+    "Longitude": 129.1501316
+  },
+  {
+    "Branch": "벡스코",
+    "Location": "부산광역시 해운대구 APEC로 55, 벡스코내 (우동)",
+    "Latitude": 35.16884711,
+    "Longitude": 129.1354444
+  },
+  {
+    "Branch": "별다방",
+    "Location": "서울특별시 중구 퇴계로 100 (회현동2가)",
+    "Latitude": 37.5602013,
+    "Longitude": 126.9829327
+  },
+  {
+    "Branch": "보라매공원R",
+    "Location": "서울특별시 동작구 보라매로5길 35 (신대방동, 파크스퀘어,보라매현대APT)",
+    "Latitude": 37.4922621271286,
+    "Longitude": 126.923345707983
+  },
+  {
+    "Branch": "보라매대교",
+    "Location": "서울특별시 관악구 보라매로3길 23 (봉천동) 1층",
+    "Latitude": 37.491449,
+    "Longitude": 126.925432
+  },
+  {
+    "Branch": "봉선이마트",
+    "Location": "광주광역시 남구 봉선로 198 (봉선동)",
+    "Latitude": 35.122407,
+    "Longitude": 126.916859
+  },
+  {
+    "Branch": "봉은사로선정릉",
+    "Location": "서울특별시 강남구 봉은사로 446 (삼성동)",
+    "Latitude": 37.511293,
+    "Longitude": 127.048409
+  },
+  {
+    "Branch": "봉은사역",
+    "Location": "서울특별시 강남구 봉은사로 619 (삼성동)",
+    "Latitude": 37.515,
+    "Longitude": 127.063196
+  },
+  {
+    "Branch": "부민사거리",
+    "Location": "부산광역시 서구 구덕로 212 (부민동1가)",
+    "Latitude": 35.103629,
+    "Longitude": 129.02022
+  },
+  {
+    "Branch": "부산개금역",
+    "Location": "부산광역시 부산진구 가야대로 462 (개금동)",
+    "Latitude": 35.152899,
+    "Longitude": 129.0226067
+  },
+  {
+    "Branch": "부산광복로R",
+    "Location": "부산광역시 중구 광복중앙로 8-2 (광복동3가)",
+    "Latitude": 35.100123,
+    "Longitude": 129.031422
+  },
+  {
+    "Branch": "부산괴정역",
+    "Location": "부산광역시 사하구 사하로186번길 6 (괴정동)",
+    "Latitude": 35.098451,
+    "Longitude": 128.994352
+  },
+  {
+    "Branch": "부산교대",
+    "Location": "부산광역시 연제구 교대로 20-2 (거제동)",
+    "Latitude": 35.195708,
+    "Longitude": 129.077505
+  },
+  {
+    "Branch": "부산교대역",
+    "Location": "부산광역시 연제구 명륜로 3 (거제제1동) 한양프라자",
+    "Latitude": 35.1964682,
+    "Longitude": 129.0809793
+  },
+  {
+    "Branch": "부산교대역DT",
+    "Location": "부산광역시 연제구 중앙대로 1250 (거제동)",
+    "Latitude": 35.1990004,
+    "Longitude": 129.0789319
+  },
+  {
+    "Branch": "부산대",
+    "Location": "부산광역시 금정구 금정로68번길 2, 건우빌딩 (장전동)",
+    "Latitude": 35.2306157,
+    "Longitude": 129.0866474
+  },
+  {
+    "Branch": "부산대역",
+    "Location": "부산광역시 금정구 장전로12번길 64, 1~4층 (장전동)",
+    "Latitude": 35.230722,
+    "Longitude": 129.088165
+  },
+  {
+    "Branch": "부산대연못골",
+    "Location": "부산광역시 남구 못골로 87 (대연동)",
+    "Latitude": 35.1360684,
+    "Longitude": 129.0919586
+  },
+  {
+    "Branch": "부산대연역",
+    "Location": "부산광역시 남구 수영로 240-1, 1층 (대연동)",
+    "Latitude": 35.135032,
+    "Longitude": 129.093041
+  },
+  {
+    "Branch": "부산대정문",
+    "Location": "부산광역시 금정구 부산대학로64번길 12 (장전동)",
+    "Latitude": 35.232107,
+    "Longitude": 129.084565
+  },
+  {
+    "Branch": "부산덕천역",
+    "Location": "부산광역시 북구 만덕대로 30 (덕천동)",
+    "Latitude": 35.210787,
+    "Longitude": 129.008358
+  },
+  {
+    "Branch": "부산동대신역",
+    "Location": "부산광역시 서구 구덕로322번길 7 (동대신동3가)",
+    "Latitude": 35.112688,
+    "Longitude": 129.016686
+  },
+  {
+    "Branch": "부산동아대",
+    "Location": "부산광역시 사하구 낙동대로550번길 14 (하단동) 1~3층",
+    "Latitude": 35.113113,
+    "Longitude": 128.964925
+  },
+  {
+    "Branch": "부산만덕DT",
+    "Location": "부산광역시 북구 만덕대로 323 (만덕동)",
+    "Latitude": 35.213166,
+    "Longitude": 129.039764
+  },
+  {
+    "Branch": "부산사직",
+    "Location": "부산광역시 동래구 사직북로 24 (사직동)",
+    "Latitude": 35.198093,
+    "Longitude": 129.060473
+  },
+  {
+    "Branch": "부산서면",
+    "Location": "부산광역시 부산진구 중앙대로692번길 46-10 (부전동)",
+    "Latitude": 35.154098,
+    "Longitude": 129.061562
+  },
+  {
+    "Branch": "부산서면중앙로",
+    "Location": "부산광역시 부산진구 중앙대로 701 (부전동)",
+    "Latitude": 35.155521,
+    "Longitude": 129.058883
+  },
+  {
+    "Branch": "부산송도해수욕장",
+    "Location": "부산광역시 서구 송도해변로 97(101,102,201) (암남동)",
+    "Latitude": 35.077315,
+    "Longitude": 129.017874
+  },
+  {
+    "Branch": "부산송정비치",
+    "Location": "부산광역시 해운대구 송정해변로 36 (송정동)",
+    "Latitude": 35.1807279,
+    "Longitude": 129.2022769
+  },
+  {
+    "Branch": "부산시청",
+    "Location": "부산광역시 연제구 중앙천로 93 (연산동)",
+    "Latitude": 35.18159,
+    "Longitude": 129.07841
+  },
+  {
+    "Branch": "부산안락DT",
+    "Location": "부산광역시 동래구 충렬대로 446 (안락동)",
+    "Latitude": 35.1958595,
+    "Longitude": 129.1069541
+  },
+  {
+    "Branch": "부산역",
+    "Location": "부산광역시 동구 중앙대로 216 (초량동)",
+    "Latitude": 35.11631935,
+    "Longitude": 129.0407837
+  },
+  {
+    "Branch": "부산역라마다",
+    "Location": "부산광역시 동구 중앙대로196번길 10 (초량동)",
+    "Latitude": 35.11445,
+    "Longitude": 129.040309
+  },
+  {
+    "Branch": "부산역아스티",
+    "Location": "부산광역시 동구 중앙대로214번길 7-8 (초량동)",
+    "Latitude": 35.116741,
+    "Longitude": 129.042101
+  },
+  {
+    "Branch": "부산연산역",
+    "Location": "부산광역시 연제구 반송로 20 (연산동)",
+    "Latitude": 35.1869475,
+    "Longitude": 129.0833335
+  },
+  {
+    "Branch": "부산온천장역",
+    "Location": "부산광역시 동래구 중앙대로 1523, SK허브스카이위아아파트 1층 (온천동)",
+    "Latitude": 35.221082,
+    "Longitude": 129.085506
+  },
+  {
+    "Branch": "부산외대",
+    "Location": "부산광역시 금정구 금샘로 459",
+    "Latitude": 35.2640133,
+    "Longitude": 129.0847552
+  },
+  {
+    "Branch": "부산재송DT",
+    "Location": "부산광역시 해운대구 해운대로 189 (재송동)",
+    "Latitude": 35.181271,
+    "Longitude": 129.12405
+  },
+  {
+    "Branch": "부산정관",
+    "Location": "부산광역시 기장군 정관읍 정관로 579",
+    "Latitude": 35.321336,
+    "Longitude": 129.176983
+  },
+  {
+    "Branch": "부산중앙역",
+    "Location": "부산광역시 중구 중앙대로81번길 2 (중앙동4가)",
+    "Latitude": 35.1050552,
+    "Longitude": 129.0359604
+  },
+  {
+    "Branch": "부산하단",
+    "Location": "부산광역시 사하구 낙동대로 455 (하단동)",
+    "Latitude": 35.1053448,
+    "Longitude": 128.9688718
+  },
+  {
+    "Branch": "부산화명역",
+    "Location": "부산광역시 북구 금곡대로285번길 5 (화명동)",
+    "Latitude": 35.233829,
+    "Longitude": 129.013106
+  },
+  {
+    "Branch": "부산P.아울렛",
+    "Location": "부산광역시 기장군 정관로 1133 (175호)",
+    "Latitude": 35.325248,
+    "Longitude": 129.236612
+  },
+  {
+    "Branch": "부전역",
+    "Location": "부산광역시 부산진구 중앙대로 777, 서면호텔 복합시설1,2층 (부전동)",
+    "Latitude": 35.16183,
+    "Longitude": 129.061933
+  },
+  {
+    "Branch": "부평",
+    "Location": "인천광역시 부평구 경원대로 1397 (부평동)",
+    "Latitude": 37.49158659,
+    "Longitude": 126.7244861
+  },
+  {
+    "Branch": "부평사거리",
+    "Location": "인천광역시 부평구 부평문화로 52, 1~2층 (부평동)",
+    "Latitude": 37.493886,
+    "Longitude": 126.721952
+  },
+  {
+    "Branch": "부평삼거리역DT",
+    "Location": "인천광역시 남동구 경인로 750 (간석동)",
+    "Latitude": 37.476788,
+    "Longitude": 126.710148
+  },
+  {
+    "Branch": "부평시장역",
+    "Location": "인천광역시 부평구 부평대로 60, 현대해상화재보험 1층 (부평동)",
+    "Latitude": 37.496786,
+    "Longitude": 126.72307
+  },
+  {
+    "Branch": "부평역",
+    "Location": "인천광역시 부평구 경원대로 1377, 1-4층 (부평동)",
+    "Latitude": 37.491434,
+    "Longitude": 126.722134
+  },
+  {
+    "Branch": "부평GM",
+    "Location": "인천광역시 부평구 부평대로 233 (청천동)",
+    "Latitude": 37.512313,
+    "Longitude": 126.710236
+  },
+  {
+    "Branch": "북가좌DT",
+    "Location": "서울특별시 서대문구 응암로 85 (북가좌동)",
+    "Latitude": 37.580758,
+    "Longitude": 126.911478
+  },
+  {
+    "Branch": "북촌로",
+    "Location": "서울특별시 종로구 북촌로4길 23 (계동)",
+    "Latitude": 37.579462,
+    "Longitude": 126.986431
+  },
+  {
+    "Branch": "불광역",
+    "Location": "서울특별시 은평구 통일로 715 (대조동)",
+    "Latitude": 37.609382,
+    "Longitude": 126.9303971
+  },
+  {
+    "Branch": "블루스퀘어",
+    "Location": "부산광역시 해운대구 좌동로 96 (좌동)",
+    "Latitude": 35.17229566,
+    "Longitude": 129.1755924
+  },
+  {
+    "Branch": "비발디파크",
+    "Location": "강원도 홍천군 서면 한치골길 262",
+    "Latitude": 37.645094,
+    "Longitude": 127.682234
+  },
+  {
+    "Branch": "사가정역",
+    "Location": "서울특별시 중랑구 면목로 310",
+    "Latitude": 37.579594,
+    "Longitude": 127.087966
+  },
+  {
+    "Branch": "사당",
+    "Location": "서울특별시 관악구 남부순환로 2082-25",
+    "Latitude": 37.47601,
+    "Longitude": 126.980997
+  },
+  {
+    "Branch": "사당로데오",
+    "Location": "서울특별시 서초구 방배천로 5-4(방배동)",
+    "Latitude": 37.4772752,
+    "Longitude": 126.9821605
+  },
+  {
+    "Branch": "사당역",
+    "Location": "서울특별시 동작구 동작대로 21, 양지빌딩 1-3층 (사당동)",
+    "Latitude": 37.47849216,
+    "Longitude": 126.9813456
+  },
+  {
+    "Branch": "사상엄궁DT",
+    "Location": "부산광역시 사상구 낙동대로 744 (엄궁동)",
+    "Latitude": 35.127533,
+    "Longitude": 128.969588
+  },
+  {
+    "Branch": "사상역",
+    "Location": "부산광역시 사상구 사상로 211 (괘법동)",
+    "Latitude": 35.164003,
+    "Longitude": 128.983473
+  },
+  {
+    "Branch": "사상주례DT",
+    "Location": "부산광역시 사상구 백양대로 520 (주례동)",
+    "Latitude": 35.154847,
+    "Longitude": 128.996302
+  },
+  {
+    "Branch": "사직구장",
+    "Location": "부산광역시 동래구 사직북로 4 (사직동)",
+    "Latitude": 35.195954,
+    "Longitude": 129.061289
+  },
+  {
+    "Branch": "사천벌리",
+    "Location": "경상남도 사천시 주공로 31 (벌리동)",
+    "Latitude": 34.9411367,
+    "Longitude": 128.0863809
+  },
+  {
+    "Branch": "사하장림DT",
+    "Location": "부산광역시 사하구 을숙도대로 682 (장림동)",
+    "Latitude": 35.0849337,
+    "Longitude": 128.9802207
+  },
+  {
+    "Branch": "삼선교",
+    "Location": "서울특별시 성북구 동소문로 10 (동소문동2가)",
+    "Latitude": 37.588696,
+    "Longitude": 127.0073207
+  },
+  {
+    "Branch": "삼성",
+    "Location": "서울특별시 강남구 테헤란로 443, 애플트리타워 1층 (삼성동)",
+    "Latitude": 37.50703529,
+    "Longitude": 127.0555503
+  },
+  {
+    "Branch": "삼성교",
+    "Location": "서울특별시 강남구 영동대로86길 12, 동남유화빌딩 1층",
+    "Latitude": 37.507794,
+    "Longitude": 127.06517
+  },
+  {
+    "Branch": "삼성도심공항",
+    "Location": "서울특별시 강남구 테헤란로87길 33 (삼성동)",
+    "Latitude": 37.5097863,
+    "Longitude": 127.0579134
+  },
+  {
+    "Branch": "삼성동",
+    "Location": "서울특별시 강남구 영동대로96길 12 (삼성동)",
+    "Latitude": 37.5108433661215,
+    "Longitude": 127.063633420443
+  },
+  {
+    "Branch": "삼성역섬유센터R",
+    "Location": "서울특별시 강남구 테헤란로 518 (대치동)",
+    "Latitude": 37.50775,
+    "Longitude": 127.060651
+  },
+  {
+    "Branch": "삼성창원병원",
+    "Location": "경상남도 창원시 마산회원구 팔용로 158 (합성동)",
+    "Latitude": 35.242951,
+    "Longitude": 128.592019
+  },
+  {
+    "Branch": "삼성현대힐",
+    "Location": "서울특별시 강남구 삼성로 605 (삼성동)",
+    "Latitude": 37.51354184,
+    "Longitude": 127.0527183
+  },
+  {
+    "Branch": "삼청동",
+    "Location": "서울특별시 종로구 삼청로 111-1 (삼청동)",
+    "Latitude": 37.585381,
+    "Longitude": 126.9817512
+  },
+  {
+    "Branch": "상계초교사거리",
+    "Location": "서울특별시 노원구 노원로 449 (상계동)",
+    "Latitude": 37.656776,
+    "Longitude": 127.066442
+  },
+  {
+    "Branch": "상도역",
+    "Location": "서울특별시 동작구 상도로37길 1 (상도1동)",
+    "Latitude": 37.5031936,
+    "Longitude": 126.9484581
+  },
+  {
+    "Branch": "상무역",
+    "Location": "광주광역시 서구 상무중앙로 7, 1층 (치평동)",
+    "Latitude": 35.147468,
+    "Longitude": 126.847989
+  },
+  {
+    "Branch": "상무치평",
+    "Location": "광주광역시 서구 상무자유로 173, 1층 (치평동)",
+    "Latitude": 35.151968,
+    "Longitude": 126.853423
+  },
+  {
+    "Branch": "상봉",
+    "Location": "서울특별시 중랑구 상봉로 131 (상봉동, 상봉 듀오트리스 주상복합)",
+    "Latitude": 37.597842,
+    "Longitude": 127.092509
+  },
+  {
+    "Branch": "상봉역",
+    "Location": "서울특별시 중랑구 망우로 307 (상봉동)",
+    "Latitude": 37.59689,
+    "Longitude": 127.08647
+  },
+  {
+    "Branch": "상수역",
+    "Location": "서울특별시 마포구 독막로 88 (상수동)",
+    "Latitude": 37.5474817,
+    "Longitude": 126.9232158
+  },
+  {
+    "Branch": "상암디지털큐브",
+    "Location": "서울특별시 마포구 상암산로 34",
+    "Latitude": 37.5763132,
+    "Longitude": 126.8892477
+  },
+  {
+    "Branch": "상암사보이시티",
+    "Location": "서울특별시 마포구 월드컵북로54길 17 (상암동)",
+    "Latitude": 37.58147,
+    "Longitude": 126.888983
+  },
+  {
+    "Branch": "상암DMC",
+    "Location": "서울특별시 마포구 월드컵북로 375, DMC이안오피스텔1단지 102호,202호 (상암동)",
+    "Latitude": 37.577623,
+    "Longitude": 126.890684
+  },
+  {
+    "Branch": "상암MBC",
+    "Location": "서울특별시 마포구 성암로 267 (상암동)",
+    "Latitude": 37.581297,
+    "Longitude": 126.890908
+  },
+  {
+    "Branch": "상암YTN",
+    "Location": "서울특별시 마포구 상암산로 76 (상암동)",
+    "Latitude": 37.579183,
+    "Longitude": 126.892315
+  },
+  {
+    "Branch": "상왕십리역",
+    "Location": "서울특별시 성동구 왕십리로 382 (하왕십리동)",
+    "Latitude": 37.565169,
+    "Longitude": 127.027907
+  },
+  {
+    "Branch": "상일동",
+    "Location": "서울특별시 강동구 상일로10길 36, 1~2층 (상일동)",
+    "Latitude": 37.5507989598659,
+    "Longitude": 127.174104292142
+  },
+  {
+    "Branch": "상일동역",
+    "Location": "서울특별시 강동구 고덕로 399 (고덕동, 고덕센트럴푸르지오)",
+    "Latitude": 37.557541816155,
+    "Longitude": 127.170726724747
+  },
+  {
+    "Branch": "새문안로",
+    "Location": "서울특별시 종로구 새문안로 92 (신문로1가) 광화문오피시아빌딩",
+    "Latitude": 37.5696597,
+    "Longitude": 126.9748903
+  },
+  {
+    "Branch": "샛강역",
+    "Location": "서울특별시 영등포구 여의대방로 376 (여의도동)",
+    "Latitude": 37.5183551,
+    "Longitude": 126.9312716
+  },
+  {
+    "Branch": "서강광흥창역",
+    "Location": "서울특별시 마포구 서강로 69 (창전동)",
+    "Latitude": 37.549377,
+    "Longitude": 126.931661
+  },
+  {
+    "Branch": "서강대",
+    "Location": "서울특별시 마포구 백범로 23 (신수동)",
+    "Latitude": 37.5524584,
+    "Longitude": 126.9378262
+  },
+  {
+    "Branch": "서강대프라자",
+    "Location": "서울특별시 마포구 백범로 35 (신수동)",
+    "Latitude": 37.551073,
+    "Longitude": 126.943096
+  },
+  {
+    "Branch": "서강대흥역",
+    "Location": "서울특별시 마포구 백범로 89-5 (대흥동)",
+    "Latitude": 37.548178,
+    "Longitude": 126.941576
+  },
+  {
+    "Branch": "서광주DT",
+    "Location": "광주광역시 서구 서광주로 23 (매월동)",
+    "Latitude": 35.129468,
+    "Longitude": 126.847401
+  },
+  {
+    "Branch": "서교",
+    "Location": "서울특별시 마포구 양화로 78 (서교동) 서교빌딩 1층",
+    "Latitude": 37.551385,
+    "Longitude": 126.9169208
+  },
+  {
+    "Branch": "서교동사거리",
+    "Location": "서울특별시 마포구 양화로 105 (서교동)",
+    "Latitude": 37.553376,
+    "Longitude": 126.918564
+  },
+  {
+    "Branch": "서귀포DT",
+    "Location": "제주특별자치도 서귀포시 일주서로 11 (강정동)",
+    "Latitude": 33.2492775,
+    "Longitude": 126.5065229
+  },
+  {
+    "Branch": "서대문역",
+    "Location": "서울특별시 종로구 통일로 134 (평동)",
+    "Latitude": 37.5667,
+    "Longitude": 126.96629
+  },
+  {
+    "Branch": "서래마을입구",
+    "Location": "서울특별시 서초구 서래로 48 (반포동)",
+    "Latitude": 37.49925284,
+    "Longitude": 126.9984801
+  },
+  {
+    "Branch": "서면로R",
+    "Location": "부산광역시 부산진구 서면로 49-1 (부전동)",
+    "Latitude": 35.155255,
+    "Longitude": 129.057651
+  },
+  {
+    "Branch": "서면메디컬거리",
+    "Location": "부산광역시 부산진구 가야대로 783-1, 1층 (부전동)",
+    "Latitude": 35.157961,
+    "Longitude": 129.0574095
+  },
+  {
+    "Branch": "서면문화로",
+    "Location": "부산광역시 부산진구 서면문화로 10 (부전동)",
+    "Latitude": 35.159056,
+    "Longitude": 129.057527
+  },
+  {
+    "Branch": "서면서전로",
+    "Location": "부산광역시 부산진구 서전로 19 (부전동)",
+    "Latitude": 35.157995,
+    "Longitude": 129.061744
+  },
+  {
+    "Branch": "서면센트럴스퀘어",
+    "Location": "부산광역시 부산진구 중앙대로666번길 50 (부전동)",
+    "Latitude": 35.15151,
+    "Longitude": 129.061139
+  },
+  {
+    "Branch": "서면엠디엠타워",
+    "Location": "부산광역시 부산진구 중앙대로 639 (범천동)",
+    "Latitude": 35.150017,
+    "Longitude": 129.058489
+  },
+  {
+    "Branch": "서면역",
+    "Location": "부산광역시 부산진구 서전로 1 (부전동)",
+    "Latitude": 35.1579735,
+    "Longitude": 129.0599923
+  },
+  {
+    "Branch": "서면전포역",
+    "Location": "부산광역시 부산진구 전포대로199번길 27 (전포동)",
+    "Latitude": 35.154345,
+    "Longitude": 129.063631
+  },
+  {
+    "Branch": "서면중앙",
+    "Location": "부산광역시 부산진구 서면로68번길 1 (부전동)",
+    "Latitude": 35.156863,
+    "Longitude": 129.058076
+  },
+  {
+    "Branch": "서면중앙대로R",
+    "Location": "부산광역시 부산진구 중앙대로 672 (부전동) 1층 2층",
+    "Latitude": 35.1530083,
+    "Longitude": 129.0596228
+  },
+  {
+    "Branch": "서면트레이더스",
+    "Location": "부산광역시 부산진구 시민공원로 31 (부암동)",
+    "Latitude": 35.163918,
+    "Longitude": 129.052684
+  },
+  {
+    "Branch": "서면NC",
+    "Location": "부산광역시 부산진구 동천로 92 (전포동) NC백화점 1층",
+    "Latitude": 35.157036,
+    "Longitude": 129.063029
+  },
+  {
+    "Branch": "서산예천DT",
+    "Location": "충청남도 서산시 나무장1길 22 (예천동)",
+    "Latitude": 36.771727,
+    "Longitude": 126.440171
+  },
+  {
+    "Branch": "서산호수",
+    "Location": "충청남도 서산시 호수공원2로 33, 1~2층 (읍내동)",
+    "Latitude": 36.776653,
+    "Longitude": 126.448646
+  },
+  {
+    "Branch": "서소문로",
+    "Location": "서울특별시 중구 서소문로 120 (서소문동) 대한빌딩",
+    "Latitude": 37.563006,
+    "Longitude": 126.974546
+  },
+  {
+    "Branch": "서소문배재",
+    "Location": "서울특별시 중구 서소문로 99 (서소문동)",
+    "Latitude": 37.5628481,
+    "Longitude": 126.9721664
+  },
+  {
+    "Branch": "서울고속터미널",
+    "Location": "서울특별시 서초구 신반포로 194 (반포동)",
+    "Latitude": 37.504406,
+    "Longitude": 127.005648
+  },
+  {
+    "Branch": "서울교대",
+    "Location": "서울특별시 서초구 서초중앙로 64, 1층 (서초동)",
+    "Latitude": 37.487397,
+    "Longitude": 127.015134
+  },
+  {
+    "Branch": "서울대역",
+    "Location": "서울특별시 관악구 남부순환로 1817 (봉천동)",
+    "Latitude": 37.481599,
+    "Longitude": 126.9522
+  },
+  {
+    "Branch": "서울대입구역",
+    "Location": "서울특별시 관악구 남부순환로 1812 (봉천동)",
+    "Latitude": 37.48118,
+    "Longitude": 126.951324
+  },
+  {
+    "Branch": "서울대치과병원",
+    "Location": "서울특별시 종로구 대학로 101 서울대학교 치과병원 신관1층",
+    "Latitude": 37.5779,
+    "Longitude": 126.99965
+  },
+  {
+    "Branch": "서울세관사거리",
+    "Location": "서울특별시 강남구 언주로 650 (논현동) 한국건설기술인협회",
+    "Latitude": 37.514887,
+    "Longitude": 127.035653
+  },
+  {
+    "Branch": "서울숲역",
+    "Location": "서울특별시 성동구 왕십리로 50 (성수동1가) 1층",
+    "Latitude": 37.542075,
+    "Longitude": 127.044961
+  },
+  {
+    "Branch": "서울아트센터",
+    "Location": "서울특별시 서초구 남부순환로 2395 (서초동) 호경빌딩",
+    "Latitude": 37.480866,
+    "Longitude": 127.012368
+  },
+  {
+    "Branch": "서울양평역",
+    "Location": "서울특별시 영등포구 선유서로24길 6 (양평동1가, 영등포 중흥 S-CLASS)",
+    "Latitude": 37.523128,
+    "Longitude": 126.885809
+  },
+  {
+    "Branch": "서울역동자동",
+    "Location": "서울특별시 용산구 한강대로 372 (동자동)",
+    "Latitude": 37.551752,
+    "Longitude": 126.972694
+  },
+  {
+    "Branch": "서울역사",
+    "Location": "서울특별시 용산구 한강대로 405 (동자동) 신-101호",
+    "Latitude": 37.5541569992871,
+    "Longitude": 126.971793612928
+  },
+  {
+    "Branch": "서울역서부",
+    "Location": "서울특별시 용산구 만리재로 202 (서계동)",
+    "Latitude": 37.555165,
+    "Longitude": 126.968446
+  },
+  {
+    "Branch": "서울웨이브아트센터",
+    "Location": "서울특별시 서초구 잠원로 145-35 (잠원동)",
+    "Latitude": 37.518807,
+    "Longitude": 127.00704
+  },
+  {
+    "Branch": "서울중앙우체국",
+    "Location": "서울특별시 중구 소공로 70 (충무로 1가) 서울 중앙 우체국",
+    "Latitude": 37.561678,
+    "Longitude": 126.982117
+  },
+  {
+    "Branch": "서울타워",
+    "Location": "서울특별시 용산구 남산공원길 105 (용산동2가) YTN서울타워 1층",
+    "Latitude": 37.551102,
+    "Longitude": 126.988317
+  },
+  {
+    "Branch": "서이초교사거리",
+    "Location": "서울특별시 서초구 사임당로 143 (서초동)",
+    "Latitude": 37.4918146,
+    "Longitude": 127.0252252
+  },
+  {
+    "Branch": "서초구청",
+    "Location": "서울특별시 서초구 남부순환로 2557 (서초동)",
+    "Latitude": 37.484206,
+    "Longitude": 127.030103
+  },
+  {
+    "Branch": "서초동",
+    "Location": "서울특별시 서초구 남부순환로339길 64, 현우빌딩 1층 (서초동)",
+    "Latitude": 37.485941,
+    "Longitude": 127.021525
+  },
+  {
+    "Branch": "서초법원",
+    "Location": "서울특별시 서초구 서초대로 274 (서초동)",
+    "Latitude": 37.49297,
+    "Longitude": 127.011875
+  },
+  {
+    "Branch": "서초역",
+    "Location": "서울특별시 서초구 반포대로 118 (서초동)",
+    "Latitude": 37.49067495,
+    "Longitude": 127.0086118
+  },
+  {
+    "Branch": "서초역이화빌딩",
+    "Location": "서울특별시 서초구 반포대로21길 3 (서초동)",
+    "Latitude": 37.487931,
+    "Longitude": 127.009126
+  },
+  {
+    "Branch": "서초우성사거리",
+    "Location": "서울특별시 서초구 강남대로 343 (서초동)",
+    "Latitude": 37.493545,
+    "Longitude": 127.02943
+  },
+  {
+    "Branch": "서초중앙로",
+    "Location": "서울특별시 서초구 서초중앙로 225",
+    "Latitude": 37.501691,
+    "Longitude": 127.01152
+  },
+  {
+    "Branch": "서초파라곤",
+    "Location": "서울특별시 서초구 서초대로74길 29 (서초동) 서초파라곤",
+    "Latitude": 37.494941,
+    "Longitude": 127.027422
+  },
+  {
+    "Branch": "석촌서호",
+    "Location": "서울특별시 송파구 석촌호수로 176 (삼전동)",
+    "Latitude": 37.5063929,
+    "Longitude": 127.0964684
+  },
+  {
+    "Branch": "석촌역",
+    "Location": "서울특별시 송파구 백제고분로 358, 1층 (석촌동)",
+    "Latitude": 37.5042626,
+    "Longitude": 127.1061077
+  },
+  {
+    "Branch": "석촌호수",
+    "Location": "서울특별시 송파구 석촌호수로 262 (송파동)",
+    "Latitude": 37.509581,
+    "Longitude": 127.104993
+  },
+  {
+    "Branch": "선릉동신빌딩R",
+    "Location": "서울특별시 강남구 테헤란로 409 (삼성동)",
+    "Latitude": 37.505321,
+    "Longitude": 127.050409
+  },
+  {
+    "Branch": "선릉로",
+    "Location": "서울특별시 강남구 선릉로93길 22, 대흥빌딩 1층 (역삼동)",
+    "Latitude": 37.505053,
+    "Longitude": 127.046577
+  },
+  {
+    "Branch": "선릉세화빌딩",
+    "Location": "서울특별시 강남구 테헤란로64길 18 (대치동) 1층",
+    "Latitude": 37.50377562,
+    "Longitude": 127.051196
+  },
+  {
+    "Branch": "선릉역",
+    "Location": "서울특별시 강남구 테헤란로 334, LG화재 빌딩 (역삼동)",
+    "Latitude": 37.50393894,
+    "Longitude": 127.0485135
+  },
+  {
+    "Branch": "선유도역",
+    "Location": "서울특별시 영등포구 양평로 115 (양평동4가)",
+    "Latitude": 37.537268,
+    "Longitude": 126.894594
+  },
+  {
+    "Branch": "선유도역 1번출구",
+    "Location": "서울특별시 영등포구 양평로 128 (양평동5가)양평로 128",
+    "Latitude": 37.538333,
+    "Longitude": 126.893612
+  },
+  {
+    "Branch": "선유동이레빌딩",
+    "Location": "서울특별시 영등포구 선유동2로 57 (양평제1동) 이레빌딩",
+    "Latitude": 37.534109,
+    "Longitude": 126.896912
+  },
+  {
+    "Branch": "선정릉역",
+    "Location": "서울특별시 강남구 봉은사로 407 (삼성동) 에프오빌딩",
+    "Latitude": 37.5107549,
+    "Longitude": 127.0445597
+  },
+  {
+    "Branch": "설악쏘라노",
+    "Location": "강원도 속초시 미시령로2983번길 111 (장사동)",
+    "Latitude": 38.21059,
+    "Longitude": 128.528526
+  },
+  {
+    "Branch": "성대입구",
+    "Location": "서울특별시 종로구 창경궁로 235 (명륜3가)",
+    "Latitude": 37.582892,
+    "Longitude": 126.998392
+  },
+  {
+    "Branch": "성산일출봉",
+    "Location": "제주특별자치도 서귀포시 성산읍 일출로 284-5 1,2층",
+    "Latitude": 33.462865,
+    "Longitude": 126.935544
+  },
+  {
+    "Branch": "성수",
+    "Location": "서울특별시 성동구 아차산로 104 (성수동2가)",
+    "Latitude": 37.5444620830457,
+    "Longitude": 127.055413311106
+  },
+  {
+    "Branch": "성수낙낙",
+    "Location": "서울특별시 성동구 광나루로8길 31 (성수동2가) 성수낙낙 1층 101~107호",
+    "Latitude": 37.547326,
+    "Longitude": 127.066367
+  },
+  {
+    "Branch": "성수역",
+    "Location": "서울특별시 성동구 성수이로 94 (성수동2가)",
+    "Latitude": 37.543193,
+    "Longitude": 127.056943
+  },
+  {
+    "Branch": "성수이마트",
+    "Location": "서울특별시 성동구 뚝섬로 379 (성수동2가) 이마트 성수점",
+    "Latitude": 37.5396996,
+    "Longitude": 127.0530083
+  },
+  {
+    "Branch": "성신여대",
+    "Location": "서울특별시 성북구 동소문로24길 12 (동선동1가)",
+    "Latitude": 37.593135,
+    "Longitude": 127.018379
+  },
+  {
+    "Branch": "성신여대정문",
+    "Location": "서울특별시 성북구 보문로34길 62 (동선동2가)",
+    "Latitude": 37.59091,
+    "Longitude": 127.0188
+  },
+  {
+    "Branch": "세종다정DT",
+    "Location": "세종특별자치시 다정북로 219 (다정동)",
+    "Latitude": 36.494878,
+    "Longitude": 127.255384
+  },
+  {
+    "Branch": "세종보람",
+    "Location": "세종특별자치시 한누리대로 2165 (보람동) A118,119,120,121,128,129,130,131",
+    "Latitude": 36.4773322231936,
+    "Longitude": 127.286519378956
+  },
+  {
+    "Branch": "세종새롬",
+    "Location": "세종특별자치시  새롬중앙로 64 (새롬동)",
+    "Latitude": 36.486896,
+    "Longitude": 127.250718
+  },
+  {
+    "Branch": "세종소담",
+    "Location": "세종특별자치시 소담3로 8 (소담동) 1동  12호,13호,14호,15호,15a호,16호",
+    "Latitude": 36.485755,
+    "Longitude": 127.300509
+  },
+  {
+    "Branch": "세종아름",
+    "Location": "세종특별자치시 아름서1길 13-9 (아름동) 103,104,105,202,203호",
+    "Latitude": 36.51188,
+    "Longitude": 127.24277
+  },
+  {
+    "Branch": "세종어진R",
+    "Location": "세종특별자치시  한누리대로 499 (어진동)",
+    "Latitude": 36.508188,
+    "Longitude": 127.261188
+  },
+  {
+    "Branch": "세종이마트",
+    "Location": "세종특별자치시 금송로 687(가람동 406) 이마트 세종점",
+    "Latitude": 36.4712189,
+    "Longitude": 127.2509973
+  },
+  {
+    "Branch": "세종종촌",
+    "Location": "세종특별자치시  도움3로 105-10 (종촌동) 성운프라자",
+    "Latitude": 36.5041123,
+    "Longitude": 127.2493812
+  },
+  {
+    "Branch": "세종첫마을",
+    "Location": "세종특별자치시  한누리대로 169 행복타워 1층",
+    "Latitude": 36.4803826,
+    "Longitude": 127.2617948
+  },
+  {
+    "Branch": "세종청사",
+    "Location": "세종특별자치시  도움8로 81 (어진동)",
+    "Latitude": 36.504565,
+    "Longitude": 127.270769
+  },
+  {
+    "Branch": "세종충남대학교병원",
+    "Location": "세종특별자치시 보듬7로 20 (도담동) 헬스케어센터 1층",
+    "Latitude": 36.51936,
+    "Longitude": 127.25828
+  },
+  {
+    "Branch": "센터필드R",
+    "Location": "서울특별시 강남구 테헤란로 231 (역삼동)",
+    "Latitude": 37.503694653912,
+    "Longitude": 127.041720816092
+  },
+  {
+    "Branch": "센텀그린타워",
+    "Location": "부산광역시 해운대구 센텀중앙로 78 (우동)",
+    "Latitude": 35.174668,
+    "Longitude": 129.126697
+  },
+  {
+    "Branch": "센텀드림월드",
+    "Location": "부산광역시 해운대구 센텀2로 25, 센텀드림월드 1층 (우동)",
+    "Latitude": 35.167027,
+    "Longitude": 129.132829
+  },
+  {
+    "Branch": "센텀로",
+    "Location": "부산광역시 해운대구 센텀2로 10 (우동) 센텀메디컬센타 1층 스타벅스 센텀로점",
+    "Latitude": 35.1678356,
+    "Longitude": 129.1315392
+  },
+  {
+    "Branch": "센텀몰1F",
+    "Location": "부산광역시 해운대구 센텀4로 15 (우동)",
+    "Latitude": 35.16981023,
+    "Longitude": 129.12778297
+  },
+  {
+    "Branch": "센텀시티역",
+    "Location": "부산광역시 해운대구 센텀동로 9, 트럼프월드센텀아파트 1층 (우동)",
+    "Latitude": 35.169925,
+    "Longitude": 129.132271
+  },
+  {
+    "Branch": "센텀신세계3F",
+    "Location": "부산광역시 해운대구 센텀남대로 35 (우동)",
+    "Latitude": 35.16906348,
+    "Longitude": 129.12906568
+  },
+  {
+    "Branch": "센텀신세계B1",
+    "Location": "부산광역시 해운대구 센텀남대로 35 (우동) 센텀시티 신세계UEC",
+    "Latitude": 35.1687027,
+    "Longitude": 129.1297466
+  },
+  {
+    "Branch": "센텀파크",
+    "Location": "부산광역시 해운대구 센텀중앙로 145 (재송동, 더샵센텀파크1차아파트)",
+    "Latitude": 35.178759,
+    "Longitude": 129.122541
+  },
+  {
+    "Branch": "센텀KNN",
+    "Location": "부산광역시 해운대구 센텀서로 30 (우동)",
+    "Latitude": 35.171765,
+    "Longitude": 129.128934
+  },
+  {
+    "Branch": "센트럴시티",
+    "Location": "서울특별시 서초구 신반포로 176 (반포동)",
+    "Latitude": 37.504707,
+    "Longitude": 127.004459
+  },
+  {
+    "Branch": "센트럴F1",
+    "Location": "서울특별시 서초구 신반포로 176 (반포동)",
+    "Latitude": 37.505148,
+    "Longitude": 127.004395
+  },
+  {
+    "Branch": "소공로",
+    "Location": "서울특별시 중구 남대문로7길 19, 삼영빌딩 1층 일부 (소공동)",
+    "Latitude": 37.5637273,
+    "Longitude": 126.9807681
+  },
+  {
+    "Branch": "소노델피노",
+    "Location": "강원도 고성군 토성면 미시령옛길 1153",
+    "Latitude": 38.212094,
+    "Longitude": 128.493948
+  },
+  {
+    "Branch": "소노캄거제",
+    "Location": "경상남도 거제시 일운면 거제대로 2660 1층",
+    "Latitude": 34.843522,
+    "Longitude": 128.70264
+  },
+  {
+    "Branch": "속초교동DT",
+    "Location": "강원도 속초시 청대로 339 (교동)",
+    "Latitude": 38.1966412,
+    "Longitude": 128.5718716
+  },
+  {
+    "Branch": "속초중앙로",
+    "Location": "강원도 속초시 중앙로 123 (금호동)",
+    "Latitude": 38.202593,
+    "Longitude": 128.589453
+  },
+  {
+    "Branch": "속초DT",
+    "Location": "강원도 속초시 동해대로 4114 (조양동)",
+    "Latitude": 38.1898709,
+    "Longitude": 128.5844124
+  },
+  {
+    "Branch": "송도센트럴파크",
+    "Location": "인천광역시 연수구 센트럴로 194 (송도동)",
+    "Latitude": 37.39523,
+    "Longitude": 126.640539
+  },
+  {
+    "Branch": "송도캐슬파크",
+    "Location": "인천광역시 연수구 인천타워대로132번길 9 (송도동)",
+    "Latitude": 37.384756,
+    "Longitude": 126.640892
+  },
+  {
+    "Branch": "송도캠퍼스타운역",
+    "Location": "인천광역시 연수구 송도과학로27번길 55 (송도동) 롯데캠퍼스타운",
+    "Latitude": 37.387483,
+    "Longitude": 126.663494
+  },
+  {
+    "Branch": "송도커넬워크",
+    "Location": "인천광역시 연수구 아트센터대로 131 (송도동)",
+    "Latitude": 37.399483,
+    "Longitude": 126.636786
+  },
+  {
+    "Branch": "송도컨벤시아대로DT",
+    "Location": "인천광역시 연수구 벤처로 10 (송도동)",
+    "Latitude": 37.382706,
+    "Longitude": 126.636996
+  },
+  {
+    "Branch": "송도트리플R",
+    "Location": "인천광역시 연수구 송도과학로16번길 33-1 (송도동)",
+    "Latitude": 37.380763,
+    "Longitude": 126.659213
+  },
+  {
+    "Branch": "송도현대아울렛",
+    "Location": "인천광역시 연수구 송도국제대로 123 (송도동)",
+    "Latitude": 37.381314,
+    "Longitude": 126.657929
+  },
+  {
+    "Branch": "송림트레이더스",
+    "Location": "인천광역시 동구 봉수대로 82, 이마트 트레이더스송림점1층 (송림동)",
+    "Latitude": 37.48307,
+    "Longitude": 126.66043
+  },
+  {
+    "Branch": "송파개롱역",
+    "Location": "서울특별시 송파구 오금로 420 (가락동)",
+    "Latitude": 37.496956,
+    "Longitude": 127.13652
+  },
+  {
+    "Branch": "송파구청",
+    "Location": "서울특별시 송파구 오금로 87 (방이동)",
+    "Latitude": 37.514573,
+    "Longitude": 127.107404
+  },
+  {
+    "Branch": "송파나루역DT",
+    "Location": "서울특별시 송파구 오금로 142 (송파동)",
+    "Latitude": 37.510793,
+    "Longitude": 127.1102658
+  },
+  {
+    "Branch": "송파마천사거리DT",
+    "Location": "서울특별시 송파구 거마로 78 (마천동)",
+    "Latitude": 37.499829,
+    "Longitude": 127.147672
+  },
+  {
+    "Branch": "송파방이DT",
+    "Location": "서울특별시 송파구 오금로 241 (방이동)",
+    "Latitude": 37.506564,
+    "Longitude": 127.120495
+  },
+  {
+    "Branch": "송파사거리",
+    "Location": "서울특별시 송파구 송파대로 386 (송파동)",
+    "Latitude": 37.5022788,
+    "Longitude": 127.1103904
+  },
+  {
+    "Branch": "송파아이파크",
+    "Location": "서울특별시 송파구 법원로 55 (문정동)",
+    "Latitude": 37.479892,
+    "Longitude": 127.122379
+  },
+  {
+    "Branch": "송파위례",
+    "Location": "서울특별시 송파구 위례광장로 230 (장지동, 위례2차아이파크)",
+    "Latitude": 37.478264,
+    "Longitude": 127.144067
+  },
+  {
+    "Branch": "송파헬리오시티",
+    "Location": "서울특별시 송파구 송파대로 345 (가락동, 헬리오시티)",
+    "Latitude": 37.4978563,
+    "Longitude": 127.1031325
+  },
+  {
+    "Branch": "송파KT",
+    "Location": "서울특별시 송파구 잠실로 209 (신천동), 오피스빌딩 1층 2~4호",
+    "Latitude": 37.5139991,
+    "Longitude": 127.1063026
+  },
+  {
+    "Branch": "송파NC",
+    "Location": "서울특별시 송파구 충민로 66 (문정동)  가든파이브라이프 패션관1층",
+    "Latitude": 37.4778761,
+    "Longitude": 127.12567478
+  },
+  {
+    "Branch": "수서역사거리",
+    "Location": "서울특별시 강남구 광평로 280 (수서동)",
+    "Latitude": 37.4873267937748,
+    "Longitude": 127.103140081887
+  },
+  {
+    "Branch": "수서역R",
+    "Location": "서울특별시 강남구 광평로 281 (수서동)",
+    "Latitude": 37.488008,
+    "Longitude": 127.10265
+  },
+  {
+    "Branch": "수성레이크",
+    "Location": "대구광역시 수성구 수성못길 4 (두산동)",
+    "Latitude": 35.825764,
+    "Longitude": 128.621814
+  },
+  {
+    "Branch": "수성리더스",
+    "Location": "대구광역시 수성구 동대구로 95 (두산동)",
+    "Latitude": 35.83871,
+    "Longitude": 128.6230423
+  },
+  {
+    "Branch": "수영강변DT",
+    "Location": "부산광역시 해운대구 수영강변대로 516 (반여동)",
+    "Latitude": 35.203889,
+    "Longitude": 129.119336
+  },
+  {
+    "Branch": "수영망미DT",
+    "Location": "부산광역시 수영구 과정로 68 (망미동)",
+    "Latitude": 35.177411,
+    "Longitude": 129.107428
+  },
+  {
+    "Branch": "수영역",
+    "Location": "부산광역시 수영구 수영로 671 (광안동)",
+    "Latitude": 35.16573,
+    "Longitude": 129.114642
+  },
+  {
+    "Branch": "수유역",
+    "Location": "서울특별시 강북구 도봉로 342 (번동)",
+    "Latitude": 37.6380167,
+    "Longitude": 127.026135
+  },
+  {
+    "Branch": "숙대",
+    "Location": "서울특별시 용산구 청파로47길 57 (청파동3가)",
+    "Latitude": 37.54460479,
+    "Longitude": 126.9672252
+  },
+  {
+    "Branch": "숙대입구역",
+    "Location": "서울특별시 용산구 한강대로 291 (갈월동)",
+    "Latitude": 37.544118,
+    "Longitude": 126.971891
+  },
+  {
+    "Branch": "순천신대",
+    "Location": "전라남도 순천시 해룡면 향매로 99",
+    "Latitude": 34.933509,
+    "Longitude": 127.550306
+  },
+  {
+    "Branch": "순천연향",
+    "Location": "전라남도 순천시 연향번영길 118 (연향동)",
+    "Latitude": 34.952252,
+    "Longitude": 127.518725
+  },
+  {
+    "Branch": "순천용당DT",
+    "Location": "전라남도 순천시 중앙로 398 (가곡동)",
+    "Latitude": 34.9801606,
+    "Longitude": 127.485398
+  },
+  {
+    "Branch": "순천이마트",
+    "Location": "전라남도 순천시 팔마로 191 (덕암동)",
+    "Latitude": 34.9424196249689,
+    "Longitude": 127.508739614794
+  },
+  {
+    "Branch": "순천조례",
+    "Location": "전라남도 순천시 비봉2길 9 (조례동)",
+    "Latitude": 34.971612,
+    "Longitude": 127.520805
+  },
+  {
+    "Branch": "순천향입구",
+    "Location": "서울특별시 용산구 대사관로 67 (한남동)",
+    "Latitude": 37.533394,
+    "Longitude": 127.00563
+  },
+  {
+    "Branch": "순천호수공원",
+    "Location": "전라남도 순천시 왕지2길 17 (왕지동)",
+    "Latitude": 34.968146,
+    "Longitude": 127.523261
+  },
+  {
+    "Branch": "순화동더샵",
+    "Location": "서울특별시 중구 칠패로 27, 1층 (순화동)",
+    "Latitude": 37.560072,
+    "Longitude": 126.971931
+  },
+  {
+    "Branch": "숭례문",
+    "Location": "서울특별시 중구 세종대로 17, 와이즈타워 1층 (남대문로5가)",
+    "Latitude": 37.55874473,
+    "Longitude": 126.9730952
+  },
+  {
+    "Branch": "숭례문북창",
+    "Location": "서울특별시 중구 세종대로12길 12 (남대문로4가)",
+    "Latitude": 37.561725,
+    "Longitude": 126.976838
+  },
+  {
+    "Branch": "숭례문SG타워",
+    "Location": "서울특별시 중구 세종대로 14 (남대문로5가)",
+    "Latitude": 37.5581293,
+    "Longitude": 126.9742637
+  },
+  {
+    "Branch": "숭실대",
+    "Location": "서울특별시 동작구 사당로 4 (상도동)",
+    "Latitude": 37.49538073,
+    "Longitude": 126.9548891
+  },
+  {
+    "Branch": "숭실대입구역",
+    "Location": "서울특별시 동작구 상도로 354 (상도동)",
+    "Latitude": 37.4968346,
+    "Longitude": 126.9527123
+  },
+  {
+    "Branch": "스타필드명지",
+    "Location": "부산광역시 강서구 명지국제6로 168 스타필드 명지 1층",
+    "Latitude": 35.0934683,
+    "Longitude": 128.9174322
+  },
+  {
+    "Branch": "스타필드코엑스몰R",
+    "Location": "서울특별시 강남구 영동대로 513 (삼성동) 코엑스 A106호",
+    "Latitude": 37.50999,
+    "Longitude": 127.061455
+  },
+  {
+    "Branch": "스페이스본",
+    "Location": "서울특별시 종로구 사직로8길 4 (사직동) 광화문 풍림스페이스본",
+    "Latitude": 37.57532212,
+    "Longitude": 126.9692494
+  },
+  {
+    "Branch": "시청",
+    "Location": "서울특별시 중구 을지로 19, 삼성화재삼성빌딩 1층 (을지로1가)",
+    "Latitude": 37.56629,
+    "Longitude": 126.979808
+  },
+  {
+    "Branch": "신논현역",
+    "Location": "서울특별시 서초구 강남대로 483 (반포동) 청호빌딩",
+    "Latitude": 37.50529,
+    "Longitude": 127.023636
+  },
+  {
+    "Branch": "신당역",
+    "Location": "서울특별시 중구 퇴계로 385, 1층 (흥인동)",
+    "Latitude": 37.565522,
+    "Longitude": 127.014554
+  },
+  {
+    "Branch": "신당역사거리",
+    "Location": "서울특별시 중구 다산로 258 (흥인동)",
+    "Latitude": 37.565807,
+    "Longitude": 127.01643
+  },
+  {
+    "Branch": "신대방삼거리역",
+    "Location": "서울특별시 동작구 상도로 102 (상도동)",
+    "Latitude": 37.499914,
+    "Longitude": 126.931766
+  },
+  {
+    "Branch": "신도림",
+    "Location": "서울특별시 구로구 경인로 610 (신도림동)",
+    "Latitude": 37.505517,
+    "Longitude": 126.883953
+  },
+  {
+    "Branch": "신림",
+    "Location": "서울특별시 관악구 신림로 355-1 (신림동)",
+    "Latitude": 37.48609493,
+    "Longitude": 126.9291602
+  },
+  {
+    "Branch": "신림사거리",
+    "Location": "서울특별시 관악구 남부순환로 1619 (신림동)",
+    "Latitude": 37.484768,
+    "Longitude": 126.930467
+  },
+  {
+    "Branch": "신림타임스트림",
+    "Location": "서울특별시 관악구 신림로 330 타임스트림 1층",
+    "Latitude": 37.48385383,
+    "Longitude": 126.9301799
+  },
+  {
+    "Branch": "신림DT",
+    "Location": "서울특별시 관악구 남부순환로 1419 (신림동)",
+    "Latitude": 37.480935,
+    "Longitude": 126.908407
+  },
+  {
+    "Branch": "신사가로수",
+    "Location": "서울특별시 강남구 가로수길 59",
+    "Latitude": 37.521933,
+    "Longitude": 127.022521
+  },
+  {
+    "Branch": "신사역",
+    "Location": "서울특별시 강남구 도산대로 108 (논현동) 렉스타워",
+    "Latitude": 37.5162021,
+    "Longitude": 127.0207428
+  },
+  {
+    "Branch": "신사역성일빌딩",
+    "Location": "서울특별시 강남구 강남대로 584 (논현동)",
+    "Latitude": 37.514132,
+    "Longitude": 127.020563
+  },
+  {
+    "Branch": "신설동역",
+    "Location": "서울특별시 동대문구 왕산로 19 (신설동)",
+    "Latitude": 37.5767228,
+    "Longitude": 127.0255446
+  },
+  {
+    "Branch": "신세계광주",
+    "Location": "광주광역시 서구 무진대로 932 번지 신세계 백화점 1층",
+    "Latitude": 35.160794,
+    "Longitude": 126.882542
+  },
+  {
+    "Branch": "신세계광주신관B1",
+    "Location": "광주광역시 서구 죽봉대로 61, 패션스트리트 B01호 (화정동)",
+    "Latitude": 35.158806,
+    "Longitude": 126.882069
+  },
+  {
+    "Branch": "신세계김해R",
+    "Location": "경상남도 김해시 김해대로 2232 신세계백화점 1층",
+    "Latitude": 35.229471,
+    "Longitude": 128.872823
+  },
+  {
+    "Branch": "신세계대구3F(티바나)",
+    "Location": "대구광역시 동구 동부로 149 신세계백화점 대구점 3층",
+    "Latitude": 35.877767,
+    "Longitude": 128.628498
+  },
+  {
+    "Branch": "신세계대구8FR",
+    "Location": "대구광역시 동구 동부로 149 신세계백화점 대구점 8층",
+    "Latitude": 35.877812,
+    "Longitude": 128.628453
+  },
+  {
+    "Branch": "신세계대전B1",
+    "Location": "대전광역시 유성구 엑스포로 1 (도룡동), 대전신세계 백화점 B1층",
+    "Latitude": 36.37514,
+    "Longitude": 127.38161
+  },
+  {
+    "Branch": "신세계대전R",
+    "Location": "대전광역시 유성구 엑스포로 1 (도룡동), 대전신세계 백화점 5F",
+    "Latitude": 36.37514,
+    "Longitude": 127.38161
+  },
+  {
+    "Branch": "신세계마산",
+    "Location": "경상남도 창원시 마산합포구 합포로 251 (산호동) 신세계백화점 내 지하1층",
+    "Latitude": 35.21960023,
+    "Longitude": 128.5863581
+  },
+  {
+    "Branch": "신세계본점5F",
+    "Location": "서울특별시 중구 소공로 63 (충무로1가)",
+    "Latitude": 37.560951,
+    "Longitude": 126.981134
+  },
+  {
+    "Branch": "신세계본점6F",
+    "Location": "서울특별시 중구 퇴계로 77 (충무로1가)",
+    "Latitude": 37.560381,
+    "Longitude": 126.980758
+  },
+  {
+    "Branch": "신세계타임스퀘어1F",
+    "Location": "서울특별시 영등포구 영중로 9, 신세계백화점 리빙관 1층 (영등포동4가)",
+    "Latitude": 37.517162,
+    "Longitude": 126.905608
+  },
+  {
+    "Branch": "신세계타임스퀘어B2",
+    "Location": "서울특별시 영등포구 영중로 9, 신세계타임스퀘어점 리빙관 지하2층 (영등포동4가)",
+    "Latitude": 37.517162,
+    "Longitude": 126.905608
+  },
+  {
+    "Branch": "신압구정",
+    "Location": "서울특별시 강남구 언주로174길 29 (신사동)",
+    "Latitude": 37.528115,
+    "Longitude": 127.036441
+  },
+  {
+    "Branch": "신용산역",
+    "Location": "서울특별시 용산구 한강대로 95 (한강로2가, 래미안용산)",
+    "Latitude": 37.528702,
+    "Longitude": 126.966757
+  },
+  {
+    "Branch": "신월동DT",
+    "Location": "서울특별시 양천구 남부순환로 319 (신월동)",
+    "Latitude": 37.5382923530559,
+    "Longitude": 126.827101409243
+  },
+  {
+    "Branch": "신월IC DT",
+    "Location": "서울특별시 양천구 남부순환로 430 (신월동)",
+    "Latitude": 37.5294984,
+    "Longitude": 126.831983
+  },
+  {
+    "Branch": "신정DT",
+    "Location": "서울특별시 양천구 신월로 341 (신정동)",
+    "Latitude": 37.521993,
+    "Longitude": 126.858865
+  },
+  {
+    "Branch": "신제주이마트",
+    "Location": "제주특별자치도 제주시 1100로 3348, 신제주이마트 1층 (노형동)",
+    "Latitude": 33.484959,
+    "Longitude": 126.480478
+  },
+  {
+    "Branch": "신촌",
+    "Location": "서울특별시 서대문구 연세로 10-1 (창천동)",
+    "Latitude": 37.55648577,
+    "Longitude": 126.9371155
+  },
+  {
+    "Branch": "신촌명물거리",
+    "Location": "서울특별시 서대문구 명물길 24, 1-5층 (창천동)",
+    "Latitude": 37.557796,
+    "Longitude": 126.938095
+  },
+  {
+    "Branch": "신촌아트레온",
+    "Location": "서울특별시 서대문구 신촌로 129 (창천동)",
+    "Latitude": 37.556505,
+    "Longitude": 126.940238
+  },
+  {
+    "Branch": "신촌역",
+    "Location": "서울특별시 서대문구 신촌로 73 (창천동)",
+    "Latitude": 37.556167,
+    "Longitude": 126.934673
+  },
+  {
+    "Branch": "신촌오거리",
+    "Location": "서울특별시 마포구 신촌로16길 10 (노고산동)",
+    "Latitude": 37.555137,
+    "Longitude": 126.934694
+  },
+  {
+    "Branch": "신탄진금강DT",
+    "Location": "대전광역시 대덕구 신탄진로 866 (신탄진동)",
+    "Latitude": 36.454619,
+    "Longitude": 127.42882
+  },
+  {
+    "Branch": "쌍문도봉로",
+    "Location": "서울특별시 도봉구 도봉로 444 (창동)",
+    "Latitude": 37.6453516,
+    "Longitude": 127.0331011
+  },
+  {
+    "Branch": "쌍문역",
+    "Location": "서울특별시 도봉구 도봉로 480 (창동)",
+    "Latitude": 37.648456,
+    "Longitude": 127.034783
+  },
+  {
+    "Branch": "아산권곡",
+    "Location": "충청남도 아산시 문화로 271-6 (권곡동) 101~105호",
+    "Latitude": 36.7884754720354,
+    "Longitude": 127.015953817987
+  },
+  {
+    "Branch": "아산방축DT",
+    "Location": "충청남도 아산시 온천대로 1392 (방축동)",
+    "Latitude": 36.783636,
+    "Longitude": 126.992786
+  },
+  {
+    "Branch": "아산배방",
+    "Location": "충청남도 아산시 배방읍 배방로 22",
+    "Latitude": 36.774872,
+    "Longitude": 127.053978
+  },
+  {
+    "Branch": "아산용화",
+    "Location": "충청남도 아산시 어의정로 117 (용화동)",
+    "Latitude": 36.774397,
+    "Longitude": 127.008545
+  },
+  {
+    "Branch": "아산탕정",
+    "Location": "충청남도 아산시 탕정면 탕정면로 10",
+    "Latitude": 36.798663,
+    "Longitude": 127.058333
+  },
+  {
+    "Branch": "아산터미널",
+    "Location": "충청남도 아산시 번영로 232 (모종동)",
+    "Latitude": 36.783865,
+    "Longitude": 127.0162904
+  },
+  {
+    "Branch": "아시아선수촌",
+    "Location": "서울특별시 송파구 백제고분로 69 (잠실동)",
+    "Latitude": 37.51059,
+    "Longitude": 127.079047
+  },
+  {
+    "Branch": "아차산역",
+    "Location": "서울특별시 광진구 천호대로 676 (구의동)",
+    "Latitude": 37.5505388,
+    "Longitude": 127.0898757
+  },
+  {
+    "Branch": "아크로힐스논현",
+    "Location": "서울특별시 강남구 봉은사로 304, 금강빌딩 1-2층 (역삼동)",
+    "Latitude": 37.50898041,
+    "Longitude": 127.0403869
+  },
+  {
+    "Branch": "아크플레이스",
+    "Location": "서울특별시 강남구 테헤란로 142 (역삼동)",
+    "Latitude": 37.49971982,
+    "Longitude": 127.0349084
+  },
+  {
+    "Branch": "아현역",
+    "Location": "서울특별시 서대문구 신촌로35길 10 (북아현동, E편한세상신촌 4단지)",
+    "Latitude": 37.558421,
+    "Longitude": 126.956349
+  },
+  {
+    "Branch": "안국",
+    "Location": "서울특별시 종로구 북촌로 5-1 (재동)",
+    "Latitude": 37.577338,
+    "Longitude": 126.985635
+  },
+  {
+    "Branch": "안동병원",
+    "Location": "경상북도 안동시 앙실로 11 (수상동)",
+    "Latitude": 36.547024,
+    "Longitude": 128.70064
+  },
+  {
+    "Branch": "안동시청",
+    "Location": "경상북도 안동시 서동문로 173 (삼산동)",
+    "Latitude": 36.5663574,
+    "Longitude": 128.7311385
+  },
+  {
+    "Branch": "안동이마트",
+    "Location": "경상북도 안동시 옥동1길 2 (옥동)",
+    "Latitude": 36.558505,
+    "Longitude": 128.699308
+  },
+  {
+    "Branch": "안암역",
+    "Location": "서울특별시 성북구 고려대로 102-2 (안암동5가)",
+    "Latitude": 37.586319,
+    "Longitude": 127.030556
+  },
+  {
+    "Branch": "압구정",
+    "Location": "서울특별시 강남구 압구정로30길 17 (신사동)",
+    "Latitude": 37.526283,
+    "Longitude": 127.02956
+  },
+  {
+    "Branch": "압구정로",
+    "Location": "서울특별시 강남구 압구정로42길 32 (신사동)",
+    "Latitude": 37.52680046,
+    "Longitude": 127.0347174
+  },
+  {
+    "Branch": "압구정로데오역",
+    "Location": "서울특별시 강남구 선릉로 836, 삼원빌딩 1,2층 (청담동)",
+    "Latitude": 37.526549,
+    "Longitude": 127.040437
+  },
+  {
+    "Branch": "압구정미소",
+    "Location": "서울특별시 강남구 논현로 841 (신사동)",
+    "Latitude": 37.52405601,
+    "Longitude": 127.027915
+  },
+  {
+    "Branch": "압구정역",
+    "Location": "서울특별시 강남구 압구정로 170, 관영빌딩 1층 지하1층 (신사동)",
+    "Latitude": 37.52674095,
+    "Longitude": 127.0281105
+  },
+  {
+    "Branch": "압구정윤성빌딩",
+    "Location": "서울특별시 강남구 논현로 834 (신사동)",
+    "Latitude": 37.5227934,
+    "Longitude": 127.0286009
+  },
+  {
+    "Branch": "압구정R",
+    "Location": "서울특별시 강남구 언주로 861 (신사동)",
+    "Latitude": 37.5273669,
+    "Longitude": 127.033061
+  },
+  {
+    "Branch": "애오개역",
+    "Location": "서울특별시 마포구 마포대로 201, 마포트라팰리스II (아현동)",
+    "Latitude": 37.55218737,
+    "Longitude": 126.9555203
+  },
+  {
+    "Branch": "약수역",
+    "Location": "서울특별시 중구 다산로 129 (신당동)",
+    "Latitude": 37.555437,
+    "Longitude": 127.0107253
+  },
+  {
+    "Branch": "양산가촌",
+    "Location": "경상남도 양산시 물금읍 야리로 25",
+    "Latitude": 35.317005,
+    "Longitude": 129.001429
+  },
+  {
+    "Branch": "양산덕계DT",
+    "Location": "경상남도 양산시 웅상대로 860 (덕계동)",
+    "Latitude": 35.375986,
+    "Longitude": 129.155662
+  },
+  {
+    "Branch": "양산범어",
+    "Location": "경상남도 양산시 물금읍 범어로 62",
+    "Latitude": 35.329017,
+    "Longitude": 129.014136
+  },
+  {
+    "Branch": "양산이마트",
+    "Location": "경상남도 양산시 양산역6길 12, 양산이마트 1층 (중부동)",
+    "Latitude": 35.337026,
+    "Longitude": 129.026484
+  },
+  {
+    "Branch": "양산증산역",
+    "Location": "경상남도 양산시 물금읍 증산역로 177",
+    "Latitude": 35.310553,
+    "Longitude": 129.009815
+  },
+  {
+    "Branch": "양산터미널",
+    "Location": "경상남도 양산시 양산역1길 7 (중부동) 양산시외버스터미널",
+    "Latitude": 35.3353404,
+    "Longitude": 129.02685
+  },
+  {
+    "Branch": "양재강남빌딩R",
+    "Location": "서울특별시 강남구 남부순환로 2621 (도곡동)",
+    "Latitude": 37.485192,
+    "Longitude": 127.036685
+  },
+  {
+    "Branch": "양재역",
+    "Location": "서울특별시 서초구 강남대로 202 (양재동) 모산빌딩",
+    "Latitude": 37.4820475,
+    "Longitude": 127.0367682
+  },
+  {
+    "Branch": "양정역",
+    "Location": "부산광역시 부산진구 중앙대로 894 (양정동)",
+    "Latitude": 35.1700743,
+    "Longitude": 129.0692627
+  },
+  {
+    "Branch": "양천향교역",
+    "Location": "서울특별시 강서구 강서로 463 (마곡동)",
+    "Latitude": 37.566964,
+    "Longitude": 126.840731
+  },
+  {
+    "Branch": "어린이대공원역",
+    "Location": "서울특별시 광진구 능동로 243 (군자동)",
+    "Latitude": 37.551946,
+    "Longitude": 127.076404
+  },
+  {
+    "Branch": "엔터식스",
+    "Location": "서울특별시 성동구 왕십리광장로 17 (행당동)",
+    "Latitude": 37.56175811,
+    "Longitude": 127.0383328
+  },
+  {
+    "Branch": "여수둔덕DT",
+    "Location": "전라남도 여수시 좌수영로 482 (둔덕동)",
+    "Latitude": 34.768947,
+    "Longitude": 127.697469
+  },
+  {
+    "Branch": "여수마리나",
+    "Location": "전라남도 여수시 웅천로 134 (웅천동)",
+    "Latitude": 34.74037053,
+    "Longitude": 127.67784699
+  },
+  {
+    "Branch": "여수신월DT",
+    "Location": "전라남도 여수시 신월로 567 (신월동)",
+    "Latitude": 34.72469427,
+    "Longitude": 127.70887073
+  },
+  {
+    "Branch": "여수여서",
+    "Location": "전라남도 여수시 여문1로 49 (여서동)",
+    "Latitude": 34.752883,
+    "Longitude": 127.704195
+  },
+  {
+    "Branch": "여수여천",
+    "Location": "전라남도 여수시 망마로 39 (학동)",
+    "Latitude": 34.75984,
+    "Longitude": 127.667034
+  },
+  {
+    "Branch": "여수웅천",
+    "Location": "전라남도 여수시 예울마루로 37-53 (웅천동)",
+    "Latitude": 34.746166,
+    "Longitude": 127.671046
+  },
+  {
+    "Branch": "여수학동DT",
+    "Location": "전라남도 여수시 도원로 271 (학동)",
+    "Latitude": 34.76151,
+    "Longitude": 127.660968
+  },
+  {
+    "Branch": "여수해양공원",
+    "Location": "전라남도 여수시 이순신광장로 192 (종화동)",
+    "Latitude": 34.738437,
+    "Longitude": 127.744285
+  },
+  {
+    "Branch": "여의도",
+    "Location": "서울특별시 영등포구 국제금융로2길 28 (여의도동)",
+    "Latitude": 37.52403519,
+    "Longitude": 126.9245179
+  },
+  {
+    "Branch": "여의도공원R",
+    "Location": "서울특별시 영등포구 여의공원로 101 (여의도동)",
+    "Latitude": 37.529231,
+    "Longitude": 126.924872
+  },
+  {
+    "Branch": "여의도신한금융투자타워",
+    "Location": "서울특별시 영등포구 여의대로 70 (여의도동)",
+    "Latitude": 37.52498,
+    "Longitude": 126.92414
+  },
+  {
+    "Branch": "여의도역R",
+    "Location": "서울특별시 영등포구 의사당대로 83 (여의도동) 1층",
+    "Latitude": 37.523328,
+    "Longitude": 126.923439
+  },
+  {
+    "Branch": "여의도의사당",
+    "Location": "서울특별시 영등포구 국회대로74길 12, 남중빌딩 1층 (여의도동)",
+    "Latitude": 37.530023,
+    "Longitude": 126.92109
+  },
+  {
+    "Branch": "여의도일신",
+    "Location": "서울특별시 영등포구 은행로 11 (여의도동) 1층 1부",
+    "Latitude": 37.528,
+    "Longitude": 126.920103
+  },
+  {
+    "Branch": "여의도한양증권",
+    "Location": "서울특별시 영등포구 국제금융로6길 7 (여의도동) 한양증권",
+    "Latitude": 37.522418,
+    "Longitude": 126.929093
+  },
+  {
+    "Branch": "여의도호성",
+    "Location": "서울특별시 영등포구 여의대방로65길 24, 호성빌딩 1층 (여의도동)",
+    "Latitude": 37.520176,
+    "Longitude": 126.929426
+  },
+  {
+    "Branch": "여의도화재보험",
+    "Location": "서울특별시 영등포구 국제금융로6길 38 (여의도동)",
+    "Latitude": 37.521345,
+    "Longitude": 126.926004
+  },
+  {
+    "Branch": "여의도ABL타워",
+    "Location": "서울특별시 영등포구 의사당대로 147 (여의도동) 알리안츠타워",
+    "Latitude": 37.518749,
+    "Longitude": 126.92779
+  },
+  {
+    "Branch": "여의도IFC(1F)",
+    "Location": "서울특별시 영등포구 국제금융로 10 (여의도동)",
+    "Latitude": 37.525273,
+    "Longitude": 126.924668
+  },
+  {
+    "Branch": "여의도IFC몰(L1)R",
+    "Location": "서울특별시 영등포구 국제금융로 10 (여의도동)  지하1층 178호",
+    "Latitude": 37.525127,
+    "Longitude": 126.925508
+  },
+  {
+    "Branch": "여의도KBS R",
+    "Location": "서울특별시 영등포구 의사당대로 26 (여의도동)",
+    "Latitude": 37.526596,
+    "Longitude": 126.918456
+  },
+  {
+    "Branch": "역삼대로",
+    "Location": "서울특별시 강남구 테헤란로 211, 한국고등교육재단빌딩 1층 (역삼동)",
+    "Latitude": 37.501623,
+    "Longitude": 127.039375
+  },
+  {
+    "Branch": "역삼럭키",
+    "Location": "서울특별시 강남구 도곡로 183 (역삼동)",
+    "Latitude": 37.492209,
+    "Longitude": 127.039389
+  },
+  {
+    "Branch": "역삼아레나빌딩",
+    "Location": "서울특별시 강남구 언주로 425 (역삼동)",
+    "Latitude": 37.501087,
+    "Longitude": 127.043069
+  },
+  {
+    "Branch": "역삼역",
+    "Location": "서울특별시 강남구 테헤란로 145, 우신빌딩 1층 (역삼동)",
+    "Latitude": 37.50080096,
+    "Longitude": 127.0351577
+  },
+  {
+    "Branch": "역삼이마트",
+    "Location": "서울특별시 강남구 역삼로 310 (역삼동)",
+    "Latitude": 37.499367,
+    "Longitude": 127.048425
+  },
+  {
+    "Branch": "역삼초교사거리",
+    "Location": "서울특별시 강남구 역삼로 123 (역삼동)",
+    "Latitude": 37.4941059,
+    "Longitude": 127.0329973
+  },
+  {
+    "Branch": "역삼포스코",
+    "Location": "서울특별시 강남구 테헤란로 134, P&S TOWER (역삼동)",
+    "Latitude": 37.499721,
+    "Longitude": 127.033582
+  },
+  {
+    "Branch": "연대",
+    "Location": "서울특별시 서대문구 연세로 35 (창천동)",
+    "Latitude": 37.558706,
+    "Longitude": 126.936727
+  },
+  {
+    "Branch": "연대동문",
+    "Location": "서울특별시 서대문구 성산로 565 (대신동)",
+    "Latitude": 37.566385,
+    "Longitude": 126.946273
+  },
+  {
+    "Branch": "연산시티타워",
+    "Location": "부산광역시 연제구 중앙대로 1125 (연산동)",
+    "Latitude": 35.188225,
+    "Longitude": 129.080949
+  },
+  {
+    "Branch": "연산중앙로",
+    "Location": "부산광역시 연제구 중앙대로 1091 (연산동)",
+    "Latitude": 35.185469,
+    "Longitude": 129.08067
+  },
+  {
+    "Branch": "연산트레이더스",
+    "Location": "부산광역시 연제구 좌수영로 241 연산동",
+    "Latitude": 35.1854506,
+    "Longitude": 129.1121467
+  },
+  {
+    "Branch": "연세백양로",
+    "Location": "서울특별시 서대문구 연세로 50 (신촌동) 연세대학교",
+    "Latitude": 37.562644,
+    "Longitude": 126.937529
+  },
+  {
+    "Branch": "연세세브란스",
+    "Location": "서울특별시 중구 통일로 10 (남대문로5가)",
+    "Latitude": 37.557207,
+    "Longitude": 126.97354
+  },
+  {
+    "Branch": "연세종합관",
+    "Location": "서울특별시 서대문구 연세로 50, 연세세브란스 종합관 (신촌동)",
+    "Latitude": 37.56177145,
+    "Longitude": 126.9414708
+  },
+  {
+    "Branch": "연수이마트",
+    "Location": "인천광역시 연수구 경원대로 184 (동춘동)",
+    "Latitude": 37.404386,
+    "Longitude": 126.681528
+  },
+  {
+    "Branch": "연신내",
+    "Location": "서울특별시 은평구 통일로 867 (갈현동)",
+    "Latitude": 37.620417,
+    "Longitude": 126.919913
+  },
+  {
+    "Branch": "연신내역사거리",
+    "Location": "서울특별시 은평구 통일로 842 (불광동)",
+    "Latitude": 37.61862,
+    "Longitude": 126.922062
+  },
+  {
+    "Branch": "연합뉴스",
+    "Location": "서울특별시 종로구 율곡로2길 25 (수송동)",
+    "Latitude": 37.5743289,
+    "Longitude": 126.980459000001
+  },
+  {
+    "Branch": "연희동",
+    "Location": "서울특별시 서대문구 연희로 97 (연희동)",
+    "Latitude": 37.566702,
+    "Longitude": 126.930475
+  },
+  {
+    "Branch": "연희DT",
+    "Location": "서울특별시 서대문구 연희로 144 (연희동)",
+    "Latitude": 37.5702143,
+    "Longitude": 126.9339777
+  },
+  {
+    "Branch": "염창역",
+    "Location": "서울특별시 강서구 공항대로 627 (염창동)",
+    "Latitude": 37.547359,
+    "Longitude": 126.874436
+  },
+  {
+    "Branch": "영남대",
+    "Location": "경상북도 경산시 청운로 16, 1~3층 (대동)",
+    "Latitude": 35.836968,
+    "Longitude": 128.753065
+  },
+  {
+    "Branch": "영남대아트센터",
+    "Location": "경상북도 경산시 대학로 280 (대동) 영남대학교",
+    "Latitude": 35.8321641,
+    "Longitude": 128.7518856
+  },
+  {
+    "Branch": "영남대중앙도서관",
+    "Location": "경상북도 경산시 대학로 280 (조영동) 영남대학교",
+    "Latitude": 35.8331655,
+    "Longitude": 128.7580143
+  },
+  {
+    "Branch": "영도대교",
+    "Location": "부산광역시 영도구 태종로 39 (대교동1가)",
+    "Latitude": 35.094678,
+    "Longitude": 129.037184
+  },
+  {
+    "Branch": "영동2교",
+    "Location": "서울특별시 서초구 논현로 139, 대흥빌딩 (양재동)",
+    "Latitude": 37.48203954,
+    "Longitude": 127.0425748
+  },
+  {
+    "Branch": "영등포구청역",
+    "Location": "서울특별시 영등포구 국회대로 558",
+    "Latitude": 37.52789,
+    "Longitude": 126.89608
+  },
+  {
+    "Branch": "영등포본동",
+    "Location": "서울특별시 영등포구 영등포로 254 (영등포동3가)",
+    "Latitude": 37.518713,
+    "Longitude": 126.909559
+  },
+  {
+    "Branch": "영등포시장교차로",
+    "Location": "서울특별시 영등포구 영중로 45 (영등포동6가)",
+    "Latitude": 37.5204239,
+    "Longitude": 126.904446
+  },
+  {
+    "Branch": "영등포신길",
+    "Location": "서울특별시 영등포구 신길로 137 (신길동) 1,2층",
+    "Latitude": 37.504566,
+    "Longitude": 126.910073
+  },
+  {
+    "Branch": "영등포역",
+    "Location": "서울특별시 영등포구 경인로 870 (영등포동1가)",
+    "Latitude": 37.5169614,
+    "Longitude": 126.909139
+  },
+  {
+    "Branch": "영등포KT",
+    "Location": "서울특별시 영등포구 영중로 119 (영등포동8가)",
+    "Latitude": 37.526419,
+    "Longitude": 126.905314
+  },
+  {
+    "Branch": "영종도운서역",
+    "Location": "인천광역시 중구 신도시남로142번길 17 (운서동)",
+    "Latitude": 37.493991,
+    "Longitude": 126.492667
+  },
+  {
+    "Branch": "영종하늘도시",
+    "Location": "인천광역시 중구 하늘중앙로195번길 15 (중산동)",
+    "Latitude": 37.48942,
+    "Longitude": 126.56146
+  },
+  {
+    "Branch": "오류동역",
+    "Location": "서울특별시 구로구 경인로 216 (오류동)",
+    "Latitude": 37.4962155,
+    "Longitude": 126.8448614
+  },
+  {
+    "Branch": "오목교역",
+    "Location": "서울특별시 양천구 오목로 354 (목동)",
+    "Latitude": 37.5235882,
+    "Longitude": 126.8765212
+  },
+  {
+    "Branch": "오션월드",
+    "Location": "강원도 홍천군 서면 한치골길 262",
+    "Latitude": 37.648815,
+    "Longitude": 127.686053
+  },
+  {
+    "Branch": "오창과학단지",
+    "Location": "충청북도 청주시 청원구 오창읍 과학산업2로 385",
+    "Latitude": 36.716466,
+    "Longitude": 127.423272
+  },
+  {
+    "Branch": "오창호수공원",
+    "Location": "충청북도 청주시 청원구 오창읍 중심상업1로 20 101,102,103,104호",
+    "Latitude": 36.712751,
+    "Longitude": 127.427283
+  },
+  {
+    "Branch": "옥수",
+    "Location": "서울특별시 성동구 독서당로 202 (옥수동)",
+    "Latitude": 37.5430298,
+    "Longitude": 127.0133661
+  },
+  {
+    "Branch": "온천장역DT",
+    "Location": "부산광역시 금정구 식물원로 13 (장전동)",
+    "Latitude": 35.224006,
+    "Longitude": 129.08656
+  },
+  {
+    "Branch": "올림픽공원남문",
+    "Location": "서울특별시 송파구 위례성대로 102 (방이동)",
+    "Latitude": 37.5133,
+    "Longitude": 127.123113
+  },
+  {
+    "Branch": "올림픽공원북2문",
+    "Location": "서울특별시 강동구 강동대로 199 (성내동)",
+    "Latitude": 37.5241832,
+    "Longitude": 127.1286775
+  },
+  {
+    "Branch": "올림픽대교북단",
+    "Location": "서울특별시 광진구 광나루로 608 (구의동)",
+    "Latitude": 37.541129,
+    "Longitude": 127.09524
+  },
+  {
+    "Branch": "올림픽아파트",
+    "Location": "서울특별시 송파구 양재대로 1220 (방이동)",
+    "Latitude": 37.515315,
+    "Longitude": 127.133237
+  },
+  {
+    "Branch": "올림픽평화의문",
+    "Location": "서울특별시 송파구 위례성대로 38 (방이동) 해태그린피아빌라트",
+    "Latitude": 37.5156426,
+    "Longitude": 127.1164819
+  },
+  {
+    "Branch": "올림픽훼미리",
+    "Location": "서울특별시 송파구 중대로 68 (문정동)",
+    "Latitude": 37.491626,
+    "Longitude": 127.116308
+  },
+  {
+    "Branch": "왕십리역",
+    "Location": "서울특별시 성동구 왕십리로 326 (도선동)",
+    "Latitude": 37.5627541,
+    "Longitude": 127.0339072
+  },
+  {
+    "Branch": "외대",
+    "Location": "서울특별시 동대문구 휘경로 12-1 (이문동)",
+    "Latitude": 37.59575188,
+    "Longitude": 127.0614002
+  },
+  {
+    "Branch": "외대정문",
+    "Location": "서울특별시 동대문구 이문로 93 (이문동)",
+    "Latitude": 37.5953464,
+    "Longitude": 127.0590302
+  },
+  {
+    "Branch": "용산리첸시아",
+    "Location": "서울특별시 용산구 백범로 341 (원효로1가, 리첸시아 용산)",
+    "Latitude": 37.538571,
+    "Longitude": 126.967409
+  },
+  {
+    "Branch": "용산아이파크몰",
+    "Location": "서울특별시 용산구 한강대로23길 55",
+    "Latitude": 37.5288539,
+    "Longitude": 126.9640447
+  },
+  {
+    "Branch": "용산역써밋R",
+    "Location": "서울특별시 용산구 한강대로 69 (한강로2가, 용산푸르지오써밋)",
+    "Latitude": 37.527586,
+    "Longitude": 126.965401
+  },
+  {
+    "Branch": "용산전자랜드",
+    "Location": "서울특별시 용산구 청파로 74 (한강로3가)",
+    "Latitude": 37.5328610598703,
+    "Longitude": 126.961000911325
+  },
+  {
+    "Branch": "용산파크타워",
+    "Location": "서울특별시 용산구 서빙고로 67 (용산동5가, 파크타워)",
+    "Latitude": 37.523818,
+    "Longitude": 126.970389
+  },
+  {
+    "Branch": "용산해링턴스퀘어",
+    "Location": "서울특별시 용산구 서빙고로 17 (한강로3가)",
+    "Latitude": 37.5258562,
+    "Longitude": 126.9676442
+  },
+  {
+    "Branch": "용호동W스퀘어",
+    "Location": "부산광역시 남구 분포로 145 (용호동) 더블유스퀘어동 1019호,1020호,1021호,2011호 2012호",
+    "Latitude": 35.134025,
+    "Longitude": 129.113248
+  },
+  {
+    "Branch": "우장산역",
+    "Location": "서울특별시 강서구 강서로 267 (내발산동)",
+    "Latitude": 37.549501,
+    "Longitude": 126.835984
+  },
+  {
+    "Branch": "울산간절곶",
+    "Location": "울산광역시 울주군 서생면 대송리 25-18",
+    "Latitude": 35.3590048,
+    "Longitude": 129.3591978
+  },
+  {
+    "Branch": "울산국가정원",
+    "Location": "울산광역시 중구 태화강국가정원길 205 (태화동)",
+    "Latitude": 35.5501032,
+    "Longitude": 129.2973993
+  },
+  {
+    "Branch": "울산남구청DT",
+    "Location": "울산광역시 남구 번영로 215 (신정동)",
+    "Latitude": 35.5441545,
+    "Longitude": 129.3245996
+  },
+  {
+    "Branch": "울산대",
+    "Location": "울산광역시 남구 대학로84번길 5-3 (무거동)",
+    "Latitude": 35.542467,
+    "Longitude": 129.260197
+  },
+  {
+    "Branch": "울산대공원",
+    "Location": "울산광역시 남구 대공원입구로 4 (옥동)",
+    "Latitude": 35.53233,
+    "Longitude": 129.293827
+  },
+  {
+    "Branch": "울산대학교병원",
+    "Location": "울산광역시 동구 방어진순환도로 879 (서부동)",
+    "Latitude": 35.521006,
+    "Longitude": 129.428655
+  },
+  {
+    "Branch": "울산도산사거리DT",
+    "Location": "울산광역시 남구 대암로129번길 9-6 (야음동)",
+    "Latitude": 35.531028,
+    "Longitude": 129.32974
+  },
+  {
+    "Branch": "울산디자인거리",
+    "Location": "울산광역시 남구 삼산중로74번길 30-1, 1~2층 (삼산동)",
+    "Latitude": 35.540501,
+    "Longitude": 129.33876
+  },
+  {
+    "Branch": "울산번영로",
+    "Location": "울산광역시 남구 삼산로 182 (달동)",
+    "Latitude": 35.537113,
+    "Longitude": 129.327221
+  },
+  {
+    "Branch": "울산북구청DT",
+    "Location": "울산광역시 북구 산업로 1011 (연암동)",
+    "Latitude": 35.583521,
+    "Longitude": 129.358882
+  },
+  {
+    "Branch": "울산삼산대로",
+    "Location": "울산광역시 남구 삼산로 257, 1층 (달동)",
+    "Latitude": 35.539174,
+    "Longitude": 129.335097
+  },
+  {
+    "Branch": "울산삼산로",
+    "Location": "울산광역시 남구 삼산로 278 번길 8 (삼산동)",
+    "Latitude": 35.5384838,
+    "Longitude": 129.3373025
+  },
+  {
+    "Branch": "울산삼산타워",
+    "Location": "울산광역시 남구 삼산로 273 (삼산동) 삼산타워",
+    "Latitude": 35.539484,
+    "Longitude": 129.336761
+  },
+  {
+    "Branch": "울산성남삼거리",
+    "Location": "울산광역시 중구 젊음의2거리 33 (성남동)",
+    "Latitude": 35.553215,
+    "Longitude": 129.320479
+  },
+  {
+    "Branch": "울산성안",
+    "Location": "울산광역시 중구 성안12길 45 (성안동)",
+    "Latitude": 35.577829,
+    "Longitude": 129.324413
+  },
+  {
+    "Branch": "울산센트럴",
+    "Location": "울산광역시 남구 삼산로 231 (달동)",
+    "Latitude": 35.538827,
+    "Longitude": 129.332793
+  },
+  {
+    "Branch": "울산시청사거리DT",
+    "Location": "울산광역시 남구 중앙로 180 (달동)",
+    "Latitude": 35.537195,
+    "Longitude": 129.313617
+  },
+  {
+    "Branch": "울산신복",
+    "Location": "울산광역시 남구 대학로 152 (무거동)",
+    "Latitude": 35.547956,
+    "Longitude": 129.26287
+  },
+  {
+    "Branch": "울산신정DT",
+    "Location": "울산광역시 남구 문수로 435 (신정동)",
+    "Latitude": 35.5336116,
+    "Longitude": 129.3011209
+  },
+  {
+    "Branch": "울산옥동",
+    "Location": "울산광역시 남구 문수로 329 (옥동)",
+    "Latitude": 35.5355131,
+    "Longitude": 129.2896507
+  },
+  {
+    "Branch": "울산정자비치DT",
+    "Location": "울산광역시 북구 동해안로 1601 (산하동)",
+    "Latitude": 35.628685,
+    "Longitude": 129.440824
+  },
+  {
+    "Branch": "울산중리사거리DT",
+    "Location": "울산광역시 남구 돋질로 310 (삼산동)",
+    "Latitude": 35.543928,
+    "Longitude": 129.338651
+  },
+  {
+    "Branch": "울산진장",
+    "Location": "울산광역시 북구 진장17길 10 (진장동)",
+    "Latitude": 35.562433,
+    "Longitude": 129.356469
+  },
+  {
+    "Branch": "울산테라스파크",
+    "Location": "울산광역시 동구 방어진순환도로 652 (일산동)",
+    "Latitude": 35.499635,
+    "Longitude": 129.429599
+  },
+  {
+    "Branch": "울산호계DT",
+    "Location": "울산광역시 북구 산업로 1464 (신천동)",
+    "Latitude": 35.6379527,
+    "Longitude": 129.3452991
+  },
+  {
+    "Branch": "울산화봉",
+    "Location": "울산광역시 북구 화봉로 75 (화봉동)",
+    "Latitude": 35.588615,
+    "Longitude": 129.367334
+  },
+  {
+    "Branch": "울산MBC DT",
+    "Location": "울산광역시 중구 번영로 434 (복산동)",
+    "Latitude": 35.561657,
+    "Longitude": 129.332358
+  },
+  {
+    "Branch": "원주단구DT",
+    "Location": "강원도 원주시 서원대로 443 (단구동)",
+    "Latitude": 37.328515,
+    "Longitude": 127.953443
+  },
+  {
+    "Branch": "원주명륜DT",
+    "Location": "강원도 원주시 남원로 588 (명륜동)",
+    "Latitude": 37.335971,
+    "Longitude": 127.949754
+  },
+  {
+    "Branch": "원주무실",
+    "Location": "강원도 원주시 능라동길 73 (무실동)",
+    "Latitude": 37.332972,
+    "Longitude": 127.930448
+  },
+  {
+    "Branch": "원주반곡DT",
+    "Location": "강원도 원주시 동부순환로 37 (반곡동)",
+    "Latitude": 37.319904,
+    "Longitude": 127.97157
+  },
+  {
+    "Branch": "원주터미널",
+    "Location": "강원도 원주시 서원대로 178 (단계동)",
+    "Latitude": 37.343887,
+    "Longitude": 127.9311
+  },
+  {
+    "Branch": "원주혁신도시",
+    "Location": "강원도 원주시 혁신로 61 (반곡동)",
+    "Latitude": 37.323157,
+    "Longitude": 127.980611
+  },
+  {
+    "Branch": "월계역",
+    "Location": "서울특별시 노원구 초안산로2라길26 월계동(104,105,106호)",
+    "Latitude": 37.6295,
+    "Longitude": 127.0574
+  },
+  {
+    "Branch": "월계이마트",
+    "Location": "서울특별시 노원구 마들로3길 15 (월계동)",
+    "Latitude": 37.627155,
+    "Longitude": 127.062094
+  },
+  {
+    "Branch": "월계트레이더스",
+    "Location": "서울특별시 노원구 마들로3길 15 (월계동)",
+    "Latitude": 37.6277053,
+    "Longitude": 127.0614978
+  },
+  {
+    "Branch": "월곡역",
+    "Location": "서울특별시 성북구 화랑로 76, 101-1호 (하월곡동)",
+    "Latitude": 37.601718,
+    "Longitude": 127.040446
+  },
+  {
+    "Branch": "월드마크센텀",
+    "Location": "부산광역시 해운대구 센텀동로 25, 1층 (우동)",
+    "Latitude": 35.17137,
+    "Longitude": 129.131112
+  },
+  {
+    "Branch": "월평트레이더스",
+    "Location": "대전광역시 서구 한밭대로 580 (월평동)",
+    "Latitude": 36.3576398,
+    "Longitude": 127.3629947
+  },
+  {
+    "Branch": "은평구청입구",
+    "Location": "서울특별시 은평구 은평로 170 (응암동)",
+    "Latitude": 37.601042,
+    "Longitude": 126.926789
+  },
+  {
+    "Branch": "은평이마트",
+    "Location": "서울특별시 은평구 은평로 111 (응암동)",
+    "Latitude": 37.60037923,
+    "Longitude": 126.9202735
+  },
+  {
+    "Branch": "은행동",
+    "Location": "대전광역시 중구 중앙로 164 (은행동)",
+    "Latitude": 36.32907873,
+    "Longitude": 127.4276569
+  },
+  {
+    "Branch": "은행사거리",
+    "Location": "서울특별시 노원구 중계로 217, 중흥빌딩 103,203호 (중계동)",
+    "Latitude": 37.65048737,
+    "Longitude": 127.0759861
+  },
+  {
+    "Branch": "을숙도강변DT",
+    "Location": "부산광역시 사하구 하신번영로 381-6 (하단동)",
+    "Latitude": 35.11526,
+    "Longitude": 128.959578
+  },
+  {
+    "Branch": "을지로2가",
+    "Location": "서울특별시 중구 삼일대로 358 (을지로2가)",
+    "Latitude": 37.566347,
+    "Longitude": 126.988066
+  },
+  {
+    "Branch": "을지로4가역",
+    "Location": "서울특별시 중구 을지로 170 (을지로4가)",
+    "Latitude": 37.566682,
+    "Longitude": 126.997285
+  },
+  {
+    "Branch": "을지로경기빌딩",
+    "Location": "서울특별시 중구 남대문로10길 9 (삼각동) 경기빌딩",
+    "Latitude": 37.567172,
+    "Longitude": 126.983156
+  },
+  {
+    "Branch": "을지로국제빌딩",
+    "Location": "서울특별시 중구 남대문로 109 (다동)",
+    "Latitude": 37.566952,
+    "Longitude": 126.982219
+  },
+  {
+    "Branch": "을지로내외빌딩R",
+    "Location": "서울특별시 중구 을지로 51 (을지로2가)",
+    "Latitude": 37.566479,
+    "Longitude": 126.983663
+  },
+  {
+    "Branch": "을지로삼화타워",
+    "Location": "서울특별시 중구 을지로5길 16 (을지로2가) 1층",
+    "Latitude": 37.566902,
+    "Longitude": 126.984707
+  },
+  {
+    "Branch": "을지로한국빌딩",
+    "Location": "서울특별시 중구 을지로 50, 1층 (을지로 2가)",
+    "Latitude": 37.565722,
+    "Longitude": 126.98329
+  },
+  {
+    "Branch": "을지병원사거리",
+    "Location": "서울특별시 강남구 논현로 752 (논현동,구산빌딩)",
+    "Latitude": 37.5191632,
+    "Longitude": 127.0286446
+  },
+  {
+    "Branch": "이대ECC",
+    "Location": "서울특별시 서대문구 이화여대길 52 (대현동) 이화여자대학교 B415호",
+    "Latitude": 37.561631,
+    "Longitude": 126.94735
+  },
+  {
+    "Branch": "이대R",
+    "Location": "서울특별시 서대문구 이화여대길 34 (대현동)",
+    "Latitude": 37.55848315,
+    "Longitude": 126.9459643
+  },
+  {
+    "Branch": "이마빌딩",
+    "Location": "서울특별시 종로구 종로1길 42 (수송동)",
+    "Latitude": 37.5738637,
+    "Longitude": 126.9789715
+  },
+  {
+    "Branch": "이수역",
+    "Location": "서울특별시 서초구 동작대로 112 (방배동)",
+    "Latitude": 37.4864664,
+    "Longitude": 126.9827403
+  },
+  {
+    "Branch": "이수역사거리",
+    "Location": "서울특별시 서초구 서초대로 3-4 (방배동, 방배디오슈페리움1)",
+    "Latitude": 37.48585,
+    "Longitude": 126.983027
+  },
+  {
+    "Branch": "이수자이",
+    "Location": "서울특별시 동작구 사당로 300 (사당동 이수자이)",
+    "Latitude": 37.484414,
+    "Longitude": 126.980047
+  },
+  {
+    "Branch": "이촌",
+    "Location": "서울특별시 용산구 이촌로 276 (이촌동)",
+    "Latitude": 37.518605,
+    "Longitude": 126.977271
+  },
+  {
+    "Branch": "이태원역",
+    "Location": "서울특별시 용산구 이태원로 188 (이태원동)",
+    "Latitude": 37.534273,
+    "Longitude": 126.994789
+  },
+  {
+    "Branch": "인사",
+    "Location": "서울특별시 종로구 인사동길 14 (인사동)",
+    "Latitude": 37.5721293,
+    "Longitude": 126.9870349
+  },
+  {
+    "Branch": "인천간석DT",
+    "Location": "인천광역시 남동구 경원대로 974 (간석동)",
+    "Latitude": 37.469719,
+    "Longitude": 126.690745
+  },
+  {
+    "Branch": "인천갈산DT",
+    "Location": "인천광역시 부평구 장제로 371 (갈산동)",
+    "Latitude": 37.5189106,
+    "Longitude": 126.7321159
+  },
+  {
+    "Branch": "인천강화DT",
+    "Location": "인천광역시 강화군 강화읍 강화대로 343",
+    "Latitude": 37.7426,
+    "Longitude": 126.4916
+  },
+  {
+    "Branch": "인천계산역DT",
+    "Location": "인천광역시 계양구 경명대로 1105 (계산동)",
+    "Latitude": 37.543529,
+    "Longitude": 126.729828
+  },
+  {
+    "Branch": "인천계양",
+    "Location": "인천광역시 계양구 장제로 808 (계산동)",
+    "Latitude": 37.5398491,
+    "Longitude": 126.7350019
+  },
+  {
+    "Branch": "인천공촌DT",
+    "Location": "인천광역시 서구 경명대로694번길 2 (공촌동)",
+    "Latitude": 37.55164,
+    "Longitude": 126.68534
+  },
+  {
+    "Branch": "인천공항랜드",
+    "Location": "인천광역시 중구 공항로 272 (운서동) 인천공항",
+    "Latitude": 37.446784,
+    "Longitude": 126.452879
+  },
+  {
+    "Branch": "인천공항중앙",
+    "Location": "인천광역시 중구 공항로 272 (운서동) 인천국제공항여객터미널 FB-P5-73",
+    "Latitude": 37.449611,
+    "Longitude": 126.450031
+  },
+  {
+    "Branch": "인천공항T2에어",
+    "Location": "인천광역시 중구 공항로 272 (운서동) 제2여객터미널 3층 탑승지역 25-235",
+    "Latitude": 37.465769,
+    "Longitude": 126.433126
+  },
+  {
+    "Branch": "인천공항T2입국",
+    "Location": "인천광역시 중구 공항로 272 (운서동) 제2여객터미널 1층 환영홀지역 23-202",
+    "Latitude": 37.46783,
+    "Longitude": 126.4323
+  },
+  {
+    "Branch": "인천공항T2출국",
+    "Location": "인천광역시 중구 공항로 272 (운서동)",
+    "Latitude": 37.4691084,
+    "Longitude": 126.4346961
+  },
+  {
+    "Branch": "인천구월",
+    "Location": "인천광역시 남동구 예술로 138 (구월동) 101,102,111,201,209호 일부,210호 일부",
+    "Latitude": 37.4462001,
+    "Longitude": 126.7009972
+  },
+  {
+    "Branch": "인천구월아시아드",
+    "Location": "인천광역시 남동구 인하로 556 (구월동)",
+    "Latitude": 37.442715,
+    "Longitude": 126.708511
+  },
+  {
+    "Branch": "인천논현",
+    "Location": "인천광역시 남동구 논고개로 93, 111,112, 206, 207호 (논현동)",
+    "Latitude": 37.39952,
+    "Longitude": 126.72492
+  },
+  {
+    "Branch": "인천당하DT",
+    "Location": "인천광역시 서구 원당대로 668 (당하동)",
+    "Latitude": 37.593418,
+    "Longitude": 126.675556
+  },
+  {
+    "Branch": "인천도화DT",
+    "Location": "인천광역시 미추홀구 장고개로 28 (도화동)",
+    "Latitude": 37.47055,
+    "Longitude": 126.66703
+  },
+  {
+    "Branch": "인천동춘DT",
+    "Location": "인천광역시 연수구 앵고개로 171 (동춘동)",
+    "Latitude": 37.41243,
+    "Longitude": 126.664447
+  },
+  {
+    "Branch": "인천삼산",
+    "Location": "인천광역시 부평구 길주로 643 (삼산동)",
+    "Latitude": 37.507296,
+    "Longitude": 126.734181
+  },
+  {
+    "Branch": "인천서구청DT",
+    "Location": "인천광역시 서구 서곶로 277 (심곡동)",
+    "Latitude": 37.5424157,
+    "Longitude": 126.67636
+  },
+  {
+    "Branch": "인천서창",
+    "Location": "인천광역시 남동구 서창남로 51 (서창동) 101,102,103호",
+    "Latitude": 37.424128,
+    "Longitude": 126.749997
+  },
+  {
+    "Branch": "인천성모병원",
+    "Location": "인천광역시 부평구 동수로 56 (부평동)",
+    "Latitude": 37.4851159,
+    "Longitude": 126.7258465
+  },
+  {
+    "Branch": "인천송도",
+    "Location": "인천광역시 연수구 컨벤시아대로 55 (송도동, 송도이안)",
+    "Latitude": 37.397041,
+    "Longitude": 126.651825
+  },
+  {
+    "Branch": "인천송도DT",
+    "Location": "인천광역시 연수구 하모니로 136 (송도동)",
+    "Latitude": 37.384821,
+    "Longitude": 126.644284
+  },
+  {
+    "Branch": "인천스퀘어원",
+    "Location": "인천광역시 연수구 청능대로 210 (동춘동)",
+    "Latitude": 37.406269,
+    "Longitude": 126.683786
+  },
+  {
+    "Branch": "인천연수",
+    "Location": "인천광역시 연수구 용담로 115 (연수동) 105,106,203호",
+    "Latitude": 37.415072,
+    "Longitude": 126.677781
+  },
+  {
+    "Branch": "인천예술회관역",
+    "Location": "인천광역시 남동구 예술로 174 (구월동) 흥국생명",
+    "Latitude": 37.449472,
+    "Longitude": 126.701438
+  },
+  {
+    "Branch": "인천용일사거리DT",
+    "Location": "인천광역시 미추홀구 한나루로 525 (주안동)",
+    "Latitude": 37.4536849988819,
+    "Longitude": 126.668272868558
+  },
+  {
+    "Branch": "인천용현DT",
+    "Location": "인천광역시 미추홀구 아암대로 107 (용현동)",
+    "Latitude": 37.4523373,
+    "Longitude": 126.6325809
+  },
+  {
+    "Branch": "인천작전",
+    "Location": "인천광역시 계양구 계양대로 37, 1층 (작전동)",
+    "Latitude": 37.527064,
+    "Longitude": 126.721981
+  },
+  {
+    "Branch": "인천주안DT",
+    "Location": "인천광역시 미추홀구 인주대로 443 (주안동)",
+    "Latitude": 37.4513564,
+    "Longitude": 126.6858992
+  },
+  {
+    "Branch": "인천청라",
+    "Location": "인천광역시 서구 중봉대로 586번길 19",
+    "Latitude": 37.531852,
+    "Longitude": 126.652141
+  },
+  {
+    "Branch": "인천청라센트럴",
+    "Location": "인천광역시 서구 청라커낼로 300 (청라동, 청라센트럴에일린의뜰)",
+    "Latitude": 37.5343559,
+    "Longitude": 126.6492859
+  },
+  {
+    "Branch": "인천청라타워돔",
+    "Location": "인천광역시 서구 중봉대로 612번길 10-17",
+    "Latitude": 37.533884,
+    "Longitude": 126.652098
+  },
+  {
+    "Branch": "인천청라한신",
+    "Location": "인천광역시 서구 청라커낼로260번길 27 (청라동)",
+    "Latitude": 37.532212,
+    "Longitude": 126.647401
+  },
+  {
+    "Branch": "인천청라DT",
+    "Location": "인천광역시 서구 국제대로 237 (청라동)",
+    "Latitude": 37.541371,
+    "Longitude": 126.647081
+  },
+  {
+    "Branch": "인천터미널사거리",
+    "Location": "인천광역시 남동구 예술로 126 (구월동)",
+    "Latitude": 37.44526,
+    "Longitude": 126.700865
+  },
+  {
+    "Branch": "인천학익DT",
+    "Location": "인천광역시 미추홀구 매소홀로 368 (학익동)",
+    "Latitude": 37.4403818,
+    "Longitude": 126.6627574
+  },
+  {
+    "Branch": "인하대",
+    "Location": "인천광역시 미추홀구 인하로 59 (용현동)",
+    "Latitude": 37.451827,
+    "Longitude": 126.654969
+  },
+  {
+    "Branch": "인하대역",
+    "Location": "인천광역시 미추홀구 독배로 309 (용현동)",
+    "Latitude": 37.447795,
+    "Longitude": 126.649875
+  },
+  {
+    "Branch": "자갈치역",
+    "Location": "부산광역시 중구 구덕로 54-1 (남포동5가)",
+    "Latitude": 35.098378,
+    "Longitude": 129.029716
+  },
+  {
+    "Branch": "자양",
+    "Location": "서울특별시 광진구 능동로 50 (자양동)",
+    "Latitude": 37.5354769,
+    "Longitude": 127.0691462
+  },
+  {
+    "Branch": "자양사거리",
+    "Location": "서울특별시 광진구 아차산로 355",
+    "Latitude": 37.5371158,
+    "Longitude": 127.0825821
+  },
+  {
+    "Branch": "자양이마트",
+    "Location": "서울특별시 광진구 아차산로 272 (자양동) 지하1층",
+    "Latitude": 37.537817,
+    "Longitude": 127.072597
+  },
+  {
+    "Branch": "잠실대교남단R",
+    "Location": "서울특별시 송파구 송파대로 570 타워 730 1층",
+    "Latitude": 37.515511,
+    "Longitude": 127.099006
+  },
+  {
+    "Branch": "잠실새내역",
+    "Location": "서울특별시 송파구 올림픽로 96 (잠실동)",
+    "Latitude": 37.511679,
+    "Longitude": 127.081062
+  },
+  {
+    "Branch": "잠실시그마타워",
+    "Location": "서울특별시 송파구 올림픽로 289 (신천동)",
+    "Latitude": 37.514567,
+    "Longitude": 127.102493
+  },
+  {
+    "Branch": "잠실역",
+    "Location": "서울특별시 송파구 송파대로 562 (신천동, 웰리스타워,삼성웰리스아파트) 1층,2층",
+    "Latitude": 37.515272,
+    "Longitude": 127.099231
+  },
+  {
+    "Branch": "잠실푸르지오월드",
+    "Location": "서울특별시 송파구 올림픽로35가길 9, 잠실푸르지오월드마크 1층 (신천동)",
+    "Latitude": 37.517649,
+    "Longitude": 127.103426
+  },
+  {
+    "Branch": "장산역",
+    "Location": "부산광역시 해운대구 해운대로 802 (좌동)",
+    "Latitude": 35.16914054,
+    "Longitude": 129.1766584
+  },
+  {
+    "Branch": "장위뉴타운",
+    "Location": "서울특별시 성북구 장월로38길 4 (장위동)",
+    "Latitude": 37.6179568965998,
+    "Longitude": 127.051535709778
+  },
+  {
+    "Branch": "장유율하",
+    "Location": "경상남도 김해시 율하6로 67 1층 105호 (장유동)",
+    "Latitude": 35.1715803179328,
+    "Longitude": 128.822641030296
+  },
+  {
+    "Branch": "장한평역",
+    "Location": "서울특별시 동대문구 장한로 10 (장안동)",
+    "Latitude": 37.562337,
+    "Longitude": 127.065511
+  },
+  {
+    "Branch": "적선",
+    "Location": "서울특별시 종로구 새문안로5길 55, 노스게이트빌딩 1층 (적선동)",
+    "Latitude": 37.57520431,
+    "Longitude": 126.9739361
+  },
+  {
+    "Branch": "전남광양DT",
+    "Location": "전라남도 광양시 중마중앙로 143",
+    "Latitude": 34.9431962,
+    "Longitude": 127.69779243
+  },
+  {
+    "Branch": "전남나주",
+    "Location": "전라남도 나주시 상야1길 21 (빛가람동)",
+    "Latitude": 35.022514,
+    "Longitude": 126.788058
+  },
+  {
+    "Branch": "전남대",
+    "Location": "광주광역시 북구 우치로 110, 1,2,3층 (용봉동)",
+    "Latitude": 35.17719867,
+    "Longitude": 126.9124787
+  },
+  {
+    "Branch": "전남도청DT",
+    "Location": "전라남도 무안군 삼향읍 남악3로 54",
+    "Latitude": 34.810407,
+    "Longitude": 126.460422
+  },
+  {
+    "Branch": "전남화순DT",
+    "Location": "전라남도 화순군 화순읍 서양로 478",
+    "Latitude": 35.0685265672376,
+    "Longitude": 126.988766609482
+  },
+  {
+    "Branch": "정동",
+    "Location": "서울특별시 종로구 새문안로 42 (신문로2가)",
+    "Latitude": 37.568578,
+    "Longitude": 126.970067
+  },
+  {
+    "Branch": "정부서울청사R",
+    "Location": "서울특별시 종로구 새문안로5가길 28 (적선동)",
+    "Latitude": 37.574411,
+    "Longitude": 126.973571
+  },
+  {
+    "Branch": "제니스스퀘어",
+    "Location": "부산광역시 해운대구 마린시티2로 33, 제니스스퀘어 (우동)",
+    "Latitude": 35.156657,
+    "Longitude": 129.144091
+  },
+  {
+    "Branch": "제물포역DT",
+    "Location": "인천광역시 미추홀구 경인로 103 (숭의동)",
+    "Latitude": 37.466522,
+    "Longitude": 126.654075
+  },
+  {
+    "Branch": "제주노형",
+    "Location": "제주특별자치도 제주시 도령로 27 (노형동)",
+    "Latitude": 33.4878111,
+    "Longitude": 126.4818612
+  },
+  {
+    "Branch": "제주노형공원",
+    "Location": "제주특별자치도 제주시 연북로 12 (노형동)",
+    "Latitude": 33.481794,
+    "Longitude": 126.482523
+  },
+  {
+    "Branch": "제주도남DT",
+    "Location": "제주특별자치도 제주시 연북로 394 (도남동)",
+    "Latitude": 33.480565,
+    "Longitude": 126.523646
+  },
+  {
+    "Branch": "제주삼화DT",
+    "Location": "제주특별자치도 제주시 연삼로 884 (도련일동)",
+    "Latitude": 33.5117687,
+    "Longitude": 126.5804734
+  },
+  {
+    "Branch": "제주서해안로DT",
+    "Location": "제주특별자치도 제주시 서해안로 624 (용담삼동)",
+    "Latitude": 33.5167857,
+    "Longitude": 126.5035553
+  },
+  {
+    "Branch": "제주성산DT",
+    "Location": "제주특별자치도 서귀포시 성산읍 일출로 80",
+    "Latitude": 33.44998,
+    "Longitude": 126.920605
+  },
+  {
+    "Branch": "제주송악산",
+    "Location": "제주특별자치도 서귀포시 대정읍 형제해안로 322",
+    "Latitude": 33.206799,
+    "Longitude": 126.290035
+  },
+  {
+    "Branch": "제주시청",
+    "Location": "제주특별자치도 제주시 중앙로 215 (이도이동)",
+    "Latitude": 33.500516,
+    "Longitude": 126.529711
+  },
+  {
+    "Branch": "제주신화월드R",
+    "Location": "제주특별자치도 서귀포시 안덕면 신화역사로304번길 38 B1-29",
+    "Latitude": 33.306608,
+    "Longitude": 126.316714
+  },
+  {
+    "Branch": "제주애월DT",
+    "Location": "제주특별자치도 제주시 애월읍 애월해안로 376",
+    "Latitude": 33.47278,
+    "Longitude": 126.348739
+  },
+  {
+    "Branch": "제주에듀시티",
+    "Location": "제주특별자치도 서귀포시 대정읍 에듀시티로 36",
+    "Latitude": 33.291788,
+    "Longitude": 126.284407
+  },
+  {
+    "Branch": "제주외도DT",
+    "Location": "제주특별자치도 제주시 일주서로 7300 (외도일동)",
+    "Latitude": 33.492554,
+    "Longitude": 126.427169
+  },
+  {
+    "Branch": "제주용담DT",
+    "Location": "제주특별자치도 제주시 서해안로 380 (용담삼동) 화이트하우스",
+    "Latitude": 33.512345,
+    "Longitude": 126.484564
+  },
+  {
+    "Branch": "제주일도DT",
+    "Location": "제주특별자치도 제주시 동광로 130 (일도이동)",
+    "Latitude": 33.5073284,
+    "Longitude": 126.540898
+  },
+  {
+    "Branch": "제주중문",
+    "Location": "제주특별자치도 서귀포시 중문관광로110번길 32 (색달동)",
+    "Latitude": 33.251128,
+    "Longitude": 126.412752
+  },
+  {
+    "Branch": "제주중문DT",
+    "Location": "제주특별자치도 서귀포시 천제연로 95(색달동)",
+    "Latitude": 33.2549983,
+    "Longitude": 126.4159059
+  },
+  {
+    "Branch": "제주칠성",
+    "Location": "제주특별자치도 제주시 관덕로 55 (일도일동)",
+    "Latitude": 33.513349,
+    "Longitude": 126.5252435
+  },
+  {
+    "Branch": "제주함덕",
+    "Location": "제주특별자치도 제주시 조천읍 조함해안로 522",
+    "Latitude": 33.542511,
+    "Longitude": 126.668567
+  },
+  {
+    "Branch": "제주협재",
+    "Location": "제주특별자치도 제주시 한림읍 한림로 337",
+    "Latitude": 33.393839,
+    "Longitude": 126.24049
+  },
+  {
+    "Branch": "제천DT",
+    "Location": "충청북도 제천시 의림대로 181 (중앙로2가)",
+    "Latitude": 37.143691,
+    "Longitude": 128.213266
+  },
+  {
+    "Branch": "조선대",
+    "Location": "광주광역시 동구 지산로 3 (서석동)",
+    "Latitude": 35.144608,
+    "Longitude": 126.930183
+  },
+  {
+    "Branch": "종각",
+    "Location": "서울특별시 종로구 종로 64 (종로2가)",
+    "Latitude": 37.5699183,
+    "Longitude": 126.9845281
+  },
+  {
+    "Branch": "종로3가",
+    "Location": "서울특별시 종로구 종로 113-1, 1-4층 (종로3가)",
+    "Latitude": 37.5705527,
+    "Longitude": 126.9902055
+  },
+  {
+    "Branch": "종로관수",
+    "Location": "서울특별시 종로구 삼일대로20길 13 (관수동)",
+    "Latitude": 37.569385,
+    "Longitude": 126.988665
+  },
+  {
+    "Branch": "종로관철",
+    "Location": "서울특별시 종로구 종로12길 21, 2층 (관철동)",
+    "Latitude": 37.569058,
+    "Longitude": 126.986013
+  },
+  {
+    "Branch": "종로구청",
+    "Location": "서울특별시 종로구 삼봉로 71 (수송동)",
+    "Latitude": 37.572662,
+    "Longitude": 126.981138
+  },
+  {
+    "Branch": "종로수송",
+    "Location": "서울특별시 종로구 종로5길 30 (청진동) 1~3층",
+    "Latitude": 37.5714931,
+    "Longitude": 126.9807831
+  },
+  {
+    "Branch": "종로평창동",
+    "Location": "서울특별시 종로구 평창12길 3 (평창동)",
+    "Latitude": 37.606149,
+    "Longitude": 126.967213
+  },
+  {
+    "Branch": "종로플레이스",
+    "Location": "서울특별시 종로구 창경궁로 120 (인의동)",
+    "Latitude": 37.57319,
+    "Longitude": 126.998309
+  },
+  {
+    "Branch": "종암",
+    "Location": "서울특별시 성북구 종암로 122 (종암동)",
+    "Latitude": 37.601095,
+    "Longitude": 127.033847
+  },
+  {
+    "Branch": "종암DT",
+    "Location": "서울특별시 성북구 종암로 17 (종암동)",
+    "Latitude": 37.5919525,
+    "Longitude": 127.0360401
+  },
+  {
+    "Branch": "주안역",
+    "Location": "인천광역시 미추홀구 주안로 100 (주안동) 1층,2층",
+    "Latitude": 37.463837,
+    "Longitude": 126.68074
+  },
+  {
+    "Branch": "주얼리시티",
+    "Location": "서울특별시 종로구 종로 183 (인의동) 효성주얼리시티",
+    "Latitude": 37.57154914,
+    "Longitude": 126.998705
+  },
+  {
+    "Branch": "중계역",
+    "Location": "서울특별시 노원구 동일로 1339, 대한빌딩 (상계동)",
+    "Latitude": 37.64817,
+    "Longitude": 127.062244
+  },
+  {
+    "Branch": "중곡역",
+    "Location": "서울특별시 광진구 능동로 400 (중곡동) 1층 108,109,110,111,112,118 6개호실",
+    "Latitude": 37.5650109508732,
+    "Longitude": 127.08459679908
+  },
+  {
+    "Branch": "중구저동",
+    "Location": "서울특별시 중구 수표로 34 (저동2가)",
+    "Latitude": 37.5643686,
+    "Longitude": 126.9903382
+  },
+  {
+    "Branch": "중랑구청",
+    "Location": "서울특별시 중랑구 신내로 72",
+    "Latitude": 37.60538908,
+    "Longitude": 127.0957558
+  },
+  {
+    "Branch": "중랑역",
+    "Location": "서울특별시 중랑구 망우로30길 3 (상봉동)",
+    "Latitude": 37.5930326,
+    "Longitude": 127.0747358
+  },
+  {
+    "Branch": "중앙대",
+    "Location": "서울특별시 동작구 흑석로 75-1 (흑석동)",
+    "Latitude": 37.506933,
+    "Longitude": 126.958125
+  },
+  {
+    "Branch": "중화역",
+    "Location": "서울특별시 중랑구 봉화산로 35 1,2층",
+    "Latitude": 37.6017091240777,
+    "Longitude": 127.07841136432
+  },
+  {
+    "Branch": "진주경상대",
+    "Location": "경상남도 진주시 진주대로 510 (가좌동)",
+    "Latitude": 35.15241245,
+    "Longitude": 128.1057139
+  },
+  {
+    "Branch": "진주신안",
+    "Location": "경상남도 진주시 진양호로 353 (신안동)",
+    "Latitude": 35.184237,
+    "Longitude": 128.067852
+  },
+  {
+    "Branch": "진주중안",
+    "Location": "경상남도 진주시 진양호로527번길 3 (중안동)",
+    "Latitude": 35.192977,
+    "Longitude": 128.082987
+  },
+  {
+    "Branch": "진주칠암DT",
+    "Location": "경상남도 진주시 진주대로829번길 2 (주약동)",
+    "Latitude": 35.174907,
+    "Longitude": 128.092942
+  },
+  {
+    "Branch": "진주평거",
+    "Location": "경상남도 진주시 진양호로 206 BYC빌딩1층",
+    "Latitude": 35.172324,
+    "Longitude": 128.060063
+  },
+  {
+    "Branch": "진주혁신도시",
+    "Location": "경상남도 진주시 에나로127번길 30 (충무공동)",
+    "Latitude": 35.180806,
+    "Longitude": 128.143995
+  },
+  {
+    "Branch": "진해용원",
+    "Location": "경상남도 창원시 진해구 안골로 336 (용원동) 형제빌딩",
+    "Latitude": 35.101122,
+    "Longitude": 128.809896
+  },
+  {
+    "Branch": "진해자은DT",
+    "Location": "경상남도 창원시 진해구 진해대로 962 (자은동)",
+    "Latitude": 35.143793,
+    "Longitude": 128.706881
+  },
+  {
+    "Branch": "진해장천",
+    "Location": "경상남도 창원시 진해구 충장로 662 (장천동), [108호, 109호, 110호, 111호]",
+    "Latitude": 35.13066,
+    "Longitude": 128.70353
+  },
+  {
+    "Branch": "차병원사거리",
+    "Location": "서울특별시 강남구 봉은사로 213, 센트럴타워 (논현동)",
+    "Latitude": 37.508032,
+    "Longitude": 127.035373
+  },
+  {
+    "Branch": "창동이마트",
+    "Location": "서울특별시 도봉구 노해로65길 4 (창동)",
+    "Latitude": 37.651645,
+    "Longitude": 127.046869
+  },
+  {
+    "Branch": "창원내서",
+    "Location": "경상남도 창원시 마산회원구 내서읍 광려천서로 81",
+    "Latitude": 35.2490312214725,
+    "Longitude": 128.510681026083
+  },
+  {
+    "Branch": "창원리베라",
+    "Location": "경상남도 창원시 성산구 중앙대로100번길 9 (상남동)",
+    "Latitude": 35.223387,
+    "Longitude": 128.680163
+  },
+  {
+    "Branch": "창원마창대교",
+    "Location": "경상남도 창원시 성산구 삼귀로 159 (귀곡동)",
+    "Latitude": 35.170623,
+    "Longitude": 128.597273
+  },
+  {
+    "Branch": "창원반림",
+    "Location": "경상남도 창원시 성산구 반송로 150 (반림동)",
+    "Latitude": 35.2359692897466,
+    "Longitude": 128.671852378774
+  },
+  {
+    "Branch": "창원상남동R",
+    "Location": "경상남도 창원시 성산구 상남로 132 (상남동)",
+    "Latitude": 35.22446767,
+    "Longitude": 128.6839546
+  },
+  {
+    "Branch": "창원상남로",
+    "Location": "경상남도 창원시 성산구 상남로 88 (상남동)",
+    "Latitude": 35.2213,
+    "Longitude": 128.681
+  },
+  {
+    "Branch": "창원상남사거리",
+    "Location": "경상남도 창원시 성산구 단정로 25",
+    "Latitude": 35.2201968,
+    "Longitude": 128.6834225
+  },
+  {
+    "Branch": "창원상남중앙",
+    "Location": "경상남도 창원시 성산구 마디미로 20 (상남동)",
+    "Latitude": 35.222756,
+    "Longitude": 128.684363
+  },
+  {
+    "Branch": "창원시티세븐",
+    "Location": "경상남도 창원시 성산구 원이대로 332 (대원동)",
+    "Latitude": 35.24025455,
+    "Longitude": 128.6527585
+  },
+  {
+    "Branch": "창원역DT",
+    "Location": "경상남도 창원시 의창구 의창대로 68 (팔용동)",
+    "Latitude": 35.257066,
+    "Longitude": 128.607861
+  },
+  {
+    "Branch": "창원용지호수",
+    "Location": "경상남도 창원시 성산구 용지로169번길 1 (용호동)",
+    "Latitude": 35.229881,
+    "Longitude": 128.68189
+  },
+  {
+    "Branch": "창원유니시티",
+    "Location": "경상남도 창원시 의창구 중동중앙로 47 (중동)",
+    "Latitude": 35.256507,
+    "Longitude": 128.624929
+  },
+  {
+    "Branch": "창원중앙역",
+    "Location": "경상남도 창원시 의창구 용동로 91 (사림동)",
+    "Latitude": 35.238753,
+    "Longitude": 128.701406
+  },
+  {
+    "Branch": "창원파티마병원",
+    "Location": "경상남도 창원시 의창구 창이대로 45 (명서동)",
+    "Latitude": 35.2374,
+    "Longitude": 128.64592
+  },
+  {
+    "Branch": "창원팔용",
+    "Location": "경상남도 창원시 의창구 팔용로 419 (팔용동)",
+    "Latitude": 35.254521,
+    "Longitude": 128.611915
+  },
+  {
+    "Branch": "창원호계DT",
+    "Location": "경상남도 창원시 마산회원구 내서읍 호원로 315",
+    "Latitude": 35.261507,
+    "Longitude": 128.523036
+  },
+  {
+    "Branch": "천안두정",
+    "Location": "충청남도 천안시 서북구 부성4길 3 (부성1동)",
+    "Latitude": 36.833981,
+    "Longitude": 127.134838
+  },
+  {
+    "Branch": "천안두정역DT",
+    "Location": "충청남도 천안시 서북구 두정로 264 (두정동)",
+    "Latitude": 36.8328788780973,
+    "Longitude": 127.146315621781
+  },
+  {
+    "Branch": "천안백석",
+    "Location": "충청남도 천안시 서북구 백석로 85-4 (백석동)",
+    "Latitude": 36.823793,
+    "Longitude": 127.121751
+  },
+  {
+    "Branch": "천안불당",
+    "Location": "충청남도 천안시 서북구 불당4로 91 (불당동)",
+    "Latitude": 36.8100104,
+    "Longitude": 127.1109606
+  },
+  {
+    "Branch": "천안불당DT",
+    "Location": "충청남도 천안시 서북구 불당34길 4 (불당동)",
+    "Latitude": 36.805399,
+    "Longitude": 127.10609
+  },
+  {
+    "Branch": "천안서부대로DT",
+    "Location": "충청남도 천안시 서북구 서부대로 405 (쌍용동)",
+    "Latitude": 36.8035728,
+    "Longitude": 127.12718
+  },
+  {
+    "Branch": "천안서북이마트",
+    "Location": "충청남도 천안시 서북구 삼성대로 20 (백석동)",
+    "Latitude": 36.838876,
+    "Longitude": 127.122399
+  },
+  {
+    "Branch": "천안성정DT",
+    "Location": "충청남도 천안시 서북구 동서대로 154 (성정동)",
+    "Latitude": 36.8253941,
+    "Longitude": 127.1403512
+  },
+  {
+    "Branch": "천안시청",
+    "Location": "충청남도 천안시 서북구 불당22대로 67 (불당동)",
+    "Latitude": 36.8165367,
+    "Longitude": 127.1065647
+  },
+  {
+    "Branch": "천안신부동",
+    "Location": "충청남도 천안시 동남구 만남로 9 (신안동)",
+    "Latitude": 36.81917993,
+    "Longitude": 127.1529981
+  },
+  {
+    "Branch": "천안신불당",
+    "Location": "충청남도 천안시 서북구 불당33길 24 (불당동)",
+    "Latitude": 36.812323,
+    "Longitude": 127.108287
+  },
+  {
+    "Branch": "천안신부R",
+    "Location": "충청남도 천안시 동남구 만남로 43 (신부동) 아라리오갤러리",
+    "Latitude": 36.819309,
+    "Longitude": 127.157715
+  },
+  {
+    "Branch": "천안쌍용역",
+    "Location": "충청남도 천안시 서북구 충무로 133 (쌍용동)",
+    "Latitude": 36.793123,
+    "Longitude": 127.12223
+  },
+  {
+    "Branch": "천안아산역",
+    "Location": "충청남도 아산시 배방읍 고속철대로 147 101~105호",
+    "Latitude": 36.797641,
+    "Longitude": 127.105792
+  },
+  {
+    "Branch": "천안안서",
+    "Location": "충청남도 천안시 동남구 안서3길 3 (안서동)",
+    "Latitude": 36.830087,
+    "Longitude": 127.179779
+  },
+  {
+    "Branch": "천안업성레이크",
+    "Location": "충청남도 천안시 서북구 업성수변로 69 (성성동)",
+    "Latitude": 36.8455354220818,
+    "Longitude": 127.138131101768
+  },
+  {
+    "Branch": "천안이마트",
+    "Location": "충청남도 천안시 서북구 충무로 187 (쌍용동) 천안이마트 1층",
+    "Latitude": 36.795879,
+    "Longitude": 127.127159
+  },
+  {
+    "Branch": "천안청당",
+    "Location": "충청남도 천안시 동남구 청수14로 102 (청당동)",
+    "Latitude": 36.785895,
+    "Longitude": 127.157564
+  },
+  {
+    "Branch": "천안IC DT",
+    "Location": "충청남도 천안시 동남구 신부15길 3 (신부동)",
+    "Latitude": 36.82025,
+    "Longitude": 127.1615
+  },
+  {
+    "Branch": "천호대로길동",
+    "Location": "서울특별시 강동구 천호대로 1131 거산 유팰리스",
+    "Latitude": 37.534651,
+    "Longitude": 127.13721
+  },
+  {
+    "Branch": "천호로데오",
+    "Location": "서울특별시 강동구 천호대로 1037 (천호동)",
+    "Latitude": 37.5378069,
+    "Longitude": 127.1273094
+  },
+  {
+    "Branch": "천호사거리",
+    "Location": "서울특별시 강동구 올림픽로 651 (천호동)",
+    "Latitude": 37.539702,
+    "Longitude": 127.123542
+  },
+  {
+    "Branch": "천호역",
+    "Location": "서울특별시 강동구 천호대로 1012, 태승빌딩 (성내동)",
+    "Latitude": 37.53795191,
+    "Longitude": 127.1245793
+  },
+  {
+    "Branch": "천호이마트",
+    "Location": "서울특별시 강동구 천호대로 1015-14 (천호동) 이마트별관",
+    "Latitude": 37.538933,
+    "Longitude": 127.125214
+  },
+  {
+    "Branch": "청계산입구역",
+    "Location": "서울특별시 서초구 청계산로 203 (신원동)",
+    "Latitude": 37.447323,
+    "Longitude": 127.05625
+  },
+  {
+    "Branch": "청계크리스탈스퀘어",
+    "Location": "서울특별시 중구 청계천로 106 (수표동)",
+    "Latitude": 37.5679,
+    "Longitude": 126.98933
+  },
+  {
+    "Branch": "청담",
+    "Location": "서울특별시 강남구 도산대로 532, 인희빌딩 1층 (청담동)",
+    "Latitude": 37.5243631,
+    "Longitude": 127.0515599
+  },
+  {
+    "Branch": "청담공원",
+    "Location": "서울특별시 강남구 학동로 506 (삼성동)",
+    "Latitude": 37.5186549,
+    "Longitude": 127.0514387
+  },
+  {
+    "Branch": "청담사거리",
+    "Location": "서울특별시 강남구 도산대로 458 (청담동) 리츠타워",
+    "Latitude": 37.5236351,
+    "Longitude": 127.0468651
+  },
+  {
+    "Branch": "청담스타R",
+    "Location": "서울특별시 강남구 도산대로57길 24 (청담동)",
+    "Latitude": 37.525216,
+    "Longitude": 127.041827
+  },
+  {
+    "Branch": "청담영동대로",
+    "Location": "서울특별시 강남구 영동대로 720 (청담동)",
+    "Latitude": 37.522156,
+    "Longitude": 127.056449
+  },
+  {
+    "Branch": "청량리역사",
+    "Location": "서울특별시 동대문구 왕산로 214 (전농동)",
+    "Latitude": 37.57945,
+    "Longitude": 127.04785
+  },
+  {
+    "Branch": "청주강서",
+    "Location": "충청북도 청주시 흥덕구 강서로 121 (강서동)",
+    "Latitude": 36.625422,
+    "Longitude": 127.430108
+  },
+  {
+    "Branch": "청주복대지웰",
+    "Location": "충청북도 청주시 흥덕구 대농로 52 (복대동)",
+    "Latitude": 36.64182,
+    "Longitude": 127.42812
+  },
+  {
+    "Branch": "청주봉명DT",
+    "Location": "충청북도 청주시 흥덕구 1순환로 514 (봉명동)",
+    "Latitude": 36.646765,
+    "Longitude": 127.464772
+  },
+  {
+    "Branch": "청주분평DT",
+    "Location": "충청북도 청주시 서원구 1순환로 1154 (분평동)",
+    "Latitude": 36.605664,
+    "Longitude": 127.494821
+  },
+  {
+    "Branch": "청주비하DT",
+    "Location": "충청북도 청주시 흥덕구 2순환로 1078 (비하동)",
+    "Latitude": 36.6384642730933,
+    "Longitude": 127.422337880343
+  },
+  {
+    "Branch": "청주사직DT",
+    "Location": "충청북도 청주시 서원구 사직대로 302 (사직동)",
+    "Latitude": 36.635848,
+    "Longitude": 127.481034
+  },
+  {
+    "Branch": "청주서문",
+    "Location": "충청북도 청주시 상당구 무심동로392번길 20 (서문동)",
+    "Latitude": 36.635373,
+    "Longitude": 127.486041
+  },
+  {
+    "Branch": "청주성화",
+    "Location": "충청북도 청주시 서원구 복대로 5 (개신동)",
+    "Latitude": 36.6176114,
+    "Longitude": 127.4460855
+  },
+  {
+    "Branch": "청주오송",
+    "Location": "충청북도 청주시 흥덕구 오송읍 오송생명로 220",
+    "Latitude": 36.629921,
+    "Longitude": 127.33282
+  },
+  {
+    "Branch": "청주용담DT",
+    "Location": "충청북도 청주시 상당구 산성로 129 (용담동)",
+    "Latitude": 36.634172,
+    "Longitude": 127.50511
+  },
+  {
+    "Branch": "청주용암DT",
+    "Location": "충청북도 청주시 상당구 1순환로 1243 (용암동)",
+    "Latitude": 36.607867,
+    "Longitude": 127.503945
+  },
+  {
+    "Branch": "청주율량DT",
+    "Location": "충청북도 청주시 청원구 충청대로107번길 8 (율량동)",
+    "Latitude": 36.66623,
+    "Longitude": 127.493207
+  },
+  {
+    "Branch": "청주이마트",
+    "Location": "충청북도 청주시 서원구 청남로 1853 (미평동)",
+    "Latitude": 36.6011458,
+    "Longitude": 127.4746811
+  },
+  {
+    "Branch": "청주지웰시티",
+    "Location": "충청북도 청주시 흥덕구 대농로 43 (복대동) 신영지웰시티 1차 상업시설",
+    "Latitude": 36.643359,
+    "Longitude": 127.427107
+  },
+  {
+    "Branch": "청주터미널",
+    "Location": "충청북도 청주시 흥덕구 풍산로 15 (가경동)",
+    "Latitude": 36.626769,
+    "Longitude": 127.432035
+  },
+  {
+    "Branch": "춘천구봉산R",
+    "Location": "강원도 춘천시 동면 순환대로 1154-63",
+    "Latitude": 37.888306,
+    "Longitude": 127.776182
+  },
+  {
+    "Branch": "춘천명동",
+    "Location": "강원도 춘천시 중앙로 57 (중앙로2가)",
+    "Latitude": 37.87999215,
+    "Longitude": 127.7275212
+  },
+  {
+    "Branch": "춘천석사DT",
+    "Location": "강원도 춘천시 후석로 13 (석사동)",
+    "Latitude": 37.856608,
+    "Longitude": 127.739326
+  },
+  {
+    "Branch": "춘천온의",
+    "Location": "강원도 춘천시 방송길 104 (온의동)",
+    "Latitude": 37.867636,
+    "Longitude": 127.720852
+  },
+  {
+    "Branch": "춘천이마트",
+    "Location": "강원도 춘천시 경춘로 2353 (온의동) E-마트 춘천점내 1층",
+    "Latitude": 37.86381381,
+    "Longitude": 127.71833
+  },
+  {
+    "Branch": "춘천퇴계DT",
+    "Location": "강원도 춘천시 안마산로 95 (퇴계동)",
+    "Latitude": 37.855291,
+    "Longitude": 127.726209
+  },
+  {
+    "Branch": "춘천후평DT",
+    "Location": "강원도 춘천시 후석로 318 (후평동)",
+    "Latitude": 37.879435,
+    "Longitude": 127.750579
+  },
+  {
+    "Branch": "충남대정문",
+    "Location": "대전광역시 유성구 대학로 82 (궁동)",
+    "Latitude": 36.36066,
+    "Longitude": 127.34464
+  },
+  {
+    "Branch": "충남도청",
+    "Location": "충청남도 홍성군 홍북읍 청사로150번길 24",
+    "Latitude": 36.657028,
+    "Longitude": 126.681598
+  },
+  {
+    "Branch": "충남보령DT",
+    "Location": "충청남도 보령시 대해로 101 (궁촌동)",
+    "Latitude": 36.3408254,
+    "Longitude": 126.5893248
+  },
+  {
+    "Branch": "충무로역",
+    "Location": "서울특별시 중구 퇴계로 197, 충무빌딩 1층 (필동 2가)",
+    "Latitude": 37.561499,
+    "Longitude": 126.993864
+  },
+  {
+    "Branch": "충북대",
+    "Location": "충청북도 청주시 서원구 내수동로 113 (사창동)",
+    "Latitude": 36.633965,
+    "Longitude": 127.459715
+  },
+  {
+    "Branch": "충북증평",
+    "Location": "충청북도 증평군 증평읍 광장로 40",
+    "Latitude": 36.789084,
+    "Longitude": 127.578648
+  },
+  {
+    "Branch": "충북혁신도시",
+    "Location": "충청북도 음성군 맹동면 원중로 1416",
+    "Latitude": 36.908813,
+    "Longitude": 127.542587
+  },
+  {
+    "Branch": "충장서림",
+    "Location": "광주광역시 동구 충장로 93-5 (금남로2가, 무등맨션)",
+    "Latitude": 35.14808817,
+    "Longitude": 126.9173077
+  },
+  {
+    "Branch": "충장일가",
+    "Location": "광주광역시 동구 서석로 43 (충장로1가)",
+    "Latitude": 35.146797,
+    "Longitude": 126.918252
+  },
+  {
+    "Branch": "충정로역",
+    "Location": "서울특별시 서대문구 충정로 23",
+    "Latitude": 37.56137,
+    "Longitude": 126.963219
+  },
+  {
+    "Branch": "충정타워",
+    "Location": "서울특별시 서대문구 서소문로 21, 충정타워빌딩 1층 (충정로3가)",
+    "Latitude": 37.559869,
+    "Longitude": 126.96411
+  },
+  {
+    "Branch": "충주교현DT",
+    "Location": "충청북도 충주시 금봉대로 358 (교현동)",
+    "Latitude": 36.9669539347259,
+    "Longitude": 127.947289361446
+  },
+  {
+    "Branch": "충주시청DT",
+    "Location": "충청북도 충주시 국원대로 208-1 (금릉동)",
+    "Latitude": 36.9900658,
+    "Longitude": 127.9287563
+  },
+  {
+    "Branch": "충주연수",
+    "Location": "충청북도 충주시 계명대로 227 (연수동)",
+    "Latitude": 36.982721,
+    "Longitude": 127.939889
+  },
+  {
+    "Branch": "충주터미널",
+    "Location": "충청북도 충주시 봉계13길 2 (봉방동)",
+    "Latitude": 36.980662,
+    "Longitude": 127.915191
+  },
+  {
+    "Branch": "충주호암DT",
+    "Location": "충청북도 충주시 중원대로 3245 (호암동)",
+    "Latitude": 36.959262,
+    "Longitude": 127.923655
+  },
+  {
+    "Branch": "코엑스몰",
+    "Location": "서울특별시 강남구 영동대로 513 (삼성동) O103호",
+    "Latitude": 37.513715,
+    "Longitude": 127.059245
+  },
+  {
+    "Branch": "코엑스별마당",
+    "Location": "서울특별시 강남구 영동대로 513 (삼성동)",
+    "Latitude": 37.51015,
+    "Longitude": 127.060275
+  },
+  {
+    "Branch": "코엑스사거리",
+    "Location": "서울특별시 강남구 영동대로 616 (삼성동)",
+    "Latitude": 37.515351,
+    "Longitude": 127.060109
+  },
+  {
+    "Branch": "코엑스아셈타워",
+    "Location": "서울특별시 강남구 영동대로 517 (삼성동)",
+    "Latitude": 37.513019,
+    "Longitude": 127.059838
+  },
+  {
+    "Branch": "큰길타워",
+    "Location": "서울특별시 강남구 테헤란로 223, 큰길타워빌딩 (역삼동)",
+    "Latitude": 37.50236693,
+    "Longitude": 127.0407
+  },
+  {
+    "Branch": "타임스퀘어2F",
+    "Location": "서울특별시 영등포구 영중로 15 지상2층 (영등포동4가)",
+    "Latitude": 37.516985,
+    "Longitude": 126.903387
+  },
+  {
+    "Branch": "타임스퀘어B2",
+    "Location": "서울특별시 영등포구 영중로 15, 지하2층 (영등포동4가)",
+    "Latitude": 37.516985,
+    "Longitude": 126.903387
+  },
+  {
+    "Branch": "타임스퀘어R",
+    "Location": "서울특별시 영등포구 영중로 15 지하 1층 (영등포동4가)",
+    "Latitude": 37.51755,
+    "Longitude": 126.90516
+  },
+  {
+    "Branch": "태릉입구역DT",
+    "Location": "서울특별시 노원구 화랑로 469 (공릉동)",
+    "Latitude": 37.61942,
+    "Longitude": 127.07932
+  },
+  {
+    "Branch": "태평로",
+    "Location": "서울특별시 중구 세종대로 72, 대영빌딩 1층 (태평로2가)",
+    "Latitude": 37.56248285,
+    "Longitude": 126.9767928
+  },
+  {
+    "Branch": "테헤란로아남타워",
+    "Location": "서울특별시 강남구 테헤란로 311 (역삼동)",
+    "Latitude": 37.50383,
+    "Longitude": 127.04487
+  },
+  {
+    "Branch": "통영이마트",
+    "Location": "경상남도 통영시 광도면 죽림4로 9",
+    "Latitude": 34.887148,
+    "Longitude": 128.418047
+  },
+  {
+    "Branch": "파라스파라서울",
+    "Location": "서울특별시 강북구 삼양로 689 (우이동)[*미고시]",
+    "Latitude": 37.664380074618,
+    "Longitude": 127.008566467101
+  },
+  {
+    "Branch": "파미에파크R",
+    "Location": "서울특별시 서초구 사평대로 205 (반포동) CENTRALCITY",
+    "Latitude": 37.5030521,
+    "Longitude": 127.004362
+  },
+  {
+    "Branch": "팔레드시즈",
+    "Location": "부산광역시 해운대구 해운대해변로298번길 24, 팔래드시즈 1-3호, 2-3호 (중동)",
+    "Latitude": 35.1601225,
+    "Longitude": 129.1665774
+  },
+  {
+    "Branch": "퍼시픽타워",
+    "Location": "서울특별시 중구 세종대로9길 41, 퍼시픽타워 1층 (서소문동)",
+    "Latitude": 37.56132157,
+    "Longitude": 126.9730264
+  },
+  {
+    "Branch": "포스코",
+    "Location": "서울특별시 강남구 삼성로86길 7, 1층 (대치동)",
+    "Latitude": 37.50576,
+    "Longitude": 127.057966
+  },
+  {
+    "Branch": "포스코사거리",
+    "Location": "서울특별시 강남구 테헤란로 505 (삼성동) 화진빌딩",
+    "Latitude": 37.5075307,
+    "Longitude": 127.0574271
+  },
+  {
+    "Branch": "포이",
+    "Location": "서울특별시 강남구 논현로 88 (개포동)",
+    "Latitude": 37.47781106,
+    "Longitude": 127.0451411
+  },
+  {
+    "Branch": "포포인츠명동",
+    "Location": "서울특별시 중구 삼일대로10길 36 (저동2가)",
+    "Latitude": 37.5657211,
+    "Longitude": 126.9893426
+  },
+  {
+    "Branch": "포포인츠서울역",
+    "Location": "서울특별시 용산구 한강대로 366 (동자동)",
+    "Latitude": 37.55126,
+    "Longitude": 126.97273
+  },
+  {
+    "Branch": "포항대이",
+    "Location": "경상북도 포항시 남구 포스코대로 124 (대잠동)",
+    "Latitude": 36.025372,
+    "Longitude": 129.339307
+  },
+  {
+    "Branch": "포항세명기독병원",
+    "Location": "경상북도 포항시 남구 포스코대로 351 (대도동)",
+    "Latitude": 36.017825,
+    "Longitude": 129.362026
+  },
+  {
+    "Branch": "포항시청",
+    "Location": "경상북도 포항시 남구 시청로 5 (대잠동)",
+    "Latitude": 36.018247,
+    "Longitude": 129.342089
+  },
+  {
+    "Branch": "포항쌍용DT",
+    "Location": "경상북도 포항시 남구 중흥로 122 (상도동)",
+    "Latitude": 36.0155,
+    "Longitude": 129.352589
+  },
+  {
+    "Branch": "포항애비뉴",
+    "Location": "경상북도 포항시 남구 중흥로 77 (상도동) 밸류플러스복합빌딩",
+    "Latitude": 36.013016,
+    "Longitude": 129.34869
+  },
+  {
+    "Branch": "포항양덕",
+    "Location": "경상북도 포항시 북구 장량로 162 (양덕동)",
+    "Latitude": 36.0815505,
+    "Longitude": 129.3981614
+  },
+  {
+    "Branch": "포항영일대비치",
+    "Location": "경상북도 포항시 북구 삼호로 186 (항구동)",
+    "Latitude": 36.0549919,
+    "Longitude": 129.3769806
+  },
+  {
+    "Branch": "포항오천",
+    "Location": "경상북도 포항시 남구 오천읍 원동로 15",
+    "Latitude": 35.9642032,
+    "Longitude": 129.4027158
+  },
+  {
+    "Branch": "포항이마트",
+    "Location": "경상북도 포항시 남구 냉천로 10, 이마트 포항점 1층 (인덕동)",
+    "Latitude": 35.991402,
+    "Longitude": 129.398459
+  },
+  {
+    "Branch": "포항장성DT",
+    "Location": "경상북도 포항시 북구 새천년대로 1255 (장성동)",
+    "Latitude": 36.074535,
+    "Longitude": 129.384214
+  },
+  {
+    "Branch": "포항죽도DT",
+    "Location": "경상북도 포항시 북구 새천년대로 486 699-1 에스오일",
+    "Latitude": 36.018521,
+    "Longitude": 129.347918
+  },
+  {
+    "Branch": "포항중앙",
+    "Location": "경상북도 포항시 북구 불종로 41 (신흥동)",
+    "Latitude": 36.038713,
+    "Longitude": 129.364099
+  },
+  {
+    "Branch": "포항포스코DT",
+    "Location": "경상북도 포항시 남구 동해안로6213번길 15-15 (동촌동)",
+    "Latitude": 35.996969,
+    "Longitude": 129.388271
+  },
+  {
+    "Branch": "하단중앙",
+    "Location": "부산광역시 사하구 낙동남로 1411 (하단동)",
+    "Latitude": 35.106522,
+    "Longitude": 128.966103
+  },
+  {
+    "Branch": "하버타운",
+    "Location": "부산광역시 해운대구 해운대해변로 257 (우동)",
+    "Latitude": 35.15967926,
+    "Longitude": 129.1595078
+  },
+  {
+    "Branch": "하이브랜드",
+    "Location": "서울특별시 서초구 매헌로 16, 리빙관 101호 (양재동)",
+    "Latitude": 37.46330766,
+    "Longitude": 127.0368447
+  },
+  {
+    "Branch": "하이테크시티",
+    "Location": "서울특별시 영등포구 경인로 775 (문래동3가) 에이스하이테크시티",
+    "Latitude": 37.51467062,
+    "Longitude": 126.8986474
+  },
+  {
+    "Branch": "학동사거리",
+    "Location": "서울특별시 강남구 도산대로 328 (논현동)",
+    "Latitude": 37.5223645,
+    "Longitude": 127.0379543
+  },
+  {
+    "Branch": "학동역",
+    "Location": "서울특별시 강남구 논현로 704 (논현동)",
+    "Latitude": 37.51464884,
+    "Longitude": 127.0307302
+  },
+  {
+    "Branch": "학여울역",
+    "Location": "서울특별시 강남구 영동대로 215 (대치동)",
+    "Latitude": 37.49803646,
+    "Longitude": 127.0684943
+  },
+  {
+    "Branch": "한강진역R",
+    "Location": "서울특별시 용산구 이태원로 252 (한남동)",
+    "Latitude": 37.537131,
+    "Longitude": 127.00098
+  },
+  {
+    "Branch": "한국프레스센터",
+    "Location": "서울특별시 중구 세종대로 124 (태평로1가)",
+    "Latitude": 37.567381,
+    "Longitude": 126.977859
+  },
+  {
+    "Branch": "한남동R",
+    "Location": "서울특별시 용산구 독서당로 94 (한남동)",
+    "Latitude": 37.53485,
+    "Longitude": 127.010919
+  },
+  {
+    "Branch": "한성대입구역",
+    "Location": "서울특별시 성북구 성북로 11 (성북동1가)",
+    "Latitude": 37.589054,
+    "Longitude": 127.004839
+  },
+  {
+    "Branch": "한양대",
+    "Location": "서울특별시 성동구 왕십리로 225 (행당동) 1,2층",
+    "Latitude": 37.55726984,
+    "Longitude": 127.0421649
+  },
+  {
+    "Branch": "한티역",
+    "Location": "서울특별시 강남구 도곡로 408, 디마크빌딩 101호 (대치동)",
+    "Latitude": 37.496801,
+    "Longitude": 127.055055
+  },
+  {
+    "Branch": "합정",
+    "Location": "서울특별시 마포구 월드컵로1길 14 (합정동) 마포한강푸르지오 110, 111, 112-2",
+    "Latitude": 37.54963,
+    "Longitude": 126.912999
+  },
+  {
+    "Branch": "합정메세나몰",
+    "Location": "서울특별시 마포구 양화로 45 (서교동, 메세나폴리스)",
+    "Latitude": 37.551004,
+    "Longitude": 126.913848
+  },
+  {
+    "Branch": "합정폴리스R",
+    "Location": "서울특별시 마포구 양화로 45 (서교동, 메세나폴리스)",
+    "Latitude": 37.5509,
+    "Longitude": 126.9134
+  },
+  {
+    "Branch": "해운대",
+    "Location": "부산광역시 해운대구 구남로 49 (중동) 101호",
+    "Latitude": 35.159965,
+    "Longitude": 129.162124
+  },
+  {
+    "Branch": "해운대 엑스더스카이",
+    "Location": "부산광역시 해운대구 달맞이길30",
+    "Latitude": 35.1599648,
+    "Longitude": 129.1697564
+  },
+  {
+    "Branch": "해운대달맞이",
+    "Location": "부산광역시 해운대구 달맞이길 189 (중동)",
+    "Latitude": 35.157925,
+    "Longitude": 129.182307
+  },
+  {
+    "Branch": "해운대달맞이DT",
+    "Location": "부산광역시 해운대구 달맞이길 57 (중동) 1~3층",
+    "Latitude": 35.1615043,
+    "Longitude": 129.1710436
+  },
+  {
+    "Branch": "해운대역",
+    "Location": "부산광역시 해운대구 구남로 9 (우동)",
+    "Latitude": 35.163246,
+    "Longitude": 129.159547
+  },
+  {
+    "Branch": "해운대이마트",
+    "Location": "부산광역시 해운대구 좌동순환로 511 (중동) 1층",
+    "Latitude": 35.166029,
+    "Longitude": 129.167397
+  },
+  {
+    "Branch": "해운대좌동",
+    "Location": "부산광역시 해운대구 좌동순환로 178 (좌동)",
+    "Latitude": 35.1775937,
+    "Longitude": 129.1755895
+  },
+  {
+    "Branch": "해운대중동역",
+    "Location": "부산광역시 해운대구 좌동순환로 6 (중동)",
+    "Latitude": 35.1671846,
+    "Longitude": 129.1678855
+  },
+  {
+    "Branch": "해운대NC",
+    "Location": "부산광역시 해운대구 해운대로 813 (좌동)",
+    "Latitude": 35.1705843,
+    "Longitude": 129.1770927
+  },
+  {
+    "Branch": "현대동구",
+    "Location": "울산광역시 동구 방어진순환도로 899 (서부동) 현대백화점주차장",
+    "Latitude": 35.52114999,
+    "Longitude": 129.4317341
+  },
+  {
+    "Branch": "현대동구5F",
+    "Location": "울산광역시 동구 방어진순환도로 899 (서부동)",
+    "Latitude": 35.52166,
+    "Longitude": 129.431357
+  },
+  {
+    "Branch": "현대디큐브2F",
+    "Location": "서울특별시 구로구 경인로 662 (신도림동)",
+    "Latitude": 37.508636,
+    "Longitude": 126.889225
+  },
+  {
+    "Branch": "현대디큐브B2",
+    "Location": "서울특별시 구로구 경인로 662 (신도림동)",
+    "Latitude": 37.508828,
+    "Longitude": 126.889488
+  },
+  {
+    "Branch": "현대목동",
+    "Location": "서울특별시 양천구 목동동로 257 (목동, 현대하이페리온) 지하2층",
+    "Latitude": 37.526848,
+    "Longitude": 126.875023
+  },
+  {
+    "Branch": "현대미아",
+    "Location": "서울특별시 성북구 동소문로 315 (길음동) 지하1층",
+    "Latitude": 37.60837822,
+    "Longitude": 127.0287483
+  },
+  {
+    "Branch": "현대신촌",
+    "Location": "서울특별시 서대문구 신촌로 83 (창천동)",
+    "Latitude": 37.5560830579515,
+    "Longitude": 126.935844876509
+  },
+  {
+    "Branch": "현대충청",
+    "Location": "충청북도 청주시 흥덕구 직지대로 308 (복대동)",
+    "Latitude": 36.644407,
+    "Longitude": 127.426305
+  },
+  {
+    "Branch": "혜화역",
+    "Location": "서울특별시 종로구 대학로12길 4 (동숭동)1~2층",
+    "Latitude": 37.5824779,
+    "Longitude": 127.002185
+  },
+  {
+    "Branch": "홍대공항철도역",
+    "Location": "서울특별시 마포구 양화로 178 (동교동)",
+    "Latitude": 37.557491,
+    "Longitude": 126.925146
+  },
+  {
+    "Branch": "홍대삼거리",
+    "Location": "서울특별시 마포구 와우산로 64 (상수동)",
+    "Latitude": 37.550266,
+    "Longitude": 126.923179
+  },
+  {
+    "Branch": "홍대역",
+    "Location": "서울특별시 마포구 양화로 165, 상진빌딩 1층 (동교동)",
+    "Latitude": 37.557175,
+    "Longitude": 126.923654
+  },
+  {
+    "Branch": "홍대역8번출구",
+    "Location": "서울특별시 마포구 양화로 166 (동교동)",
+    "Latitude": 37.556743503599,
+    "Longitude": 126.924166543608
+  },
+  {
+    "Branch": "홍대입구역사거리R",
+    "Location": "서울특별시 마포구 양화로 125 (서교동)",
+    "Latitude": 37.554636,
+    "Longitude": 126.92036
+  },
+  {
+    "Branch": "홍제역",
+    "Location": "서울특별시 서대문구 통일로 451 (홍제동)",
+    "Latitude": 37.588658,
+    "Longitude": 126.943864
+  },
+  {
+    "Branch": "화곡동",
+    "Location": "서울특별시 강서구 화곡로 142(화곡동)",
+    "Latitude": 37.5405115,
+    "Longitude": 126.8372413
+  },
+  {
+    "Branch": "화곡DT",
+    "Location": "서울특별시 강서구 등촌로 57 (화곡동)",
+    "Latitude": 37.535149,
+    "Longitude": 126.863232
+  },
+  {
+    "Branch": "화명강변DT",
+    "Location": "부산광역시 북구 금곡대로77 (덕천동)",
+    "Latitude": 35.216972,
+    "Longitude": 129.004611
+  },
+  {
+    "Branch": "환구단",
+    "Location": "서울특별시 중구 소공로 112 (소공동)",
+    "Latitude": 37.564448,
+    "Longitude": 126.979157
+  },
+  {
+    "Branch": "황학사거리",
+    "Location": "서울특별시 성동구 왕십리로 410 (하왕십리동, 센트라스)",
+    "Latitude": 37.567644,
+    "Longitude": 127.023697
+  },
+  {
+    "Branch": "황학캐슬",
+    "Location": "서울특별시 중구 청계천로 400 (황학동) 롯데캐슬베네치아",
+    "Latitude": 37.57124,
+    "Longitude": 127.022905
+  },
+  {
+    "Branch": "회기역사거리",
+    "Location": "서울특별시 동대문구 이문로 37 (회기동)",
+    "Latitude": 37.590784,
+    "Longitude": 127.056098
+  },
+  {
+    "Branch": "회현역",
+    "Location": "서울특별시 중구 퇴계로 72 (회현동) 리더스뷰남산",
+    "Latitude": 37.5589809,
+    "Longitude": 126.9807467
+  },
+  {
+    "Branch": "효창공원앞역",
+    "Location": "서울특별시 용산구 백범로 313 (효창동, 용산 롯데캐슬 센터포레)",
+    "Latitude": 37.539305,
+    "Longitude": 126.96306
+  },
+  {
+    "Branch": "BIFC Mall",
+    "Location": "부산광역시 남구 문현금융로 40 (문현동) 부산국제금융센터",
+    "Latitude": 35.146436,
+    "Longitude": 129.065882
+  },
+  {
+    "Branch": "BIFF광장",
+    "Location": "부산광역시 중구 비프광장로 25 (남포동3가)",
+    "Latitude": 35.0989623,
+    "Longitude": 129.0280528
+  },
+  {
+    "Branch": "GS타워",
+    "Location": "서울특별시 강남구 논현로 508 (역삼동)",
+    "Latitude": 37.5018592,
+    "Longitude": 127.0372776
+  },
+  {
+    "Branch": "KG타워",
+    "Location": "서울특별시 중구 통일로 92 (순화동) KG타워",
+    "Latitude": 37.563528,
+    "Longitude": 126.969144
+  },
+  {
+    "Branch": "SSG랜더스필드1F",
+    "Location": "인천광역시 미추홀구 매소홀로 618 (문학동)",
+    "Latitude": 37.43617,
+    "Longitude": 126.68911
+  },
+  {
+    "Branch": "SSG랜더스필드2F",
+    "Location": "인천광역시 미추홀구 매소홀로 618 (문학동)",
+    "Latitude": 37.436624,
+    "Longitude": 126.692362
+  },
+  {
+    "Branch": "SSG마켓도곡R",
+    "Location": "서울특별시 강남구 언주로30길 57, 타워팰리스Ⅱ F 지하1층 (도곡동)",
+    "Latitude": 37.490298,
+    "Longitude": 127.054895
+  },
+  {
+    "Branch": "W-Mall",
+    "Location": "서울특별시 금천구 디지털로 188 (가산동)",
+    "Latitude": 37.47730499,
+    "Longitude": 126.8876908
+  }
+]

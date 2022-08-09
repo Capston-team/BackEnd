@@ -1,0 +1,210 @@
+{
+  "__collections__": {
+    "PARISCROISSANT": [
+      {
+        "Branch": "부산덕천점",
+        "Location": "부산광역시 북구 의성로 100",
+        "Latitude": 35.21168462,
+        "Longitude": 129.0101733
+      },
+      {
+        "Branch": "해운대장산점",
+        "Location": "부산광역시 해운대구 해운대로 814",
+        "Latitude": 35.1695911,
+        "Longitude": 129.177694
+      },
+      {
+        "Branch": "진월중앙점",
+        "Location": "광주광역시 남구 효우로 79",
+        "Latitude": 35.10652736,
+        "Longitude": 126.9046737
+      },
+      {
+        "Branch": "광주일곡점",
+        "Location": "광주광역시 북구 설죽로 517",
+        "Latitude": 35.20526185,
+        "Longitude": 126.8973203
+      },
+      {
+        "Branch": "키친판교점",
+        "Location": "경기도 성남시 분당구 대왕판교로606번길 58",
+        "Latitude": 37.39540872,
+        "Longitude": 127.1135419
+      },
+      {
+        "Branch": "남양주물류센터점",
+        "Location": "경기도 남양주시 진접읍 남가로131번길 7-1",
+        "Latitude": 37.69415216,
+        "Longitude": 127.1780887
+      },
+      {
+        "Branch": "분당서현점",
+        "Location": "경기도 성남시 분당구 서현로210번길 14",
+        "Latitude": 37.38622789,
+        "Longitude": 127.1245812
+      },
+      {
+        "Branch": "수원역점",
+        "Location": "경기도 수원시 팔달구 덕영대로 924",
+        "Latitude": 37.26566759,
+        "Longitude": 127.0000881
+      },
+      {
+        "Branch": "안양키친",
+        "Location": "경기도 안양시 만안구 덕천로72번길 85",
+        "Latitude": 37.38851826,
+        "Longitude": 126.9398156
+      },
+      {
+        "Branch": "동남물류센터",
+        "Location": "경기도 광주시 순암로 395-7",
+        "Latitude": 37.40523084,
+        "Longitude": 127.2102054
+      },
+      {
+        "Branch": "정자점",
+        "Location": "경기도 성남시 분당구 느티로 16",
+        "Latitude": 37.36815967,
+        "Longitude": 127.1062985
+      },
+      {
+        "Branch": "인천공항 문화의거리점",
+        "Location": "인천광역시 중구 공항로 272",
+        "Latitude": 37.45833126,
+        "Longitude": 126.4276898
+      },
+      {
+        "Branch": "인천공항T2교통센터점",
+        "Location": "인천광역시 중구 제2터미널대로 444",
+        "Latitude": 37.45833126,
+        "Longitude": 126.4276898
+      },
+      {
+        "Branch": "인천공항점",
+        "Location": "인천광역시 중구 공항로424번길 47",
+        "Latitude": 37.44037536,
+        "Longitude": 126.4613213
+      },
+      {
+        "Branch": "T1에어점",
+        "Location": "인천광역시 중구 공항로 272 3층",
+        "Latitude": 37.45833126,
+        "Longitude": 126.4276898
+      },
+      {
+        "Branch": "T2에어사이드점",
+        "Location": "인천광역시 중구 공항로 187",
+        "Latitude": 37.44759226,
+        "Longitude": 126.452336
+      },
+      {
+        "Branch": "T2지하점",
+        "Location": "인천광역시 중구 인중로 147",
+        "Latitude": 37.46460619,
+        "Longitude": 126.6252372
+      },
+      {
+        "Branch": "제주점",
+        "Location": "제주특별자치도 제주시 공항로 2,",
+        "Latitude": 33.50592635,
+        "Longitude": 126.4960074
+      },
+      {
+        "Branch": "홍대점",
+        "Location": "서울특별시 마포구 와우산로 94",
+        "Latitude": 37.55260046,
+        "Longitude": 126.9249219
+      },
+      {
+        "Branch": "한남점",
+        "Location": "서울특별시 용산구 독서당로 78",
+        "Latitude": 37.53394772,
+        "Longitude": 127.0092575
+      },
+      {
+        "Branch": "아크로비스타점",
+        "Location": "서울특별시 서초구 서초중앙로 188",
+        "Latitude": 37.4975015,
+        "Longitude": 127.0137201
+      },
+      {
+        "Branch": "교대역점",
+        "Location": "서울특별시 서초구 서초중앙로24길 27",
+        "Latitude": 37.49544236,
+        "Longitude": 127.0163934
+      },
+      {
+        "Branch": "여의도2호점",
+        "Location": "서울특별시 영등포구 국회대로74길 12",
+        "Latitude": 37.53007514,
+        "Longitude": 126.9210478
+      },
+      {
+        "Branch": "수서역점",
+        "Location": "서울특별시 강남구 광평로 280",
+        "Latitude": 37.48731104,
+        "Longitude": 127.1030943
+      },
+      {
+        "Branch": "서래점",
+        "Location": "서울특별시 서초구 서래로5길 2",
+        "Latitude": 37.49791056,
+        "Longitude": 126.9980853
+      },
+      {
+        "Branch": "연세세브란스점",
+        "Location": "서울특별시 서대문구 연세로 50",
+        "Latitude": 37.56380069,
+        "Longitude": 126.9429168
+      },
+      {
+        "Branch": "광화문점",
+        "Location": "서울특별시 종로구 종로 1",
+        "Latitude": 37.57094772,
+        "Longitude": 126.9779085
+      },
+      {
+        "Branch": "반포점",
+        "Location": "서울특별시 서초구 신반포로 41",
+        "Latitude": 37.50195112,
+        "Longitude": 126.9890174
+      },
+      {
+        "Branch": "키친올림픽공원점",
+        "Location": "서울특별시 송파구 올림픽로 424",
+        "Latitude": 37.52034939,
+        "Longitude": 127.1157765
+      },
+      {
+        "Branch": "목동점",
+        "Location": "서울특별시 양천구 목동동로 293",
+        "Latitude": 37.5281659,
+        "Longitude": 126.8757526
+      },
+      {
+        "Branch": "리나스숭례문점",
+        "Location": "서울특별시 중구 칠패로 46",
+        "Latitude": 37.55954278,
+        "Longitude": 126.9740123
+      },
+      {
+        "Branch": "연세세브란스점",
+        "Location": "서울특별시 서대문구 연세로 50",
+        "Latitude": 37.56139406,
+        "Longitude": 126.9408116
+      },
+      {
+        "Branch": "키친삼성역점",
+        "Location": "서울특별시 강남구 테헤란로 528",
+        "Latitude": 37.50808552,
+        "Longitude": 127.0619798
+      },
+      {
+        "Branch": "예술의전당점",
+        "Location": "서울특별시 서초구 남부순환로 2406",
+        "Latitude": 37.48033078,
+        "Longitude": 127.0141267
+      }
+    ]
+  }
+}
