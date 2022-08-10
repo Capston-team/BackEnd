@@ -16,3 +16,7 @@
 
 2022-08-10 13:13:35 info: [0mGET /capstone/store-address?latitude=36.833956&longitude=127.135057&category=CONV&carrier=SKT&rate=GOLD [32m200[0m 1826.559 ms - 1754[0m
 
+2022-08-10 13:30:54 info: [0mGET /capstone/store-address?latitude=36.833956&longitude=127.135057&category=CONV&carrier=SKT&rate=GOLD [32m200[0m 2009.094 ms - 1754[0m
+
+2022-08-10 13:31:11 info: [0mGET /capstone/store-address?latitude=36.833956&longitude=127.135057&category=CONV&carrier=SKT&rate=GOLD [32m200[0m 2189.332 ms - 1754[0m
+
